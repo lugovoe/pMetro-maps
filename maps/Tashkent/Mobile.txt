@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-CityName=Ташкент
-Caption=Моб.связь
-MenuName=Разное\Моб.связь
+CityName=РўР°С€РєРµРЅС‚
+Caption=РњРѕР±.СЃРІСЏР·СЊ
+MenuName=Р Р°Р·РЅРѕРµ\РњРѕР±.СЃРІСЏР·СЊ
 StringToAdd='  '
 
 [Chilonzor]
@@ -10,11 +10,11 @@ StringToAdd='  '
 ;Chilonzor=
 ;Mirzo Ulug'bek=
 ;Novza=
-Milliy Bog'=Офис провайдера "УзНЕТ"
+Milliy Bog'=РћС„РёСЃ РїСЂРѕРІР°Р№РґРµСЂР° "РЈР·РќР•Рў"
 ;Bunyodkor=
 ;Paxtakor=
 ;Mustaqillik Maydoni=
-Amir Temur Xiyoboni=Центральный офис сотовой компании "Beeline"
+Amir Temur Xiyoboni=Р¦РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РѕС„РёСЃ СЃРѕС‚РѕРІРѕР№ РєРѕРјРїР°РЅРёРё "Beeline"
 ;Hamid Olimjon=
 ;Pushkin=
 ;Buyuk Ipak Yo'li=
@@ -27,14 +27,14 @@ Amir Temur Xiyoboni=Центральный офис сотовой компании "Beeline"
 ;Alisher Navoiy=
 ;O'zbekiston=
 ;Kosmonavtlar=
-Oybek=Головные офисы провайдеров TPS (TechnoProSystem), BCC
+Oybek=Р“РѕР»РѕРІРЅС‹Рµ РѕС„РёСЃС‹ РїСЂРѕРІР°Р№РґРµСЂРѕРІ TPS (TechnoProSystem), BCC
 ;Toshkent=
 ;Mashinasozlar=
 ;Do'stlik=
 
 [Yunusobod]
-Yunus Rajabiy=Центральный офис сотовой компании "Beeline"
-Ming O'rik=Головные офисы провайдеров TPS (TechnoProSystem), BCC
+Yunus Rajabiy=Р¦РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РѕС„РёСЃ СЃРѕС‚РѕРІРѕР№ РєРѕРјРїР°РЅРёРё "Beeline"
+Ming O'rik=Р“РѕР»РѕРІРЅС‹Рµ РѕС„РёСЃС‹ РїСЂРѕРІР°Р№РґРµСЂРѕРІ TPS (TechnoProSystem), BCC
 ;Ming O'rik=
 ;Yunus Rajabiy=
 ;Abdulla Qodiriy=

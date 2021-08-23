@@ -1,9 +1,9 @@
 [Options]
 Name=Moscow_old
-CityName=Москва
-Country=Россия
-RusName=Москва
-Comment=старая схема
+CityName=РњРѕСЃРєРІР°
+Country=Р РѕСЃСЃРёСЏ
+RusName=РњРѕСЃРєРІР°
+Comment=СЃС‚Р°СЂР°СЏ СЃС…РµРјР°
 NeedVersion=1.26.3
 
 []

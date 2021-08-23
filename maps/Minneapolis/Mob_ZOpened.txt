@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
 CityName=Minneapolis - St.Paul
-MenuName=Разное\Открытые станции
+MenuName=Р Р°Р·РЅРѕРµ\РћС‚РєСЂС‹С‚С‹Рµ СЃС‚Р°РЅС†РёРё
 Caption=z
 
 [Drivings]

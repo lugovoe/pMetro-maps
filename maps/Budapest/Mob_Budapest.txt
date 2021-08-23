@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
 CityName=Budapest
-MenuName=Моб.связь\Зона покрытия Pannon GSM, Vodafone, Westel 900, 
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\Р—РѕРЅР° РїРѕРєСЂС‹С‚РёСЏ Pannon GSM, Vodafone, Westel 900, 
 
 [Drivings]
 M2=M2,Ors Vezer tere,Stadionok,0,21

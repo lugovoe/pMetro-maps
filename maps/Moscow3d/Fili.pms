@@ -1,10 +1,10 @@
 var 
-  // ïîåçäà
+  // Ğ¿Ğ¾ĞµĞ·Ğ´Ğ°
   TrainCount: integer;
   tArrive, tDeparture, Stops, Clocks, ClipHead, ClipTail: array[0..1] of extended;
   ShowClock, DoClipHead, DoClipTail: array[0..1] of Boolean;
 
-  // ğåëüñû
+  // Ñ€ĞµĞ»ÑŒÑÑ‹
   NodeCount: integer;
   xs, xs2, ys, ys2, zs, zs2: array[0..1] of extended; 
   PathLength, PathLength2: array[0..1] of extended;
@@ -36,14 +36,14 @@ begin
   doClipHead[1] := False;
   ClipTail[1] := 0.92;
 
-  // ğàññ÷èòûâàåì äëèíó òğàññû
+  // Ñ€Ğ°ÑÑÑ‡Ğ¸Ñ‚Ñ‹Ğ²Ğ°ĞµĞ¼ Ğ´Ğ»Ğ¸Ğ½Ñƒ Ñ‚Ñ€Ğ°ÑÑÑ‹
   for j := 0 to TrainCount - 1 do begin
     PathLength[0 + j * NodeCount] := 0;
     for i := 1 to NodeCount - 1 do
       PathLength[i + j * NodeCount] := PathLength[i - 1 + j * NodeCount] + sqrt((Xs[i + j * NodeCount] - Xs[i - 1 + j * NodeCount]) ^ 2 + (Ys[i + j * NodeCount] - Ys[i - 1 + j * NodeCount]) ^ 2 + (Zs[i + j * NodeCount] - Zs[i - 1 + j * NodeCount]) ^ 2);
   end;
 
-  // ïåğåñ÷èòàåì òî÷êè îñòàíîâîê, ÷àñîâ è îáğåçêè
+  // Ğ¿ĞµÑ€ĞµÑÑ‡Ğ¸Ñ‚Ğ°ĞµĞ¼ Ñ‚Ğ¾Ñ‡ĞºĞ¸ Ğ¾ÑÑ‚Ğ°Ğ½Ğ¾Ğ²Ğ¾Ğº, Ñ‡Ğ°ÑĞ¾Ğ² Ğ¸ Ğ¾Ğ±Ñ€ĞµĞ·ĞºĞ¸
   for i := 0 to TrainCount - 1 do begin
     Stops[i] := Segment2Path(i, Stops[i]);
     Clocks[i] := Segment2Path(i, Clocks[i]);
@@ -54,15 +54,15 @@ end; // InitPath
 
 procedure Init();
 begin
-  TrainCount := 2; // êîëè÷åñòâî ÷àñîâ è ïîåçäîâ
+  TrainCount := 2; // ĞºĞ¾Ğ»Ğ¸Ñ‡ĞµÑÑ‚Ğ²Ğ¾ Ñ‡Ğ°ÑĞ¾Ğ² Ğ¸ Ğ¿Ğ¾ĞµĞ·Ğ´Ğ¾Ğ²
   VagonCount := 4;
-  StopTime := 10;        // îñòàíîâêà - 10 ñåêóíä
+  StopTime := 10;        // Ğ¾ÑÑ‚Ğ°Ğ½Ğ¾Ğ²ĞºĞ° - 10 ÑĞµĞºÑƒĞ½Ğ´
 
   InitPath;
   InitClock;
   InitTrain;
 
-  // óäàëÿåì ñòàòè÷íûå ñòóïåíüêè  
+  // ÑƒĞ´Ğ°Ğ»ÑĞµĞ¼ ÑÑ‚Ğ°Ñ‚Ğ¸Ñ‡Ğ½Ñ‹Ğµ ÑÑ‚ÑƒĞ¿ĞµĞ½ÑŒĞºĞ¸  
 //  HideObject('SUp');
 //  HideObject('SDown');
 end; // Init
@@ -71,7 +71,7 @@ procedure DrawClock1(Departure: integer);
 var i: integer;
     Hour, Mn, sec, ms: word;
 begin
-  // ğèñóåì ÷àñû
+  // Ñ€Ğ¸ÑÑƒĞµĞ¼ Ñ‡Ğ°ÑÑ‹
 //exit;
   DecodeTime(Time, Hour, Mn, Sec, MS);
 
@@ -82,7 +82,7 @@ begin
   Digit[4] := Sec div 10;
   Digit[5]:= Sec mod 10;
 
-// âğåìÿ îòïğàâëåíèÿ ïğåäûäóùåãî ïîåçäà - òğè ïîñëåäíèå öèôğû
+// Ğ²Ñ€ĞµĞ¼Ñ Ğ¾Ñ‚Ğ¿Ñ€Ğ°Ğ²Ğ»ĞµĞ½Ğ¸Ñ Ğ¿Ñ€ĞµĞ´Ñ‹Ğ´ÑƒÑ‰ĞµĞ³Ğ¾ Ğ¿Ğ¾ĞµĞ·Ğ´Ğ° - Ñ‚Ñ€Ğ¸ Ğ¿Ğ¾ÑĞ»ĞµĞ´Ğ½Ğ¸Ğµ Ñ†Ğ¸Ñ„Ñ€Ñ‹
   if (Departure >= 600) or (Departure < 0) then begin
     Digit[6] := -1;
     Digit[7] := -1;
@@ -98,7 +98,7 @@ begin
 //  Draw3dObject('Clock.ClockBody');
   Draw3dObject('Clock.Dots');
 
-  // öèôğû
+  // Ñ†Ğ¸Ñ„Ñ€Ñ‹
   glPushMatrix;
   for i := 0 to 8 do
     if (Digit[i] >= 0) and (Digit[i] <= 9) then begin
@@ -111,13 +111,13 @@ end; // DrawClock1
 procedure DrawTrainClock1(TrainNumber: integer; dY: integer);
 var Wheel1X, Wheel1Y, Wheel1Z, AngleXY1, AngleZ1: extended;
 begin
-  // ÷àñû
+  // Ñ‡Ğ°ÑÑ‹
   if ShowClock[TrainNumber] then begin
 //ShowMessage('1');
     CalcWheel(TrainNumber, Clocks[TrainNumber], Wheel1X, Wheel1Y, Wheel1Z, AngleXY1, AngleZ1);
     glPushMatrix;
     glTranslatef(Wheel1X, Wheel1Y + dY, Wheel1Z + 153);
-    glRotatef(AngleXY1, 0, 0, 1); // Ïîâîğà÷èâàåì ñöåíó íà óãîë âîêğóã îñè Z
+    glRotatef(AngleXY1, 0, 0, 1); // ĞŸĞ¾Ğ²Ğ¾Ñ€Ğ°Ñ‡Ğ¸Ğ²Ğ°ĞµĞ¼ ÑÑ†ĞµĞ½Ñƒ Ğ½Ğ° ÑƒĞ³Ğ¾Ğ» Ğ²Ğ¾ĞºÑ€ÑƒĞ³ Ğ¾ÑĞ¸ Z
     DrawClock1(t - tDeparture[TrainNumber]);
     glPopMatrix;
   end;
@@ -142,7 +142,7 @@ begin
     GetPositionAbovePeriod;
 
 
-  // ğèñóåì ïîåçäà
+  // Ñ€Ğ¸ÑÑƒĞµĞ¼ Ğ¿Ğ¾ĞµĞ·Ğ´Ğ°
   DrawSingleTrain(0, False, 1);
   DrawSingleTrain(1, False, 1);
 //  DrawPath(24);

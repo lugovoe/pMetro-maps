@@ -1,27 +1,27 @@
 [Options]
 AddToInfo=1
-CityName=Волгоград
-Caption=Ссылка
-StringToAdd='  Ссылка: '
+CityName=Р’РѕР»РіРѕРіСЂР°Рґ
+Caption=РЎСЃС‹Р»РєР°
+StringToAdd='  РЎСЃС‹Р»РєР°: '
 
-[СТ]
-;Ельшанка=
-ТЮЗ=http://foto.mail.ru/inbox/alex-zabelin/7/i-21.jpg\nhttp://foto.mail.ru/inbox/alex-zabelin/7/i-22.jpg
-Профсоюзная=http://foto.mail.ru/inbox/alex-zabelin/7/i-10.jpg\nhttp://foto.mail.ru/inbox/alex-zabelin/7/i-23.jpg\nhttp://foto.mail.ru/inbox/alex-zabelin/7/i-24.jpg
-Площадь Чекистов=http://www.volgograd.metro.ru/stations.htm
-Пионерская=http://volg_st.chat.ru/pionerskaya.htm
-Комсомольская=http://volg_st.chat.ru/komsomolskaya.htm
-Площадь Ленина=http://volg_st.chat.ru/pl_lenina.htm
-ЦПКиО=http://www.volgograd.metro.ru/stations.htm
-;Центральный Стадион=
-Мамаев Курган=http://www.volgograd.metro.ru/stations.htm
-;Дворец Спорта=
-;Площадь Возрождения=
-;ул.39-й Гвардейской Дивизии=
-;Завод "Красный Октябрь"=
-;Стадион "Монолит"=
-;Баррикады=
-;Больница Ильича=
-;Водоотстой=
-Тракторный завод=http://www.volgograd.metro.ru/stations.htm
+[РЎРў]
+;Р•Р»СЊС€Р°РЅРєР°=
+РўР®Р—=http://foto.mail.ru/inbox/alex-zabelin/7/i-21.jpg\nhttp://foto.mail.ru/inbox/alex-zabelin/7/i-22.jpg
+РџСЂРѕС„СЃРѕСЋР·РЅР°СЏ=http://foto.mail.ru/inbox/alex-zabelin/7/i-10.jpg\nhttp://foto.mail.ru/inbox/alex-zabelin/7/i-23.jpg\nhttp://foto.mail.ru/inbox/alex-zabelin/7/i-24.jpg
+РџР»РѕС‰Р°РґСЊ Р§РµРєРёСЃС‚РѕРІ=http://www.volgograd.metro.ru/stations.htm
+РџРёРѕРЅРµСЂСЃРєР°СЏ=http://volg_st.chat.ru/pionerskaya.htm
+РљРѕРјСЃРѕРјРѕР»СЊСЃРєР°СЏ=http://volg_st.chat.ru/komsomolskaya.htm
+РџР»РѕС‰Р°РґСЊ Р›РµРЅРёРЅР°=http://volg_st.chat.ru/pl_lenina.htm
+Р¦РџРљРёРћ=http://www.volgograd.metro.ru/stations.htm
+;Р¦РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РЎС‚Р°РґРёРѕРЅ=
+РњР°РјР°РµРІ РљСѓСЂРіР°РЅ=http://www.volgograd.metro.ru/stations.htm
+;Р”РІРѕСЂРµС† РЎРїРѕСЂС‚Р°=
+;РџР»РѕС‰Р°РґСЊ Р’РѕР·СЂРѕР¶РґРµРЅРёСЏ=
+;СѓР».39-Р№ Р“РІР°СЂРґРµР№СЃРєРѕР№ Р”РёРІРёР·РёРё=
+;Р—Р°РІРѕРґ "РљСЂР°СЃРЅС‹Р№ РћРєС‚СЏР±СЂСЊ"=
+;РЎС‚Р°РґРёРѕРЅ "РњРѕРЅРѕР»РёС‚"=
+;Р‘Р°СЂСЂРёРєР°РґС‹=
+;Р‘РѕР»СЊРЅРёС†Р° РР»СЊРёС‡Р°=
+;Р’РѕРґРѕРѕС‚СЃС‚РѕР№=
+РўСЂР°РєС‚РѕСЂРЅС‹Р№ Р·Р°РІРѕРґ=http://www.volgograd.metro.ru/stations.htm
 

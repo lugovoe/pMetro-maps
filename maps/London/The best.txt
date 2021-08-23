@@ -1,9 +1,9 @@
 [Options]
 AddToInfo=1
 CityName=London
-MenuName=Разное\Достопримечательности
-Caption=Достопримечательности
-StringToAdd=Достопримечательности:
+MenuName=Р Р°Р·РЅРѕРµ\Р”РѕСЃС‚РѕРїСЂРёРјРµС‡Р°С‚РµР»СЊРЅРѕСЃС‚Рё
+Caption=Р”РѕСЃС‚РѕРїСЂРёРјРµС‡Р°С‚РµР»СЊРЅРѕСЃС‚Рё
+StringToAdd=Р”РѕСЃС‚РѕРїСЂРёРјРµС‡Р°С‚РµР»СЊРЅРѕСЃС‚Рё:
 
 [Bakerloo]
 Marylebone=Regent's Park

@@ -1,0 +1,21 @@
+# To view the line-endings in files you can use the command 'git ls-files --eol'
+# It can be specified: 'w/crlf', 'w/lf', 'w/mixed'
+# Auto detect text files
+* text=auto
+
+*.log	eol=CRLF
+*.md	eol=CRLF
+*.txt	working-tree-encoding=CP1251	eol=CRLF
+
+*.cty	working-tree-encoding=CP1251	eol=CRLF
+*.grd	working-tree-encoding=CP1251	eol=CRLF
+*.map	eol=CRLF
+*.pms	working-tree-encoding=CP1251	eol=CRLF
+*.trp	eol=CRLF
+*.vec	eol=CRLF
+
+# And others formats
+*.bmp	binary
+*.gif	binary
+*.pm3d	binary
+*.png	binary

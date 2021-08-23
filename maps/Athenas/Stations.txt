@@ -1,21 +1,21 @@
 [Options]
 AddToInfo=1
-CityName=Athenas (Афины)
-MenuName=Транспорт\Ж/д станции
-Caption=Ж/д станции
-StringToAdd=' Ж/д станция '
+CityName=Athenas (РђС„РёРЅС‹)
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=Р–/Рґ СЃС‚Р°РЅС†РёРё
+StringToAdd=' Р–/Рґ СЃС‚Р°РЅС†РёСЏ '
 
 [Line 1]
-Neratziotissa=Neratziotissa. Пригородные поезда до станций Kiato и Aerothromio.
-Piraeus=Piraeus. Пригородные поезда до станции Ano Liosia.
+Neratziotissa=Neratziotissa. РџСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° РґРѕ СЃС‚Р°РЅС†РёР№ Kiato Рё Aerothromio.
+Piraeus=Piraeus. РџСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° РґРѕ СЃС‚Р°РЅС†РёРё Ano Liosia.
 
 [Line 2]
-St. Larissis=Athina-Larissis (центральный вокзал). Пригородные поезда до станций Piraeus и Ano Liosia. Поезда дальнего следования.
+St. Larissis=Athina-Larissis (С†РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РІРѕРєР·Р°Р»). РџСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° РґРѕ СЃС‚Р°РЅС†РёР№ Piraeus Рё Ano Liosia. РџРѕРµР·РґР° РґР°Р»СЊРЅРµРіРѕ СЃР»РµРґРѕРІР°РЅРёСЏ.
 
 [Line 3]
-Doukissis Plakentias=Plakentias. Пригородные поезда до станций Kiato и Aerothromio.
-Pallini=Pallini. Пригородные поезда до станций Kiato и Aerothromio.
-Peania-Kantza=Peania Cantza. Пригородные поезда до станций Kiato и Aerothromio.
-Koropi=Koropi. Пригородные поезда до станций Kiato и Aerothromio.
-Aerothromio=Aerothromio (Airport). Пригородные поезда до станции Kiato.
+Doukissis Plakentias=Plakentias. РџСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° РґРѕ СЃС‚Р°РЅС†РёР№ Kiato Рё Aerothromio.
+Pallini=Pallini. РџСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° РґРѕ СЃС‚Р°РЅС†РёР№ Kiato Рё Aerothromio.
+Peania-Kantza=Peania Cantza. РџСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° РґРѕ СЃС‚Р°РЅС†РёР№ Kiato Рё Aerothromio.
+Koropi=Koropi. РџСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° РґРѕ СЃС‚Р°РЅС†РёР№ Kiato Рё Aerothromio.
+Aerothromio=Aerothromio (Airport). РџСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° РґРѕ СЃС‚Р°РЅС†РёРё Kiato.
 

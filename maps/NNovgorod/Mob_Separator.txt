@@ -1,4 +1,4 @@
 [Options]
 AddToInfo=0
-MenuName=Моб.связь\-
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\-
 

@@ -1,9 +1,9 @@
 [Options]
 Name=San-Francisco
 CityName=San Francisco
-Country=США
-RusName=Сан-Франциско
+Country=РЎРЁРђ
+RusName=РЎР°РЅ-Р¤СЂР°РЅС†РёСЃРєРѕ
 NeedVersion=1.26.3
-MapAuthors=Схема от 11.09.2006г.
-DelayNames=День,Ночь
+MapAuthors=РЎС…РµРјР° РѕС‚ 11.09.2006Рі.
+DelayNames=Р”РµРЅСЊ,РќРѕС‡СЊ
 

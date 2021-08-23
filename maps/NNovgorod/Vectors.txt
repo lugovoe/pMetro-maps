@@ -1,30 +1,30 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Нижний Новгород
+Caption=РЎС…РµРјР°
+CityName=РќРёР¶РЅРёР№ РќРѕРІРіРѕСЂРѕРґ
 Type=Image
 
-[Автозаводская]
-;Пл.Свободы=
-Горьковская=Gorkovskaya.vec
-Московская=Moskovskaya.vec
-Чкаловская=Chkalovskaya.vec
-Ленинская=Leninskaya.vec
-Заречная=Zarechnaya.vec
-Двигатель Революции=DvigatelRevolucii.vec
-Пролетарская=Proletarskaya.vec
-Автозаводская=Avtozavodskaya.vec
-Комсомольская=Komsomolskaya.vec
-Кировская=Kirovskaya.vec
-Парк Культуры=ParkKultury.vec
+[РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ]
+;РџР».РЎРІРѕР±РѕРґС‹=
+Р“РѕСЂСЊРєРѕРІСЃРєР°СЏ=Gorkovskaya.vec
+РњРѕСЃРєРѕРІСЃРєР°СЏ=Moskovskaya.vec
+Р§РєР°Р»РѕРІСЃРєР°СЏ=Chkalovskaya.vec
+Р›РµРЅРёРЅСЃРєР°СЏ=Leninskaya.vec
+Р—Р°СЂРµС‡РЅР°СЏ=Zarechnaya.vec
+Р”РІРёРіР°С‚РµР»СЊ Р РµРІРѕР»СЋС†РёРё=DvigatelRevolucii.vec
+РџСЂРѕР»РµС‚Р°СЂСЃРєР°СЏ=Proletarskaya.vec
+РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ=Avtozavodskaya.vec
+РљРѕРјСЃРѕРјРѕР»СЊСЃРєР°СЏ=Komsomolskaya.vec
+РљРёСЂРѕРІСЃРєР°СЏ=Kirovskaya.vec
+РџР°СЂРє РљСѓР»СЊС‚СѓСЂС‹=ParkKultury.vec
 
-[Сормовская]
-;Сормовская=
-;Варя=
-Буревестник=Burevestnik.vec
-Бурнаковская=Burnakovskaya.vec
-Канавинская=Kanavinskaya.vec
-Московская=Moskovskaya.vec
-Стрелка=Strelka.vec
-;Волга=
+[РЎРѕСЂРјРѕРІСЃРєР°СЏ]
+;РЎРѕСЂРјРѕРІСЃРєР°СЏ=
+;Р’Р°СЂСЏ=
+Р‘СѓСЂРµРІРµСЃС‚РЅРёРє=Burevestnik.vec
+Р‘СѓСЂРЅР°РєРѕРІСЃРєР°СЏ=Burnakovskaya.vec
+РљР°РЅР°РІРёРЅСЃРєР°СЏ=Kanavinskaya.vec
+РњРѕСЃРєРѕРІСЃРєР°СЏ=Moskovskaya.vec
+РЎС‚СЂРµР»РєР°=Strelka.vec
+;Р’РѕР»РіР°=
 

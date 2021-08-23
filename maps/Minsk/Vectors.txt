@@ -1,42 +1,42 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Минск
-;MenuName=Другое\Схемы
+Caption=РЎС…РµРјР°
+CityName=РњРёРЅСЃРє
+;MenuName=Р”СЂСѓРіРѕРµ\РЎС…РµРјС‹
 Type=Image
 
-[Московская]
-;Малиновка=
-Петровщина=Petrovschina.vec
-Михалово=Mihalovo.vec
-Грушевка=Grushevka.vec
-Институт Культуры=InstitutKultury.vec
-Площадь Ленина=PlLenina.vec
-Октябрьская=Okt-Kupalovskaya.vec
-Площадь Победы=PlPobedy.vec
-Площадь Якуба Коласа=PlYakubaKolasa.vec
-Академия наук=AkademiyaNauk.vec
-Парк Челюскинцев=ParkCheluskintsev.vec
-Московская=Moskovskaya.vec
-Восток=Vostok.vec
-Борисовский тракт=BorisovskiyTrakt.vec
-Уручье=Uruchye.vec
+[РњРѕСЃРєРѕРІСЃРєР°СЏ]
+;РњР°Р»РёРЅРѕРІРєР°=
+РџРµС‚СЂРѕРІС‰РёРЅР°=Petrovschina.vec
+РњРёС…Р°Р»РѕРІРѕ=Mihalovo.vec
+Р“СЂСѓС€РµРІРєР°=Grushevka.vec
+РРЅСЃС‚РёС‚СѓС‚ РљСѓР»СЊС‚СѓСЂС‹=InstitutKultury.vec
+РџР»РѕС‰Р°РґСЊ Р›РµРЅРёРЅР°=PlLenina.vec
+РћРєС‚СЏР±СЂСЊСЃРєР°СЏ=Okt-Kupalovskaya.vec
+РџР»РѕС‰Р°РґСЊ РџРѕР±РµРґС‹=PlPobedy.vec
+РџР»РѕС‰Р°РґСЊ РЇРєСѓР±Р° РљРѕР»Р°СЃР°=PlYakubaKolasa.vec
+РђРєР°РґРµРјРёСЏ РЅР°СѓРє=AkademiyaNauk.vec
+РџР°СЂРє Р§РµР»СЋСЃРєРёРЅС†РµРІ=ParkCheluskintsev.vec
+РњРѕСЃРєРѕРІСЃРєР°СЏ=Moskovskaya.vec
+Р’РѕСЃС‚РѕРє=Vostok.vec
+Р‘РѕСЂРёСЃРѕРІСЃРєРёР№ С‚СЂР°РєС‚=BorisovskiyTrakt.vec
+РЈСЂСѓС‡СЊРµ=Uruchye.vec
 
-[Автозаводская]
-Могилевская=Mogilevskaya.vec
-Автозаводская=AvtozavodskayaSt.vec
-Партизанская=Partizanskaya.vec
-Тракторный завод=TraktornyZavod.vec
-Пролетарская=Proletarskaya.vec
-Первомайская=Pervomayskaya.vec
-Купаловская=Okt-Kupalovskaya.vec
-Немига=Nemiga.vec
-Фрунзенская=Frunzenskaya.vec
-Молодежная=Molodezhnaya.vec
-Пушкинская=Pushkinskaya.vec
-Спортивная=Sportivnaya.vec
-Кунцевщина=Kuntsevschina.vec
-Каменная Горка=KamennayaGorka.vec
+[РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ]
+РњРѕРіРёР»РµРІСЃРєР°СЏ=Mogilevskaya.vec
+РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ=AvtozavodskayaSt.vec
+РџР°СЂС‚РёР·Р°РЅСЃРєР°СЏ=Partizanskaya.vec
+РўСЂР°РєС‚РѕСЂРЅС‹Р№ Р·Р°РІРѕРґ=TraktornyZavod.vec
+РџСЂРѕР»РµС‚Р°СЂСЃРєР°СЏ=Proletarskaya.vec
+РџРµСЂРІРѕРјР°Р№СЃРєР°СЏ=Pervomayskaya.vec
+РљСѓРїР°Р»РѕРІСЃРєР°СЏ=Okt-Kupalovskaya.vec
+РќРµРјРёРіР°=Nemiga.vec
+Р¤СЂСѓРЅР·РµРЅСЃРєР°СЏ=Frunzenskaya.vec
+РњРѕР»РѕРґРµР¶РЅР°СЏ=Molodezhnaya.vec
+РџСѓС€РєРёРЅСЃРєР°СЏ=Pushkinskaya.vec
+РЎРїРѕСЂС‚РёРІРЅР°СЏ=Sportivnaya.vec
+РљСѓРЅС†РµРІС‰РёРЅР°=Kuntsevschina.vec
+РљР°РјРµРЅРЅР°СЏ Р“РѕСЂРєР°=KamennayaGorka.vec
 
-[Молодечненское направление]
-Минск-Северный=Molodezhnaya.vec
+[РњРѕР»РѕРґРµС‡РЅРµРЅСЃРєРѕРµ РЅР°РїСЂР°РІР»РµРЅРёРµ]
+РњРёРЅСЃРє-РЎРµРІРµСЂРЅС‹Р№=Molodezhnaya.vec

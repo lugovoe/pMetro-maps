@@ -1,9 +1,9 @@
 [Options]
 AddToInfo=1
 CityName=London
-MenuName=Разное\Лифты для инвалидов
-Caption=Лифты для инвалидов
-StringToAdd='Станция оборудована лифтами для инвалидов'
+MenuName=Р Р°Р·РЅРѕРµ\Р›РёС„С‚С‹ РґР»СЏ РёРЅРІР°Р»РёРґРѕРІ
+Caption=Р›РёС„С‚С‹ РґР»СЏ РёРЅРІР°Р»РёРґРѕРІ
+StringToAdd='РЎС‚Р°РЅС†РёСЏ РѕР±РѕСЂСѓРґРѕРІР°РЅР° Р»РёС„С‚Р°РјРё РґР»СЏ РёРЅРІР°Р»РёРґРѕРІ'
 
 [Bakerloo]
 Willesden Junction=
@@ -78,7 +78,7 @@ Caledonian Road=
 Earl's Court=
 Hammersmith=
 Hounslow East=
-Hounslow West=         Лифты только для инвалидов-колясочников!
+Hounslow West=         Р›РёС„С‚С‹ С‚РѕР»СЊРєРѕ РґР»СЏ РёРЅРІР°Р»РёРґРѕРІ-РєРѕР»СЏСЃРѕС‡РЅРёРєРѕРІ!
 Heathrow Terminal 4=
 Heathrow Terminals 1,2,3=
 Sudbury Town=

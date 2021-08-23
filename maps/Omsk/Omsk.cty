@@ -1,15 +1,15 @@
 [Options]
 Name=Omsk
-CityName=Омск
-Country=Россия
-RusName=Омск
-Comment=Перспективная схема метро
+CityName=РћРјСЃРє
+Country=Р РѕСЃСЃРёСЏ
+RusName=РћРјСЃРє
+Comment=РџРµСЂСЃРїРµРєС‚РёРІРЅР°СЏ СЃС…РµРјР° РјРµС‚СЂРѕ
 NeedVersion=1.26.3
-MapAuthors=Схема от 23.03.2015г.
+MapAuthors=РЎС…РµРјР° РѕС‚ 23.03.2015Рі.
 MapAuthors=
-MapAuthors=Схема нарисована на основе карты с сайта http://www.urbanrail.net/.
+MapAuthors=РЎС…РµРјР° РЅР°СЂРёСЃРѕРІР°РЅР° РЅР° РѕСЃРЅРѕРІРµ РєР°СЂС‚С‹ СЃ СЃР°Р№С‚Р° http://www.urbanrail.net/.
 MapAuthors=
-MapAuthors=Метро в Омске только строится, сроки открытия пока неясные.
+MapAuthors=РњРµС‚СЂРѕ РІ РћРјСЃРєРµ С‚РѕР»СЊРєРѕ СЃС‚СЂРѕРёС‚СЃСЏ, СЃСЂРѕРєРё РѕС‚РєСЂС‹С‚РёСЏ РїРѕРєР° РЅРµСЏСЃРЅС‹Рµ.
 MapAuthors=
-DelayNames=День,Ночь
+DelayNames=Р”РµРЅСЊ,РќРѕС‡СЊ
 

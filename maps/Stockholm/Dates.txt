@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Дата открытия
+Caption=Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ
 CityName=Stockholm
-StringToAdd='  Дата открытия: '
+StringToAdd='  Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ: '
 
 [1]
 T-Centralen=05.04.1964

@@ -1,24 +1,24 @@
 [Options]
 AddToInfo=1
-CityName=Нижний Новгород
-Caption=Ссылки
-StringToAdd='  Статья в "Метроном НН": '
+CityName=РќРёР¶РЅРёР№ РќРѕРІРіРѕСЂРѕРґ
+Caption=РЎСЃС‹Р»РєРё
+StringToAdd='  РЎС‚Р°С‚СЊСЏ РІ "РњРµС‚СЂРѕРЅРѕРј РќРќ": '
 
-[Автозаводская]
-Горьковская=http://metronom-nn.ru/gorkovskay/
-Московская=http://metronom-nn.ru/moskovskaya/
-Чкаловская=http://metronom-nn.ru/chkalovskaya/
-Ленинская=http://metronom-nn.ru/leninskaya/
-Заречная=http://metronom-nn.ru/zarechnaya/
-Двигатель Революции=http://metronom-nn.ru/dvigatel_revoluc/
-Пролетарская=http://metronom-nn.ru/proletarskaya/
-Автозаводская=http://metronom-nn.ru/avtozavodskaya2/
-Комсомольская=http://metronom-nn.ru/komsomolskaya/
-Кировская=http://metronom-nn.ru/kirovskaya/
-Парк Культуры=http://metronom-nn.ru/park_kulturi/
+[РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ]
+Р“РѕСЂСЊРєРѕРІСЃРєР°СЏ=http://metronom-nn.ru/gorkovskay/
+РњРѕСЃРєРѕРІСЃРєР°СЏ=http://metronom-nn.ru/moskovskaya/
+Р§РєР°Р»РѕРІСЃРєР°СЏ=http://metronom-nn.ru/chkalovskaya/
+Р›РµРЅРёРЅСЃРєР°СЏ=http://metronom-nn.ru/leninskaya/
+Р—Р°СЂРµС‡РЅР°СЏ=http://metronom-nn.ru/zarechnaya/
+Р”РІРёРіР°С‚РµР»СЊ Р РµРІРѕР»СЋС†РёРё=http://metronom-nn.ru/dvigatel_revoluc/
+РџСЂРѕР»РµС‚Р°СЂСЃРєР°СЏ=http://metronom-nn.ru/proletarskaya/
+РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ=http://metronom-nn.ru/avtozavodskaya2/
+РљРѕРјСЃРѕРјРѕР»СЊСЃРєР°СЏ=http://metronom-nn.ru/komsomolskaya/
+РљРёСЂРѕРІСЃРєР°СЏ=http://metronom-nn.ru/kirovskaya/
+РџР°СЂРє РљСѓР»СЊС‚СѓСЂС‹=http://metronom-nn.ru/park_kulturi/
 
-[Сормовская]
-Буревестник=http://metronom-nn.ru/burevestnik/
-Бурнаковская=http://metronom-nn.ru/burnakovskay/
-Канавинская=http://metronom-nn.ru/kanavinskaya/
-Московская=http://metronom-nn.ru/moskovskaya/
+[РЎРѕСЂРјРѕРІСЃРєР°СЏ]
+Р‘СѓСЂРµРІРµСЃС‚РЅРёРє=http://metronom-nn.ru/burevestnik/
+Р‘СѓСЂРЅР°РєРѕРІСЃРєР°СЏ=http://metronom-nn.ru/burnakovskay/
+РљР°РЅР°РІРёРЅСЃРєР°СЏ=http://metronom-nn.ru/kanavinskaya/
+РњРѕСЃРєРѕРІСЃРєР°СЏ=http://metronom-nn.ru/moskovskaya/

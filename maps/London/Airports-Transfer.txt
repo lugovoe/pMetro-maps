@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
 CityName=London
-MenuName=Транспорт\Проезд к аэропортам
-Caption=Проезд к аэропортам
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\РџСЂРѕРµР·Рґ Рє Р°СЌСЂРѕРїРѕСЂС‚Р°Рј
+Caption=РџСЂРѕРµР·Рґ Рє Р°СЌСЂРѕРїРѕСЂС‚Р°Рј
 ;StringToAdd=''
 
 [Bakerloo]

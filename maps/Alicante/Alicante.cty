@@ -1,10 +1,10 @@
 [Options]
 Name=Alicante
 CityName=Alicante
-Country=Испания
-RusName=Аликанте
-Comment=Скоростной трамвай
+Country=РСЃРїР°РЅРёСЏ
+RusName=РђР»РёРєР°РЅС‚Рµ
+Comment=РЎРєРѕСЂРѕСЃС‚РЅРѕР№ С‚СЂР°РјРІР°Р№
 NeedVersion=1.29.5
-MapAuthors=Схема от 31.07.2019г.
-MapAuthors=Автор: Дмитрий Варламов.
-MapAuthors=За основу взята схема с сайта www.fgvalicante.com.
+MapAuthors=РЎС…РµРјР° РѕС‚ 31.07.2019Рі.
+MapAuthors=РђРІС‚РѕСЂ: Р”РјРёС‚СЂРёР№ Р’Р°СЂР»Р°РјРѕРІ.
+MapAuthors=Р—Р° РѕСЃРЅРѕРІСѓ РІР·СЏС‚Р° СЃС…РµРјР° СЃ СЃР°Р№С‚Р° www.fgvalicante.com.

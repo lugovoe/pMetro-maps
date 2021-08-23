@@ -1,23 +1,23 @@
 [Options]
 AddToInfo=1
-Caption=Информация
+Caption=РРЅС„РѕСЂРјР°С†РёСЏ
 CityName=Detroit
 StringToAdd='  '
 
 [Peoplemover]
-Broadway=Открыта в июле 1987г.
-Cadillac Square=Открыта в июле 1987г.
-Greektown=Открыта в июле 1987г.
-Bricktown=Открыта в июле 1987г.
-Renaissance Center=Открыта в июле 1987г.
-Millender Center=Открыта в июле 1987г.
-Financial District=Открыта в июле 1987г.
-Joe Louis Arena=Открыта в июле 1987г.
-Cobo Center=Открыта в июле 1987г.
-Fort/Cass=Открыта в июле 1987г.
-Michigan Avenue=Открыта в июле 1987г.
-Times Square=Открыта в июле 1987г.
-Grand Circus Park=Открыта в июле 1987г.
+Broadway=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Cadillac Square=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Greektown=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Bricktown=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Renaissance Center=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Millender Center=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Financial District=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Joe Louis Arena=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Cobo Center=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Fort/Cass=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Michigan Avenue=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Times Square=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
+Grand Circus Park=РћС‚РєСЂС‹С‚Р° РІ РёСЋР»Рµ 1987Рі.
 
 
 

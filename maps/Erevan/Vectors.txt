@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Ρυεμΰ
-CityName=Επεβΰν
+Caption=Π΅Ρ…ΠµΠΌΠ°
+CityName=Π•Ρ€ΠµΠ²Π°Π½
 Type=Image
 
 [1]
-Χΰπαΰυ=Charbah.vec
+Π§Π°Ρ€Π±Π°Ρ…=Charbah.vec

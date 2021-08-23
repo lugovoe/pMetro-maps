@@ -1,39 +1,39 @@
 [Options]
 AddToInfo=1
-Caption=Ссылки
-CityName=Минск
-StringToAdd='  Ссылка на статью в Википедии: '
+Caption=РЎСЃС‹Р»РєРё
+CityName=РњРёРЅСЃРє
+StringToAdd='  РЎСЃС‹Р»РєР° РЅР° СЃС‚Р°С‚СЊСЋ РІ Р’РёРєРёРїРµРґРёРё: '
 
-[Московская]
-;Щемыслица=http://ru.wikipedia.org/wiki/%D0%A9%D0%B5%D0%BC%D1%8B%D1%81%D0%BB%D0%B8%D1%86%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Малиновка=http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Петровщина=http://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BD%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Михалово=http://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%BB%D0%BE%D0%B2%D0%BE_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Грушевка=http://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D1%88%D0%B5%D0%B2%D0%BA%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Институт Культуры=http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Площадь Ленина=http://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Октябрьская=http://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Площадь Победы=http://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Площадь Якуба Коласа=http://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%AF%D0%BA%D1%83%D0%B1%D0%B0_%D0%9A%D0%BE%D0%BB%D0%B0%D1%81%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Академия наук=http://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Парк Челюскинцев=http://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BA_%D0%A7%D0%B5%D0%BB%D1%8E%D1%81%D0%BA%D0%B8%D0%BD%D1%86%D0%B5%D0%B2_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Московская=http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Восток=http://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Борисовский тракт=http://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BA%D1%82_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Уручье=http://ru.wikipedia.org/wiki/%D0%A3%D1%80%D1%83%D1%87%D1%8C%D0%B5_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+[РњРѕСЃРєРѕРІСЃРєР°СЏ]
+;Р©РµРјС‹СЃР»РёС†Р°=http://ru.wikipedia.org/wiki/%D0%A9%D0%B5%D0%BC%D1%8B%D1%81%D0%BB%D0%B8%D1%86%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РњР°Р»РёРЅРѕРІРєР°=http://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РџРµС‚СЂРѕРІС‰РёРЅР°=http://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BD%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РњРёС…Р°Р»РѕРІРѕ=http://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%BB%D0%BE%D0%B2%D0%BE_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+Р“СЂСѓС€РµРІРєР°=http://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D1%88%D0%B5%D0%B2%D0%BA%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РРЅСЃС‚РёС‚СѓС‚ РљСѓР»СЊС‚СѓСЂС‹=http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РџР»РѕС‰Р°РґСЊ Р›РµРЅРёРЅР°=http://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РћРєС‚СЏР±СЂСЊСЃРєР°СЏ=http://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РџР»РѕС‰Р°РґСЊ РџРѕР±РµРґС‹=http://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РџР»РѕС‰Р°РґСЊ РЇРєСѓР±Р° РљРѕР»Р°СЃР°=http://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%AF%D0%BA%D1%83%D0%B1%D0%B0_%D0%9A%D0%BE%D0%BB%D0%B0%D1%81%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РђРєР°РґРµРјРёСЏ РЅР°СѓРє=http://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РџР°СЂРє Р§РµР»СЋСЃРєРёРЅС†РµРІ=http://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BA_%D0%A7%D0%B5%D0%BB%D1%8E%D1%81%D0%BA%D0%B8%D0%BD%D1%86%D0%B5%D0%B2_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РњРѕСЃРєРѕРІСЃРєР°СЏ=http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+Р’РѕСЃС‚РѕРє=http://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+Р‘РѕСЂРёСЃРѕРІСЃРєРёР№ С‚СЂР°РєС‚=http://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BA%D1%82_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РЈСЂСѓС‡СЊРµ=http://ru.wikipedia.org/wiki/%D0%A3%D1%80%D1%83%D1%87%D1%8C%D0%B5_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
 
-[Автозаводская]
-Могилевская=http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Автозаводская=http://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Партизанская=http://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Тракторный завод=http://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Пролетарская=http://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Первомайская=http://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Купаловская=http://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Немига=http://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BC%D0%B8%D0%B3%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Фрунзенская=http://ru.wikipedia.org/wiki/%D0%A4%D1%80%D1%83%D0%BD%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Молодежная=http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D1%91%D0%B6%D0%BD%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Пушкинская=http://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Спортивная=http://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
-Кунцевщина=http://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D1%86%D0%B5%D0%B2%D1%89%D0%B8%D0%BD%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Каменная Горка=http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D0%BE%D1%80%D0%BA%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+[РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ]
+РњРѕРіРёР»РµРІСЃРєР°СЏ=http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ=http://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РџР°СЂС‚РёР·Р°РЅСЃРєР°СЏ=http://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РўСЂР°РєС‚РѕСЂРЅС‹Р№ Р·Р°РІРѕРґ=http://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РџСЂРѕР»РµС‚Р°СЂСЃРєР°СЏ=http://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РџРµСЂРІРѕРјР°Р№СЃРєР°СЏ=http://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РљСѓРїР°Р»РѕРІСЃРєР°СЏ=http://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РќРµРјРёРіР°=http://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BC%D0%B8%D0%B3%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+Р¤СЂСѓРЅР·РµРЅСЃРєР°СЏ=http://ru.wikipedia.org/wiki/%D0%A4%D1%80%D1%83%D0%BD%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РњРѕР»РѕРґРµР¶РЅР°СЏ=http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D1%91%D0%B6%D0%BD%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РџСѓС€РєРёРЅСЃРєР°СЏ=http://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РЎРїРѕСЂС‚РёРІРЅР°СЏ=http://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%29
+РљСѓРЅС†РµРІС‰РёРЅР°=http://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D1%86%D0%B5%D0%B2%D1%89%D0%B8%D0%BD%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+РљР°РјРµРЅРЅР°СЏ Р“РѕСЂРєР°=http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D0%BE%D1%80%D0%BA%D0%B0_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29

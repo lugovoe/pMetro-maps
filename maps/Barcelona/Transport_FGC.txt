@@ -3,38 +3,38 @@
 [Options]
 AddToInfo=1
 CityName=Barcelona
-MenuName=Транспорт\FGC
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\FGC
 ;MenuImage=Vokzals_logo.bmp
 ;ImageFileName=Vokzals.vec(Metro.map),
 Caption=FGC
 
 [L1]
-Av. Carrilet=Станция L'Hospitalet-Av. Carrilet.\nЛинии L8, S33, S4, S8, R5, R6.\nРасписание: http://fgc.net/eng/index.asp
-Espanya=Линии L8, S33, S4, S8, R5, R6.\nРасписание: http://fgc.net/eng/index.asp
-Catalunya=Линии L6, L7, S1, S2, S5, S55.\nРасписание: http://fgc.net/eng/index.asp
+Av. Carrilet=РЎС‚Р°РЅС†РёСЏ L'Hospitalet-Av. Carrilet.\nР›РёРЅРёРё L8, S33, S4, S8, R5, R6.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
+Espanya=Р›РёРЅРёРё L8, S33, S4, S8, R5, R6.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
+Catalunya=Р›РёРЅРёРё L6, L7, S1, S2, S5, S55.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
 
 [L3]
-Espanya=Линии L8, S33, S4, S8, R5, R6.\nРасписание: http://fgc.net/eng/index.asp
-Catalunya=Линии L6, L7, S1, S2, S5, S55.\nРасписание: http://fgc.net/eng/index.asp
-Diagonal=Станция Provenca\nЛинии L6, L7, S1, S2, S5, S55.\nРасписание: http://fgc.net/eng/index.asp
+Espanya=Р›РёРЅРёРё L8, S33, S4, S8, R5, R6.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
+Catalunya=Р›РёРЅРёРё L6, L7, S1, S2, S5, S55.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
+Diagonal=РЎС‚Р°РЅС†РёСЏ Provenca\nР›РёРЅРёРё L6, L7, S1, S2, S5, S55.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
 
 [L5]
-Diagonal=Станция Provenca\nЛинии L6, L7, S1, S2, S5, S55.\nРасписание: http://fgc.net/eng/index.asp
+Diagonal=РЎС‚Р°РЅС†РёСЏ Provenca\nР›РёРЅРёРё L6, L7, S1, S2, S5, S55.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
 
 [R1]
-Catalunya=Линии L6, L7, S1, S2, S5, S55.\nРасписание: http://fgc.net/eng/index.asp
+Catalunya=Р›РёРЅРёРё L6, L7, S1, S2, S5, S55.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
 
 [R3]
-Catalunya=Линии L6, L7, S1, S2, S5, S55.\nРасписание: http://fgc.net/eng/index.asp
+Catalunya=Р›РёРЅРёРё L6, L7, S1, S2, S5, S55.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
 
 [R4]
-Catalunya=Линии L6, L7, S1, S2, S5, S55.\nРасписание: http://fgc.net/eng/index.asp
+Catalunya=Р›РёРЅРёРё L6, L7, S1, S2, S5, S55.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
 
 [R2]
-Bellvitge=Станция Gornal.\nЛинии L8, S33, S4, S8, R5, R6.\nРасписание: http://fgc.net/eng/index.asp
+Bellvitge=РЎС‚Р°РЅС†РёСЏ Gornal.\nР›РёРЅРёРё L8, S33, S4, S8, R5, R6.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
 
 [R2-Sud]
-Bellvitge=Станция Gornal.\nЛинии L8, S33, S4, S8, R5, R6.\nРасписание: http://fgc.net/eng/index.asp
+Bellvitge=РЎС‚Р°РЅС†РёСЏ Gornal.\nР›РёРЅРёРё L8, S33, S4, S8, R5, R6.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp
 
 [R2-Nord]
-Bellvitge=Станция Gornal.\nЛинии L8, S33, S4, S8, R5, R6.\nРасписание: http://fgc.net/eng/index.asp
+Bellvitge=РЎС‚Р°РЅС†РёСЏ Gornal.\nР›РёРЅРёРё L8, S33, S4, S8, R5, R6.\nР Р°СЃРїРёСЃР°РЅРёРµ: http://fgc.net/eng/index.asp

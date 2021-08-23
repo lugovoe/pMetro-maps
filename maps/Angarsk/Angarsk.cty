@@ -1,11 +1,11 @@
 [Options]
 Name=Angarsk
-CityName=Ангарск
-Country=Россия
-RusName=Ангарск
-Comment=Схема трамваев
+CityName=РђРЅРіР°СЂСЃРє
+Country=Р РѕСЃСЃРёСЏ
+RusName=РђРЅРіР°СЂСЃРє
+Comment=РЎС…РµРјР° С‚СЂР°РјРІР°РµРІ
 NeedVersion=1.28.2
-MapAuthors=Схема от 13.10.2008г.
-MapAuthors=Автор: Варламов Дмитрий (www.chpeks.com)
+MapAuthors=РЎС…РµРјР° РѕС‚ 13.10.2008Рі.
+MapAuthors=РђРІС‚РѕСЂ: Р’Р°СЂР»Р°РјРѕРІ Р”РјРёС‚СЂРёР№ (www.chpeks.com)
 
 []

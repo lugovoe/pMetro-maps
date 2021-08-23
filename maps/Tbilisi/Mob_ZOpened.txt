@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
-CityName=Тбилиси
-MenuName=Моб.связь\Открытые станции
+CityName=РўР±РёР»РёСЃРё
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\РћС‚РєСЂС‹С‚С‹Рµ СЃС‚Р°РЅС†РёРё
 
 [Akhmeteli-Varketili]
 Elektrodepo=

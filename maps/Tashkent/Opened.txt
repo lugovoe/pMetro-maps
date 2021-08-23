@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Построена
-CityName=Ташкент
-StringToAdd='  Дата пуска: '
+Caption=РџРѕСЃС‚СЂРѕРµРЅР°
+CityName=РўР°С€РєРµРЅС‚
+StringToAdd='  Р”Р°С‚Р° РїСѓСЃРєР°: '
 
 [Chilonzor]
 Olmazor=06.11.1977

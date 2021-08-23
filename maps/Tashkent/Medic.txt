@@ -1,27 +1,27 @@
 [Options]
 AddToInfo=1
-CityName=Ташкент
-Caption=Больницы
-MenuName=Разное\Больницы
+CityName=РўР°С€РєРµРЅС‚
+Caption=Р‘РѕР»СЊРЅРёС†С‹
+MenuName=Р Р°Р·РЅРѕРµ\Р‘РѕР»СЊРЅРёС†С‹
 MenuImage=Medical.bmp
 StringToAdd='  '
 
 [Chilonzor]
 ;Olmazor=
-Chilonzor=16 гор-больница
+Chilonzor=16 РіРѕСЂ-Р±РѕР»СЊРЅРёС†Р°
 ;Mirzo Ulug'bek=
 ;Novza=
 ;Milliy Bog'=
 ;Bunyodkor=
 ;Paxtakor=
 ;Mustaqillik Maydoni=
-Amir Temur Xiyoboni=6 роддом
+Amir Temur Xiyoboni=6 СЂРѕРґРґРѕРј
 ;Hamid Olimjon=
 ;Pushkin=
 ;Buyuk Ipak Yo'li=
 
 [O'zbekiston]
-Beruniy=Госпиталь от ТАПОиЧ
+Beruniy=Р“РѕСЃРїРёС‚Р°Р»СЊ РѕС‚ РўРђРџРћРёР§
 ;Tinchlik=
 ;Chorsu=
 ;G'afur G'ulom=
@@ -39,8 +39,8 @@ Beruniy=Госпиталь от ТАПОиЧ
 ;Abdulla Qodiriy=
 ;Minor=
 ;Bodomzor=
-Shahriston=Санаторий Чинабад
-Yunus Rajabiy=6 роддом
+Shahriston=РЎР°РЅР°С‚РѕСЂРёР№ Р§РёРЅР°Р±Р°Рґ
+Yunus Rajabiy=6 СЂРѕРґРґРѕРј
 ;Yunus-Obod=
 ;Turkiston=
 

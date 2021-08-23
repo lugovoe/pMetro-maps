@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
-Caption=Время работы
-CityName=Napoli (Неаполь)
+Caption=Р’СЂРµРјСЏ СЂР°Р±РѕС‚С‹
+CityName=Napoli (РќРµР°РїРѕР»СЊ)
 ;StringToAdd='  '
 
 [Metropolitana Collinare]
@@ -33,7 +33,7 @@ CityName=Napoli (Неаполь)
 ;Garibaldi=
 
 [Metropolitana F. S.]
-Pozzuoli=Первый поезд 5:37, последний 22:37.
+Pozzuoli=РџРµСЂРІС‹Р№ РїРѕРµР·Рґ 5:37, РїРѕСЃР»РµРґРЅРёР№ 22:37.
 ;Bagnoli=
 ;Cavalleggeri d'Aosta=
 ;Campi Flegrei=
@@ -43,7 +43,7 @@ Pozzuoli=Первый поезд 5:37, последний 22:37.
 ;Montesanto=
 ;Piazza Cavour=
 ;Garibaldi=
-Gianturco=Первый поезд 5:30, последний 22:59.
+Gianturco=РџРµСЂРІС‹Р№ РїРѕРµР·Рґ 5:30, РїРѕСЃР»РµРґРЅРёР№ 22:59.
 ;Ferraris=
 ;Vigliena=
 ;San Giovanni=

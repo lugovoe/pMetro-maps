@@ -1,23 +1,23 @@
 [Options]
 AddToInfo=1
-CityName=Ташкент
-Caption=Парки
-MenuName=Разное\Парки
+CityName=РўР°С€РєРµРЅС‚
+Caption=РџР°СЂРєРё
+MenuName=Р Р°Р·РЅРѕРµ\РџР°СЂРєРё
 MenuImage=Parks.bmp
 StringToAdd='  '
 
 [Chilonzor]
 ;Olmazor=
 ;Chilonzor=
-Mirzo Ulug'bek=Парк Культуры и Отдыха имени Гафура Гуляма
+Mirzo Ulug'bek=РџР°СЂРє РљСѓР»СЊС‚СѓСЂС‹ Рё РћС‚РґС‹С…Р° РёРјРµРЅРё Р“Р°С„СѓСЂР° Р“СѓР»СЏРјР°
 ;Novza=
 ;Milliy Bog'=
 ;Paxtakor=
 ;Mustaqillik Maydoni=
 ;Amir Temur Xiyoboni=
-Hamid Olimjon=Парк Мирзо-Улугбек (бывший Тельмана)
-Milliy Bog'=Национальный ПКиО имени Алишера Навойи
-Bunyodkor=Национальный ПКиО имени Алишера Навойи
+Hamid Olimjon=РџР°СЂРє РњРёСЂР·Рѕ-РЈР»СѓРіР±РµРє (Р±С‹РІС€РёР№ РўРµР»СЊРјР°РЅР°)
+Milliy Bog'=РќР°С†РёРѕРЅР°Р»СЊРЅС‹Р№ РџРљРёРћ РёРјРµРЅРё РђР»РёС€РµСЂР° РќР°РІРѕР№Рё
+Bunyodkor=РќР°С†РёРѕРЅР°Р»СЊРЅС‹Р№ РџРљРёРћ РёРјРµРЅРё РђР»РёС€РµСЂР° РќР°РІРѕР№Рё
 ;Pushkin=
 ;Buyuk Ipak Yo'li=
 
@@ -39,8 +39,8 @@ Bunyodkor=Национальный ПКиО имени Алишера Навойи
 ;Yunus Rajabiy=
 ;Abdulla Qodiriy=
 ;Minor=
-Bodomzor=Парк Ташкентленд\nЯпонский сад\nАквапарк
-Shahriston=Парк Памяти и Почести
+Bodomzor=РџР°СЂРє РўР°С€РєРµРЅС‚Р»РµРЅРґ\nРЇРїРѕРЅСЃРєРёР№ СЃР°Рґ\nРђРєРІР°РїР°СЂРє
+Shahriston=РџР°СЂРє РџР°РјСЏС‚Рё Рё РџРѕС‡РµСЃС‚Рё
 ;Yunus-Obod=
 ;Turkiston=
 

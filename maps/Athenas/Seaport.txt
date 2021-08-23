@@ -1,13 +1,13 @@
 [Options]
 AddToInfo=1
-Caption=Порт
-MenuName=Транспорт\Морской порт
-CityName=Athenas (Афины)
+Caption=РџРѕСЂС‚
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\РњРѕСЂСЃРєРѕР№ РїРѕСЂС‚
+CityName=Athenas (РђС„РёРЅС‹)
 ;StringToAdd='  '
 
 [Line 1]
-Piraeus=Пирейский порт.\nОфициальный сайт: http://www.olp.gr/ (на греческом)
+Piraeus=РџРёСЂРµР№СЃРєРёР№ РїРѕСЂС‚.\nРћС„РёС†РёР°Р»СЊРЅС‹Р№ СЃР°Р№С‚: http://www.olp.gr/ (РЅР° РіСЂРµС‡РµСЃРєРѕРј)
 
 [Piraeus - A. Liosia]
-Piraeus=Пирейский порт.\nОфициальный сайт: http://www.olp.gr/ (на греческом)
+Piraeus=РџРёСЂРµР№СЃРєРёР№ РїРѕСЂС‚.\nРћС„РёС†РёР°Р»СЊРЅС‹Р№ СЃР°Р№С‚: http://www.olp.gr/ (РЅР° РіСЂРµС‡РµСЃРєРѕРј)
 

@@ -1,12 +1,12 @@
 [Options]
 Name=Irkutsk
-CityName=Иркутск
-Country=Россия
-RusName=Иркутск
-Comment=Схема электропоездов
+CityName=РСЂРєСѓС‚СЃРє
+Country=Р РѕСЃСЃРёСЏ
+RusName=РСЂРєСѓС‚СЃРє
+Comment=РЎС…РµРјР° СЌР»РµРєС‚СЂРѕРїРѕРµР·РґРѕРІ
 NeedVersion=1.26.2
-MapAuthors=Схема от 18.03.2008г.
-MapAuthors=Автор: Варламов Дмитрий (www.chpeks.com)
-MapAuthors=Схема и интервалы движения взяты с сайта: http://irkutsk.tutu.ru/
+MapAuthors=РЎС…РµРјР° РѕС‚ 18.03.2008Рі.
+MapAuthors=РђРІС‚РѕСЂ: Р’Р°СЂР»Р°РјРѕРІ Р”РјРёС‚СЂРёР№ (www.chpeks.com)
+MapAuthors=РЎС…РµРјР° Рё РёРЅС‚РµСЂРІР°Р»С‹ РґРІРёР¶РµРЅРёСЏ РІР·СЏС‚С‹ СЃ СЃР°Р№С‚Р°: http://irkutsk.tutu.ru/
 
 []

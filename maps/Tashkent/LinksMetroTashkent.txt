@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Ссылки
-CityName=Ташкент
-StringToAdd='  Фотографии: '
+Caption=РЎСЃС‹Р»РєРё
+CityName=РўР°С€РєРµРЅС‚
+StringToAdd='  Р¤РѕС‚РѕРіСЂР°С„РёРё: '
 
 [Chilonzor]
 Olmazor=http://www.metrotashkent.narod.ru/pic/line1/srakh/stpic_srakh.htm

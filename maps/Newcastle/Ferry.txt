@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
 CityName=Newcastle
-MenuName=Разное\Паром
+MenuName=Р Р°Р·РЅРѕРµ\РџР°СЂРѕРј
 
 [Yellow Line]
 North Shields=

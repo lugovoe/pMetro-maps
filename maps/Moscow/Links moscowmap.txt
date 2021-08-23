@@ -1,212 +1,212 @@
 [Options]
 AddToInfo=1
-Caption=Ссылки
-CityName=Москва
-StringToAdd='  Карта окрестностей станции: '
+Caption=РЎСЃС‹Р»РєРё
+CityName=РњРѕСЃРєРІР°
+StringToAdd='  РљР°СЂС‚Р° РѕРєСЂРµСЃС‚РЅРѕСЃС‚РµР№ СЃС‚Р°РЅС†РёРё: '
 
-[Сокольническая]
-Юго-Западная=http://moscowmap.ru/metrostation.asp?metroid=15
-Проспект Вернадского=http://moscowmap.ru/metrostation.asp?metroid=16
-Университет=http://moscowmap.ru/metrostation.asp?metroid=17
-Воробьевы горы=http://moscowmap.ru/metrostation.asp?metroid=18
-Спортивная=http://moscowmap.ru/metrostation.asp?metroid=19
-Фрунзенская=http://moscowmap.ru/metrostation.asp?metroid=20
-Парк культуры=http://moscowmap.ru/metrostation.asp?metroid=21
-Кропоткинская=http://moscowmap.ru/metrostation.asp?metroid=33
-Библиотека имени Ленина=http://moscowmap.ru/metrostation.asp?metroid=22
-Охотный ряд=http://moscowmap.ru/metrostation.asp?metroid=23
-Лубянка=http://moscowmap.ru/metrostation.asp?metroid=24
-Чистые пруды=http://moscowmap.ru/metrostation.asp?metroid=25
-Красные ворота=http://moscowmap.ru/metrostation.asp?metroid=26
-Комсомольская=http://moscowmap.ru/metrostation.asp?metroid=12
-Красносельская=http://moscowmap.ru/metrostation.asp?metroid=28
-Сокольники=http://moscowmap.ru/metrostation.asp?metroid=29
-Преображенская площадь=http://moscowmap.ru/metrostation.asp?metroid=30
-Черкизовская=http://moscowmap.ru/metrostation.asp?metroid=31
-Бульвар Рокоссовского=http://moscowmap.ru/metrostation.asp?metroid=32
+[РЎРѕРєРѕР»СЊРЅРёС‡РµСЃРєР°СЏ]
+Р®РіРѕ-Р—Р°РїР°РґРЅР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=15
+РџСЂРѕСЃРїРµРєС‚ Р’РµСЂРЅР°РґСЃРєРѕРіРѕ=http://moscowmap.ru/metrostation.asp?metroid=16
+РЈРЅРёРІРµСЂСЃРёС‚РµС‚=http://moscowmap.ru/metrostation.asp?metroid=17
+Р’РѕСЂРѕР±СЊРµРІС‹ РіРѕСЂС‹=http://moscowmap.ru/metrostation.asp?metroid=18
+РЎРїРѕСЂС‚РёРІРЅР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=19
+Р¤СЂСѓРЅР·РµРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=20
+РџР°СЂРє РєСѓР»СЊС‚СѓСЂС‹=http://moscowmap.ru/metrostation.asp?metroid=21
+РљСЂРѕРїРѕС‚РєРёРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=33
+Р‘РёР±Р»РёРѕС‚РµРєР° РёРјРµРЅРё Р›РµРЅРёРЅР°=http://moscowmap.ru/metrostation.asp?metroid=22
+РћС…РѕС‚РЅС‹Р№ СЂСЏРґ=http://moscowmap.ru/metrostation.asp?metroid=23
+Р›СѓР±СЏРЅРєР°=http://moscowmap.ru/metrostation.asp?metroid=24
+Р§РёСЃС‚С‹Рµ РїСЂСѓРґС‹=http://moscowmap.ru/metrostation.asp?metroid=25
+РљСЂР°СЃРЅС‹Рµ РІРѕСЂРѕС‚Р°=http://moscowmap.ru/metrostation.asp?metroid=26
+РљРѕРјСЃРѕРјРѕР»СЊСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=12
+РљСЂР°СЃРЅРѕСЃРµР»СЊСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=28
+РЎРѕРєРѕР»СЊРЅРёРєРё=http://moscowmap.ru/metrostation.asp?metroid=29
+РџСЂРµРѕР±СЂР°Р¶РµРЅСЃРєР°СЏ РїР»РѕС‰Р°РґСЊ=http://moscowmap.ru/metrostation.asp?metroid=30
+Р§РµСЂРєРёР·РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=31
+Р‘СѓР»СЊРІР°СЂ Р РѕРєРѕСЃСЃРѕРІСЃРєРѕРіРѕ=http://moscowmap.ru/metrostation.asp?metroid=32
 
-[Замоскворецкая]
-Речной вокзал=http://moscowmap.ru/metrostation.asp?metroid=130
-Водный стадион=http://moscowmap.ru/metrostation.asp?metroid=129
-Войковская=http://moscowmap.ru/metrostation.asp?metroid=128
-Сокол=http://moscowmap.ru/metrostation.asp?metroid=127
-Аэропорт=http://moscowmap.ru/metrostation.asp?metroid=126
-Динамо=http://moscowmap.ru/metrostation.asp?metroid=125
-Белорусская=http://moscowmap.ru/metrostation.asp?metroid=3
-Маяковская=http://moscowmap.ru/metrostation.asp?metroid=123
-Тверская=http://moscowmap.ru/metrostation.asp?metroid=122
-Театральная=http://moscowmap.ru/metrostation.asp?metroid=121
-Новокузнецкая=http://moscowmap.ru/metrostation.asp?metroid=120
-Павелецкая=http://moscowmap.ru/metrostation.asp?metroid=119
-Автозаводская=http://moscowmap.ru/metrostation.asp?metroid=118
-Коломенская=http://moscowmap.ru/metrostation.asp?metroid=117
-Каширская=http://moscowmap.ru/metrostation.asp?metroid=116
-Кантемировская=http://moscowmap.ru/metrostation.asp?metroid=115
-Царицыно=http://moscowmap.ru/metrostation.asp?metroid=114
-Орехово=http://moscowmap.ru/metrostation.asp?metroid=113
-Домодедовская=http://moscowmap.ru/metrostation.asp?metroid=112
-Красногвардейская=http://moscowmap.ru/metrostation.asp?metroid=111
-;Алма-Атинская=
+[Р—Р°РјРѕСЃРєРІРѕСЂРµС†РєР°СЏ]
+Р РµС‡РЅРѕР№ РІРѕРєР·Р°Р»=http://moscowmap.ru/metrostation.asp?metroid=130
+Р’РѕРґРЅС‹Р№ СЃС‚Р°РґРёРѕРЅ=http://moscowmap.ru/metrostation.asp?metroid=129
+Р’РѕР№РєРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=128
+РЎРѕРєРѕР»=http://moscowmap.ru/metrostation.asp?metroid=127
+РђСЌСЂРѕРїРѕСЂС‚=http://moscowmap.ru/metrostation.asp?metroid=126
+Р”РёРЅР°РјРѕ=http://moscowmap.ru/metrostation.asp?metroid=125
+Р‘РµР»РѕСЂСѓСЃСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=3
+РњР°СЏРєРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=123
+РўРІРµСЂСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=122
+РўРµР°С‚СЂР°Р»СЊРЅР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=121
+РќРѕРІРѕРєСѓР·РЅРµС†РєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=120
+РџР°РІРµР»РµС†РєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=119
+РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=118
+РљРѕР»РѕРјРµРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=117
+РљР°С€РёСЂСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=116
+РљР°РЅС‚РµРјРёСЂРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=115
+Р¦Р°СЂРёС†С‹РЅРѕ=http://moscowmap.ru/metrostation.asp?metroid=114
+РћСЂРµС…РѕРІРѕ=http://moscowmap.ru/metrostation.asp?metroid=113
+Р”РѕРјРѕРґРµРґРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=112
+РљСЂР°СЃРЅРѕРіРІР°СЂРґРµР№СЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=111
+;РђР»РјР°-РђС‚РёРЅСЃРєР°СЏ=
 
-[Арбатско-Покровская]
-;Митино=
-;Волоколамская=
-;Строгино=
-;Славянский бульвар=
-Крылатское=http://moscowmap.ru/metrostation.asp?metroid=46
-Молодёжная=http://moscowmap.ru/metrostation.asp?metroid=45
-Кунцевская=http://moscowmap.ru/metrostation.asp?metroid=44
-Парк Победы=http://moscowmap.ru/metrostation.asp?metroid=187
-Киевская=http://moscowmap.ru/metrostation.asp?metroid=47
-Смоленская=http://moscowmap.ru/metrostation.asp?metroid=48
-Арбатская=http://moscowmap.ru/metrostation.asp?metroid=49
-Площадь Революции=http://moscowmap.ru/metrostation.asp?metroid=50
-Курская=http://moscowmap.ru/metrostation.asp?metroid=51
-Бауманская=http://moscowmap.ru/metrostation.asp?metroid=52
-Электрозаводская=http://moscowmap.ru/metrostation.asp?metroid=53
-Семеновская=http://moscowmap.ru/metrostation.asp?metroid=54
-Партизанская=http://moscowmap.ru/metrostation.asp?metroid=55
-Измайловская=http://moscowmap.ru/metrostation.asp?metroid=56
-Первомайская=http://moscowmap.ru/metrostation.asp?metroid=57
-Щелковская=http://moscowmap.ru/metrostation.asp?metroid=58
+[РђСЂР±Р°С‚СЃРєРѕ-РџРѕРєСЂРѕРІСЃРєР°СЏ]
+;РњРёС‚РёРЅРѕ=
+;Р’РѕР»РѕРєРѕР»Р°РјСЃРєР°СЏ=
+;РЎС‚СЂРѕРіРёРЅРѕ=
+;РЎР»Р°РІСЏРЅСЃРєРёР№ Р±СѓР»СЊРІР°СЂ=
+РљСЂС‹Р»Р°С‚СЃРєРѕРµ=http://moscowmap.ru/metrostation.asp?metroid=46
+РњРѕР»РѕРґС‘Р¶РЅР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=45
+РљСѓРЅС†РµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=44
+РџР°СЂРє РџРѕР±РµРґС‹=http://moscowmap.ru/metrostation.asp?metroid=187
+РљРёРµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=47
+РЎРјРѕР»РµРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=48
+РђСЂР±Р°С‚СЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=49
+РџР»РѕС‰Р°РґСЊ Р РµРІРѕР»СЋС†РёРё=http://moscowmap.ru/metrostation.asp?metroid=50
+РљСѓСЂСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=51
+Р‘Р°СѓРјР°РЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=52
+Р­Р»РµРєС‚СЂРѕР·Р°РІРѕРґСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=53
+РЎРµРјРµРЅРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=54
+РџР°СЂС‚РёР·Р°РЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=55
+РР·РјР°Р№Р»РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=56
+РџРµСЂРІРѕРјР°Р№СЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=57
+Р©РµР»РєРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=58
 
-[Филевская]
-;Выставочная=
-Александровский сад=http://moscowmap.ru/metrostation.asp?metroid=34
-Арбатская=http://moscowmap.ru/metrostation.asp?metroid=187
-Смоленская=http://moscowmap.ru/metrostation.asp?metroid=36
-Киевская=http://moscowmap.ru/metrostation.asp?metroid=47
-Студенческая=http://moscowmap.ru/metrostation.asp?metroid=38
-Кутузовская=http://moscowmap.ru/metrostation.asp?metroid=39
-Фили=http://moscowmap.ru/metrostation.asp?metroid=40
-Багратионовская=http://moscowmap.ru/metrostation.asp?metroid=41
-Филевский парк=http://moscowmap.ru/metrostation.asp?metroid=42
-Пионерская=http://moscowmap.ru/metrostation.asp?metroid=43
-Кунцевская=http://moscowmap.ru/metrostation.asp?metroid=44
+[Р¤РёР»РµРІСЃРєР°СЏ]
+;Р’С‹СЃС‚Р°РІРѕС‡РЅР°СЏ=
+РђР»РµРєСЃР°РЅРґСЂРѕРІСЃРєРёР№ СЃР°Рґ=http://moscowmap.ru/metrostation.asp?metroid=34
+РђСЂР±Р°С‚СЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=187
+РЎРјРѕР»РµРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=36
+РљРёРµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=47
+РЎС‚СѓРґРµРЅС‡РµСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=38
+РљСѓС‚СѓР·РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=39
+Р¤РёР»Рё=http://moscowmap.ru/metrostation.asp?metroid=40
+Р‘Р°РіСЂР°С‚РёРѕРЅРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=41
+Р¤РёР»РµРІСЃРєРёР№ РїР°СЂРє=http://moscowmap.ru/metrostation.asp?metroid=42
+РџРёРѕРЅРµСЂСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=43
+РљСѓРЅС†РµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=44
 
-[Кольцевая]
-Белорусская=http://moscowmap.ru/metrostation.asp?metroid=3
-Новослободская=http://moscowmap.ru/metrostation.asp?metroid=2
-Проспект Мира=http://moscowmap.ru/metrostation.asp?metroid=75
-Комсомольская=http://moscowmap.ru/metrostation.asp?metroid=12
-Курская=http://moscowmap.ru/metrostation.asp?metroid=51
-Таганская=http://moscowmap.ru/metrostation.asp?metroid=10
-Павелецкая=http://moscowmap.ru/metrostation.asp?metroid=119
-Добрынинская=http://moscowmap.ru/metrostation.asp?metroid=8
-Октябрьская=http://moscowmap.ru/metrostation.asp?metroid=70
-Парк культуры=http://moscowmap.ru/metrostation.asp?metroid=21
-Киевская=http://moscowmap.ru/metrostation.asp?metroid=47
-Краснопресненская=http://moscowmap.ru/metrostation.asp?metroid=4
+[РљРѕР»СЊС†РµРІР°СЏ]
+Р‘РµР»РѕСЂСѓСЃСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=3
+РќРѕРІРѕСЃР»РѕР±РѕРґСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=2
+РџСЂРѕСЃРїРµРєС‚ РњРёСЂР°=http://moscowmap.ru/metrostation.asp?metroid=75
+РљРѕРјСЃРѕРјРѕР»СЊСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=12
+РљСѓСЂСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=51
+РўР°РіР°РЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=10
+РџР°РІРµР»РµС†РєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=119
+Р”РѕР±СЂС‹РЅРёРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=8
+РћРєС‚СЏР±СЂСЊСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=70
+РџР°СЂРє РєСѓР»СЊС‚СѓСЂС‹=http://moscowmap.ru/metrostation.asp?metroid=21
+РљРёРµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=47
+РљСЂР°СЃРЅРѕРїСЂРµСЃРЅРµРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=4
 
-[Калужско-Рижская]
-Новоясеневская=http://moscowmap.ru/metrostation.asp?metroid=59
-Ясенево=http://moscowmap.ru/metrostation.asp?metroid=60
-Теплый Стан=http://moscowmap.ru/metrostation.asp?metroid=61
-Коньково=http://moscowmap.ru/metrostation.asp?metroid=62
-Беляево=http://moscowmap.ru/metrostation.asp?metroid=63
-Калужская=http://moscowmap.ru/metrostation.asp?metroid=64
-Новые Черемушки=http://moscowmap.ru/metrostation.asp?metroid=65
-Профсоюзная=http://moscowmap.ru/metrostation.asp?metroid=66
-Академическая=http://moscowmap.ru/metrostation.asp?metroid=67
-Ленинский проспект=http://moscowmap.ru/metrostation.asp?metroid=68
-Шаболовская=http://moscowmap.ru/metrostation.asp?metroid=69
-Октябрьская=http://moscowmap.ru/metrostation.asp?metroid=70
-Третьяковская=http://moscowmap.ru/metrostation.asp?metroid=71
-Китай-город=http://moscowmap.ru/metrostation.asp?metroid=72
-Тургеневская=http://moscowmap.ru/metrostation.asp?metroid=73
-Сухаревская=http://moscowmap.ru/metrostation.asp?metroid=74
-Проспект Мира=http://moscowmap.ru/metrostation.asp?metroid=75
-Рижская=http://moscowmap.ru/metrostation.asp?metroid=76
-Алексеевская=http://moscowmap.ru/metrostation.asp?metroid=77
-ВДНХ=http://moscowmap.ru/metrostation.asp?metroid=78
-Ботанический сад=http://moscowmap.ru/metrostation.asp?metroid=79
-Свиблово=http://moscowmap.ru/metrostation.asp?metroid=80
-Бабушкинская=http://moscowmap.ru/metrostation.asp?metroid=81
-Медведково=http://moscowmap.ru/metrostation.asp?metroid=82
+[РљР°Р»СѓР¶СЃРєРѕ-Р РёР¶СЃРєР°СЏ]
+РќРѕРІРѕСЏСЃРµРЅРµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=59
+РЇСЃРµРЅРµРІРѕ=http://moscowmap.ru/metrostation.asp?metroid=60
+РўРµРїР»С‹Р№ РЎС‚Р°РЅ=http://moscowmap.ru/metrostation.asp?metroid=61
+РљРѕРЅСЊРєРѕРІРѕ=http://moscowmap.ru/metrostation.asp?metroid=62
+Р‘РµР»СЏРµРІРѕ=http://moscowmap.ru/metrostation.asp?metroid=63
+РљР°Р»СѓР¶СЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=64
+РќРѕРІС‹Рµ Р§РµСЂРµРјСѓС€РєРё=http://moscowmap.ru/metrostation.asp?metroid=65
+РџСЂРѕС„СЃРѕСЋР·РЅР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=66
+РђРєР°РґРµРјРёС‡РµСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=67
+Р›РµРЅРёРЅСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=http://moscowmap.ru/metrostation.asp?metroid=68
+РЁР°Р±РѕР»РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=69
+РћРєС‚СЏР±СЂСЊСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=70
+РўСЂРµС‚СЊСЏРєРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=71
+РљРёС‚Р°Р№-РіРѕСЂРѕРґ=http://moscowmap.ru/metrostation.asp?metroid=72
+РўСѓСЂРіРµРЅРµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=73
+РЎСѓС…Р°СЂРµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=74
+РџСЂРѕСЃРїРµРєС‚ РњРёСЂР°=http://moscowmap.ru/metrostation.asp?metroid=75
+Р РёР¶СЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=76
+РђР»РµРєСЃРµРµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=77
+Р’Р”РќРҐ=http://moscowmap.ru/metrostation.asp?metroid=78
+Р‘РѕС‚Р°РЅРёС‡РµСЃРєРёР№ СЃР°Рґ=http://moscowmap.ru/metrostation.asp?metroid=79
+РЎРІРёР±Р»РѕРІРѕ=http://moscowmap.ru/metrostation.asp?metroid=80
+Р‘Р°Р±СѓС€РєРёРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=81
+РњРµРґРІРµРґРєРѕРІРѕ=http://moscowmap.ru/metrostation.asp?metroid=82
 
-[Таганско-Краснопресненская]
-Выхино=http://moscowmap.ru/metrostation.asp?metroid=131
-Рязанский проспект=http://moscowmap.ru/metrostation.asp?metroid=132
-Кузьминки=http://moscowmap.ru/metrostation.asp?metroid=133
-Текстильщики=http://moscowmap.ru/metrostation.asp?metroid=134
-Волгоградский проспект=http://moscowmap.ru/metrostation.asp?metroid=135
-Пролетарская=http://moscowmap.ru/metrostation.asp?metroid=149
-Таганская=http://moscowmap.ru/metrostation.asp?metroid=10
-Китай-город=http://moscowmap.ru/metrostation.asp?metroid=72
-Кузнецкий мост=http://moscowmap.ru/metrostation.asp?metroid=138
-Пушкинская=http://moscowmap.ru/metrostation.asp?metroid=139
-Баррикадная=http://moscowmap.ru/metrostation.asp?metroid=140
-Улица 1905 года=http://moscowmap.ru/metrostation.asp?metroid=141
-Беговая=http://moscowmap.ru/metrostation.asp?metroid=142
-Полежаевская=http://moscowmap.ru/metrostation.asp?metroid=143
-Октябрьское поле=http://moscowmap.ru/metrostation.asp?metroid=144
-Щукинская=http://moscowmap.ru/metrostation.asp?metroid=145
-Тушинская=http://moscowmap.ru/metrostation.asp?metroid=146
-Сходненская=http://moscowmap.ru/metrostation.asp?metroid=147
-Планерная=http://moscowmap.ru/metrostation.asp?metroid=148
+[РўР°РіР°РЅСЃРєРѕ-РљСЂР°СЃРЅРѕРїСЂРµСЃРЅРµРЅСЃРєР°СЏ]
+Р’С‹С…РёРЅРѕ=http://moscowmap.ru/metrostation.asp?metroid=131
+Р СЏР·Р°РЅСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=http://moscowmap.ru/metrostation.asp?metroid=132
+РљСѓР·СЊРјРёРЅРєРё=http://moscowmap.ru/metrostation.asp?metroid=133
+РўРµРєСЃС‚РёР»СЊС‰РёРєРё=http://moscowmap.ru/metrostation.asp?metroid=134
+Р’РѕР»РіРѕРіСЂР°РґСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=http://moscowmap.ru/metrostation.asp?metroid=135
+РџСЂРѕР»РµС‚Р°СЂСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=149
+РўР°РіР°РЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=10
+РљРёС‚Р°Р№-РіРѕСЂРѕРґ=http://moscowmap.ru/metrostation.asp?metroid=72
+РљСѓР·РЅРµС†РєРёР№ РјРѕСЃС‚=http://moscowmap.ru/metrostation.asp?metroid=138
+РџСѓС€РєРёРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=139
+Р‘Р°СЂСЂРёРєР°РґРЅР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=140
+РЈР»РёС†Р° 1905 РіРѕРґР°=http://moscowmap.ru/metrostation.asp?metroid=141
+Р‘РµРіРѕРІР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=142
+РџРѕР»РµР¶Р°РµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=143
+РћРєС‚СЏР±СЂСЊСЃРєРѕРµ РїРѕР»Рµ=http://moscowmap.ru/metrostation.asp?metroid=144
+Р©СѓРєРёРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=145
+РўСѓС€РёРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=146
+РЎС…РѕРґРЅРµРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=147
+РџР»Р°РЅРµСЂРЅР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=148
 
-[Калининско-Солнцевская]
-Третьяковская=http://moscowmap.ru/metrostation.asp?metroid=71
-Марксистская=http://moscowmap.ru/metrostation.asp?metroid=151
-Площадь Ильича=http://moscowmap.ru/metrostation.asp?metroid=152
-Авиамоторная=http://moscowmap.ru/metrostation.asp?metroid=153
-Шоссе Энтузиастов=http://moscowmap.ru/metrostation.asp?metroid=154
-Перово=http://moscowmap.ru/metrostation.asp?metroid=155
-Новогиреево=http://moscowmap.ru/metrostation.asp?metroid=156
+[РљР°Р»РёРЅРёРЅСЃРєРѕ-РЎРѕР»РЅС†РµРІСЃРєР°СЏ]
+РўСЂРµС‚СЊСЏРєРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=71
+РњР°СЂРєСЃРёСЃС‚СЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=151
+РџР»РѕС‰Р°РґСЊ РР»СЊРёС‡Р°=http://moscowmap.ru/metrostation.asp?metroid=152
+РђРІРёР°РјРѕС‚РѕСЂРЅР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=153
+РЁРѕСЃСЃРµ Р­РЅС‚СѓР·РёР°СЃС‚РѕРІ=http://moscowmap.ru/metrostation.asp?metroid=154
+РџРµСЂРѕРІРѕ=http://moscowmap.ru/metrostation.asp?metroid=155
+РќРѕРІРѕРіРёСЂРµРµРІРѕ=http://moscowmap.ru/metrostation.asp?metroid=156
 
-[Серпуховско-Тимирязевская]
-Бульвар Дмитрия Донского=http://moscowmap.ru/metrostation.asp?metroid=186
-Аннино=http://moscowmap.ru/metrostation.asp?metroid=107
-Улица Академика Янгеля=http://moscowmap.ru/metrostation.asp?metroid=185
-Пражская=http://moscowmap.ru/metrostation.asp?metroid=84
-Южная=http://moscowmap.ru/metrostation.asp?metroid=85
-Чертановская=http://moscowmap.ru/metrostation.asp?metroid=86
-Севастопольская=http://moscowmap.ru/metrostation.asp?metroid=87
-Нахимовский проспект=http://moscowmap.ru/metrostation.asp?metroid=88
-Нагорная=http://moscowmap.ru/metrostation.asp?metroid=89
-Нагатинская=http://moscowmap.ru/metrostation.asp?metroid=90
-Тульская=http://moscowmap.ru/metrostation.asp?metroid=91
-Серпуховская=http://moscowmap.ru/metrostation.asp?metroid=92
-Полянка=http://moscowmap.ru/metrostation.asp?metroid=93
-Боровицкая=http://moscowmap.ru/metrostation.asp?metroid=94
-Чеховская=http://moscowmap.ru/metrostation.asp?metroid=95
-Цветной бульвар =http://moscowmap.ru/metrostation.asp?metroid=96
-Менделеевская=http://moscowmap.ru/metrostation.asp?metroid=97
-Савеловская=http://moscowmap.ru/metrostation.asp?metroid=98
-Дмитровская=http://moscowmap.ru/metrostation.asp?metroid=99
-Тимирязевская=http://moscowmap.ru/metrostation.asp?metroid=100
-Петровско-Разумовская=http://moscowmap.ru/metrostation.asp?metroid=101
-Владыкино=http://moscowmap.ru/metrostation.asp?metroid=102
-Отрадное=http://moscowmap.ru/metrostation.asp?metroid=103
-Бибирево=http://moscowmap.ru/metrostation.asp?metroid=104
-Алтуфьево=http://moscowmap.ru/metrostation.asp?metroid=105
+[РЎРµСЂРїСѓС…РѕРІСЃРєРѕ-РўРёРјРёСЂСЏР·РµРІСЃРєР°СЏ]
+Р‘СѓР»СЊРІР°СЂ Р”РјРёС‚СЂРёСЏ Р”РѕРЅСЃРєРѕРіРѕ=http://moscowmap.ru/metrostation.asp?metroid=186
+РђРЅРЅРёРЅРѕ=http://moscowmap.ru/metrostation.asp?metroid=107
+РЈР»РёС†Р° РђРєР°РґРµРјРёРєР° РЇРЅРіРµР»СЏ=http://moscowmap.ru/metrostation.asp?metroid=185
+РџСЂР°Р¶СЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=84
+Р®Р¶РЅР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=85
+Р§РµСЂС‚Р°РЅРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=86
+РЎРµРІР°СЃС‚РѕРїРѕР»СЊСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=87
+РќР°С…РёРјРѕРІСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=http://moscowmap.ru/metrostation.asp?metroid=88
+РќР°РіРѕСЂРЅР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=89
+РќР°РіР°С‚РёРЅСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=90
+РўСѓР»СЊСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=91
+РЎРµСЂРїСѓС…РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=92
+РџРѕР»СЏРЅРєР°=http://moscowmap.ru/metrostation.asp?metroid=93
+Р‘РѕСЂРѕРІРёС†РєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=94
+Р§РµС…РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=95
+Р¦РІРµС‚РЅРѕР№ Р±СѓР»СЊРІР°СЂ =http://moscowmap.ru/metrostation.asp?metroid=96
+РњРµРЅРґРµР»РµРµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=97
+РЎР°РІРµР»РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=98
+Р”РјРёС‚СЂРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=99
+РўРёРјРёСЂСЏР·РµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=100
+РџРµС‚СЂРѕРІСЃРєРѕ-Р Р°Р·СѓРјРѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=101
+Р’Р»Р°РґС‹РєРёРЅРѕ=http://moscowmap.ru/metrostation.asp?metroid=102
+РћС‚СЂР°РґРЅРѕРµ=http://moscowmap.ru/metrostation.asp?metroid=103
+Р‘РёР±РёСЂРµРІРѕ=http://moscowmap.ru/metrostation.asp?metroid=104
+РђР»С‚СѓС„СЊРµРІРѕ=http://moscowmap.ru/metrostation.asp?metroid=105
 
-[Люблинско-Дмитровская]
-;Достоевская=
-;Трубная=
-Чкаловская=http://moscowmap.ru/metrostation.asp?metroid=170
-Римская=http://moscowmap.ru/metrostation.asp?metroid=169
-Крестьянская застава=http://moscowmap.ru/metrostation.asp?metroid=168
-Дубровка=http://moscowmap.ru/metrostation.asp?metroid=167
-Кожуховская=http://moscowmap.ru/metrostation.asp?metroid=166
-Печатники=http://moscowmap.ru/metrostation.asp?metroid=165
-Волжская=http://moscowmap.ru/metrostation.asp?metroid=164
-Люблино=http://moscowmap.ru/metrostation.asp?metroid=163
-Братиславская=http://moscowmap.ru/metrostation.asp?metroid=157
-Марьино=http://moscowmap.ru/metrostation.asp?metroid=161
+[Р›СЋР±Р»РёРЅСЃРєРѕ-Р”РјРёС‚СЂРѕРІСЃРєР°СЏ]
+;Р”РѕСЃС‚РѕРµРІСЃРєР°СЏ=
+;РўСЂСѓР±РЅР°СЏ=
+Р§РєР°Р»РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=170
+Р РёРјСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=169
+РљСЂРµСЃС‚СЊСЏРЅСЃРєР°СЏ Р·Р°СЃС‚Р°РІР°=http://moscowmap.ru/metrostation.asp?metroid=168
+Р”СѓР±СЂРѕРІРєР°=http://moscowmap.ru/metrostation.asp?metroid=167
+РљРѕР¶СѓС…РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=166
+РџРµС‡Р°С‚РЅРёРєРё=http://moscowmap.ru/metrostation.asp?metroid=165
+Р’РѕР»Р¶СЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=164
+Р›СЋР±Р»РёРЅРѕ=http://moscowmap.ru/metrostation.asp?metroid=163
+Р‘СЂР°С‚РёСЃР»Р°РІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=157
+РњР°СЂСЊРёРЅРѕ=http://moscowmap.ru/metrostation.asp?metroid=161
 
-[Каховская]
-Каширская=http://moscowmap.ru/metrostation.asp?metroid=116
-Варшавская=http://moscowmap.ru/metrostation.asp?metroid=110
-Каховская=http://moscowmap.ru/metrostation.asp?metroid=109
+[РљР°С…РѕРІСЃРєР°СЏ]
+РљР°С€РёСЂСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=116
+Р’Р°СЂС€Р°РІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=110
+РљР°С…РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=109
 
-[Бутовская]
-Улица Старокачаловская=http://moscowmap.ru/metrostation.asp?metroid=192
-Улица Скобелевская=http://moscowmap.ru/metrostation.asp?metroid=190
-Бульвар Адмирала Ушакова=http://moscowmap.ru/metrostation.asp?metroid=191
-Улица Горчакова=http://moscowmap.ru/metrostation.asp?metroid=189
-Бунинская аллея=http://moscowmap.ru/metrostation.asp?metroid=188
-;Улица Старопотаповская=
-;Улица Остафьевская=
-;Новокурьяново=
+[Р‘СѓС‚РѕРІСЃРєР°СЏ]
+РЈР»РёС†Р° РЎС‚Р°СЂРѕРєР°С‡Р°Р»РѕРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=192
+РЈР»РёС†Р° РЎРєРѕР±РµР»РµРІСЃРєР°СЏ=http://moscowmap.ru/metrostation.asp?metroid=190
+Р‘СѓР»СЊРІР°СЂ РђРґРјРёСЂР°Р»Р° РЈС€Р°РєРѕРІР°=http://moscowmap.ru/metrostation.asp?metroid=191
+РЈР»РёС†Р° Р“РѕСЂС‡Р°РєРѕРІР°=http://moscowmap.ru/metrostation.asp?metroid=189
+Р‘СѓРЅРёРЅСЃРєР°СЏ Р°Р»Р»РµСЏ=http://moscowmap.ru/metrostation.asp?metroid=188
+;РЈР»РёС†Р° РЎС‚Р°СЂРѕРїРѕС‚Р°РїРѕРІСЃРєР°СЏ=
+;РЈР»РёС†Р° РћСЃС‚Р°С„СЊРµРІСЃРєР°СЏ=
+;РќРѕРІРѕРєСѓСЂСЊСЏРЅРѕРІРѕ=
 

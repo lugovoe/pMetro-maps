@@ -1,16 +1,16 @@
 [Options]
 AddToInfo=1
-CityName=Ташкент
-Caption=Рестораны
-MenuName=Разное\Рестораны
+CityName=РўР°С€РєРµРЅС‚
+Caption=Р РµСЃС‚РѕСЂР°РЅС‹
+MenuName=Р Р°Р·РЅРѕРµ\Р РµСЃС‚РѕСЂР°РЅС‹
 StringToAdd='  '
 
 [Chilonzor]
 ;Olmazor=
 ;Chilonzor=
 ;Mirzo Ulug'bek=
-Novza=Ресторан "Флагман"
-Amir Temur Xiyoboni=Бар "Вертикальный мир"
+Novza=Р РµСЃС‚РѕСЂР°РЅ "Р¤Р»Р°РіРјР°РЅ"
+Amir Temur Xiyoboni=Р‘Р°СЂ "Р’РµСЂС‚РёРєР°Р»СЊРЅС‹Р№ РјРёСЂ"
 ;Milliy Bog'=
 ;Bunyodkor=
 ;Paxtakor=
@@ -24,18 +24,18 @@ Amir Temur Xiyoboni=Бар "Вертикальный мир"
 ;Beruniy=
 ;Tinchlik=
 ;Chorsu=
-G'afur G'ulom=Ресторан "Россини"
+G'afur G'ulom=Р РµСЃС‚РѕСЂР°РЅ "Р РѕСЃСЃРёРЅРё"
 ;Alisher Navoiy=
 ;O'zbekiston=
 ;Kosmonavtlar=
-Oybek=Ресторан Angels Food
-Toshkent=Ресторан "Бриллиантовая рука"
+Oybek=Р РµСЃС‚РѕСЂР°РЅ Angels Food
+Toshkent=Р РµСЃС‚РѕСЂР°РЅ "Р‘СЂРёР»Р»РёР°РЅС‚РѕРІР°СЏ СЂСѓРєР°"
 ;Mashinasozlar=
 ;Do'stlik=
 
 [Yunusobod]
-Yunus Rajabiy=Бар "Вертикальный мир"
-Ming O'rik=Ресторан Angels Food
+Yunus Rajabiy=Р‘Р°СЂ "Р’РµСЂС‚РёРєР°Р»СЊРЅС‹Р№ РјРёСЂ"
+Ming O'rik=Р РµСЃС‚РѕСЂР°РЅ Angels Food
 ;Ming O'rik=
 ;Yunus Rajabiy=
 ;Abdulla Qodiriy=

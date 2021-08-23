@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=0
-Caption=Паркинг
+Caption=РџР°СЂРєРёРЅРі
 CityName=Praha
-MenuName=Разное\Паркинги
+MenuName=Р Р°Р·РЅРѕРµ\РџР°СЂРєРёРЅРіРё
 MenuImage=Parkings.bmp
 
 [A]

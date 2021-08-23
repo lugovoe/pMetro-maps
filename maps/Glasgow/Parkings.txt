@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-CityName=Glasgow (Глазго)
-MenuName=Разное\Паркинги
-Caption=Паркинги
+CityName=Glasgow (Р“Р»Р°Р·РіРѕ)
+MenuName=Р Р°Р·РЅРѕРµ\РџР°СЂРєРёРЅРіРё
+Caption=РџР°СЂРєРёРЅРіРё
 StringToAdd=
 
 [Circle line]

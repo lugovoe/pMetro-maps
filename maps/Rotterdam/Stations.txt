@@ -1,15 +1,15 @@
 [Options]
 AddToInfo=1
-CityName=Rotterdam (Роттердам)
-MenuName=Разное\Ж/д станции
-Caption=Станции
-StringToAdd='Ж/д станция '
+CityName=Rotterdam (Р РѕС‚С‚РµСЂРґР°Рј)
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=РЎС‚Р°РЅС†РёРё
+StringToAdd='Р–/Рґ СЃС‚Р°РЅС†РёСЏ '
 
 [Erasmuslijn]
-Central Station=Центральный одноименный вокзал
-Rijnhaven=Одноименная станция
+Central Station=Р¦РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РѕРґРЅРѕРёРјРµРЅРЅС‹Р№ РІРѕРєР·Р°Р»
+Rijnhaven=РћРґРЅРѕРёРјРµРЅРЅР°СЏ СЃС‚Р°РЅС†РёСЏ
 
 [Calandlijn]
-Alexander=Одноименная станция
-Sciedam Centrum=Одноименная станция
+Alexander=РћРґРЅРѕРёРјРµРЅРЅР°СЏ СЃС‚Р°РЅС†РёСЏ
+Sciedam Centrum=РћРґРЅРѕРёРјРµРЅРЅР°СЏ СЃС‚Р°РЅС†РёСЏ
 

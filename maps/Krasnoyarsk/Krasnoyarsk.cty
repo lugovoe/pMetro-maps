@@ -1,10 +1,10 @@
 [Options]
 Name=Krasnoyarsk
-CityName=Красноярск
-Country=Россия
-RusName=Красноярск
-Comment=Перспективная схема метро
+CityName=РљСЂР°СЃРЅРѕСЏСЂСЃРє
+Country=Р РѕСЃСЃРёСЏ
+RusName=РљСЂР°СЃРЅРѕСЏСЂСЃРє
+Comment=РџРµСЂСЃРїРµРєС‚РёРІРЅР°СЏ СЃС…РµРјР° РјРµС‚СЂРѕ
 NeedVersion=1.26.3
-MapAuthors=Схема от 09.03.2008г.
-MapAuthors=Мурадов Борис
+MapAuthors=РЎС…РµРјР° РѕС‚ 09.03.2008Рі.
+MapAuthors=РњСѓСЂР°РґРѕРІ Р‘РѕСЂРёСЃ
 

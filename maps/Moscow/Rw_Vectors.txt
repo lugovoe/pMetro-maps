@@ -1,66 +1,66 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Москва
+Caption=РЎС…РµРјР°
+CityName=РњРѕСЃРєРІР°
 Type=Image
 
-[Междувокзальная]
-Москва Смоленская=BelZ.vec
-Савеловская=Savelovskaya.vec
-Москва Савеловская=Savelovskaya.vec
-Дмитровская=DmitrovskayaZhD.vec
+[РњРµР¶РґСѓРІРѕРєР·Р°Р»СЊРЅР°СЏ]
+РњРѕСЃРєРІР° РЎРјРѕР»РµРЅСЃРєР°СЏ=BelZ.vec
+РЎР°РІРµР»РѕРІСЃРєР°СЏ=Savelovskaya.vec
+РњРѕСЃРєРІР° РЎР°РІРµР»РѕРІСЃРєР°СЏ=Savelovskaya.vec
+Р”РјРёС‚СЂРѕРІСЃРєР°СЏ=DmitrovskayaZhD.vec
 
-[Рязанская]
-Электрозаводская=ElectrozavodskayaZhD.vec
-Новая=Novaya.vec
-Перово=Chuhlinka.vec
-Выхино=Vyhino.vec
-Отдых=Otdyh.vec
+[Р СЏР·Р°РЅСЃРєР°СЏ]
+Р­Р»РµРєС‚СЂРѕР·Р°РІРѕРґСЃРєР°СЏ=ElectrozavodskayaZhD.vec
+РќРѕРІР°СЏ=Novaya.vec
+РџРµСЂРѕРІРѕ=Chuhlinka.vec
+Р’С‹С…РёРЅРѕ=Vyhino.vec
+РћС‚РґС‹С…=Otdyh.vec
 
-[Савеловская]
-Москва Савеловская=Savelovskaya.vec
-Бескудниково=Beskudnikovo.vec
-Дубна=Dubna.vec
+[РЎР°РІРµР»РѕРІСЃРєР°СЏ]
+РњРѕСЃРєРІР° РЎР°РІРµР»РѕРІСЃРєР°СЏ=Savelovskaya.vec
+Р‘РµСЃРєСѓРґРЅРёРєРѕРІРѕ=Beskudnikovo.vec
+Р”СѓР±РЅР°=Dubna.vec
 
-[Рижская]
-Дмитровская=DmitrovskayaZhD.vec
-Ленинградская=Leningradskaya.vec
-Покровское-Стрешнево=Pokrovskoe-Streshnevo.vec
-Тушино=Tushinskaya.vec
-Павшино=Pavshino.vec
-Опалиха=Opalikha.vec
-Аникеевка=Anikeevka.vec
-Нахабино=Nakhabino.vec
-Манихино-1=Manikhino.vec
-Истра=Istra.vec
+[Р РёР¶СЃРєР°СЏ]
+Р”РјРёС‚СЂРѕРІСЃРєР°СЏ=DmitrovskayaZhD.vec
+Р›РµРЅРёРЅРіСЂР°РґСЃРєР°СЏ=Leningradskaya.vec
+РџРѕРєСЂРѕРІСЃРєРѕРµ-РЎС‚СЂРµС€РЅРµРІРѕ=Pokrovskoe-Streshnevo.vec
+РўСѓС€РёРЅРѕ=Tushinskaya.vec
+РџР°РІС€РёРЅРѕ=Pavshino.vec
+РћРїР°Р»РёС…Р°=Opalikha.vec
+РђРЅРёРєРµРµРІРєР°=Anikeevka.vec
+РќР°С…Р°Р±РёРЅРѕ=Nakhabino.vec
+РњР°РЅРёС…РёРЅРѕ-1=Manikhino.vec
+РСЃС‚СЂР°=Istra.vec
 
-[Павелецкая]
-Расторгуево=Rastorguevo.vec
-Барыбино=Barybino.vec
+[РџР°РІРµР»РµС†РєР°СЏ]
+Р Р°СЃС‚РѕСЂРіСѓРµРІРѕ=Rastorguevo.vec
+Р‘Р°СЂС‹Р±РёРЅРѕ=Barybino.vec
 
-[Белорусская]
-Москва Смоленская=BelZ.vec
-Беговая=Begovaya.vec
-Тестовская=Testovskaya.vec
-Фили=FiliZ.vec
-Кунцево=Kunz.vec
-Рабочий Поселок=RabochiyPoselok.vec
-Сетунь=Setun.vec
-Раздоры=Razdory.vec
+[Р‘РµР»РѕСЂСѓСЃСЃРєР°СЏ]
+РњРѕСЃРєРІР° РЎРјРѕР»РµРЅСЃРєР°СЏ=BelZ.vec
+Р‘РµРіРѕРІР°СЏ=Begovaya.vec
+РўРµСЃС‚РѕРІСЃРєР°СЏ=Testovskaya.vec
+Р¤РёР»Рё=FiliZ.vec
+РљСѓРЅС†РµРІРѕ=Kunz.vec
+Р Р°Р±РѕС‡РёР№ РџРѕСЃРµР»РѕРє=RabochiyPoselok.vec
+РЎРµС‚СѓРЅСЊ=Setun.vec
+Р Р°Р·РґРѕСЂС‹=Razdory.vec
 
-[Курская]
-Текстильщики=Tekstilshchiki.vec
-Чехов=Chekhov.vec
-Царицыно=TSaritsynoZhD.vec
+[РљСѓСЂСЃРєР°СЏ]
+РўРµРєСЃС‚РёР»СЊС‰РёРєРё=Tekstilshchiki.vec
+Р§РµС…РѕРІ=Chekhov.vec
+Р¦Р°СЂРёС†С‹РЅРѕ=TSaritsynoZhD.vec
 
-[Ленинградская]
-Петровско-Разумовское=PetrRazumRZD.vec
-Моссельмаш=MosselmashRZD.vec
-Подсолнечная=Pods.vec
+[Р›РµРЅРёРЅРіСЂР°РґСЃРєР°СЏ]
+РџРµС‚СЂРѕРІСЃРєРѕ-Р Р°Р·СѓРјРѕРІСЃРєРѕРµ=PetrRazumRZD.vec
+РњРѕСЃСЃРµР»СЊРјР°С€=MosselmashRZD.vec
+РџРѕРґСЃРѕР»РЅРµС‡РЅР°СЏ=Pods.vec
 
-[Горьковская]
-Серп и Молот=Rimskaya.vec
-Чухлинка=Chuhlinka.vec
-Новогиреево=NovogireevoZhD.vec
-Реутово=Reutovo.vec
-Электроугли=ElectroUgli.vec
+[Р“РѕСЂСЊРєРѕРІСЃРєР°СЏ]
+РЎРµСЂРї Рё РњРѕР»РѕС‚=Rimskaya.vec
+Р§СѓС…Р»РёРЅРєР°=Chuhlinka.vec
+РќРѕРІРѕРіРёСЂРµРµРІРѕ=NovogireevoZhD.vec
+Р РµСѓС‚РѕРІРѕ=Reutovo.vec
+Р­Р»РµРєС‚СЂРѕСѓРіР»Рё=ElectroUgli.vec

@@ -1,23 +1,23 @@
 [Options]
 AddToInfo=1
-CityName=Roma (Рим)
-MenuName=Разное\Паркинги
-Caption=Паркинги
+CityName=Roma (Р РёРј)
+MenuName=Р Р°Р·РЅРѕРµ\РџР°СЂРєРёРЅРіРё
+Caption=РџР°СЂРєРёРЅРіРё
 StringToAdd=
 
 [A]
-Cornelia=Улица Cornelia, 640 мест.
-Anagnina=Улица Tuscolana, 432 мест.
-Cinecitta=Улица Tuscolana, 436 мест.
-Arco di Travertino=Улица Carrocetto, 411 мест.
-Valle Aurelia=Улица Di Bartolo, 126 мест.
-Cipro - Musei Vaticani=Улица Angelo Emo, 282 мест.
+Cornelia=РЈР»РёС†Р° Cornelia, 640 РјРµСЃС‚.
+Anagnina=РЈР»РёС†Р° Tuscolana, 432 РјРµСЃС‚.
+Cinecitta=РЈР»РёС†Р° Tuscolana, 436 РјРµСЃС‚.
+Arco di Travertino=РЈР»РёС†Р° Carrocetto, 411 РјРµСЃС‚.
+Valle Aurelia=РЈР»РёС†Р° Di Bartolo, 126 РјРµСЃС‚.
+Cipro - Musei Vaticani=РЈР»РёС†Р° Angelo Emo, 282 РјРµСЃС‚.
 
 [B]
-Laurentina=Улица De Suppe, 1268 мест.
-Eur Magliana=Улица  Val Fiorita, 962 мест.
-Rebibbia=Улица Casal de Pazzi, 328 мест.
-Tiburtina=Улица P.L'Eremita, 127 мест.
-Ponte Mammolo=Улица delle Messi d'Oro, 1302 мест.\nУлица Togliatti, 270 мест.
-Santa Maria del Soccorso=Улица Togliatti, 475 мест.
+Laurentina=РЈР»РёС†Р° De Suppe, 1268 РјРµСЃС‚.
+Eur Magliana=РЈР»РёС†Р°  Val Fiorita, 962 РјРµСЃС‚.
+Rebibbia=РЈР»РёС†Р° Casal de Pazzi, 328 РјРµСЃС‚.
+Tiburtina=РЈР»РёС†Р° P.L'Eremita, 127 РјРµСЃС‚.
+Ponte Mammolo=РЈР»РёС†Р° delle Messi d'Oro, 1302 РјРµСЃС‚.\nРЈР»РёС†Р° Togliatti, 270 РјРµСЃС‚.
+Santa Maria del Soccorso=РЈР»РёС†Р° Togliatti, 475 РјРµСЃС‚.
 

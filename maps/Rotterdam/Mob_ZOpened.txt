@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
-CityName=Rotterdam (Роттердам)
-MenuName=Моб.связь\Открытые станции
+CityName=Rotterdam (Р РѕС‚С‚РµСЂРґР°Рј)
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\РћС‚РєСЂС‹С‚С‹Рµ СЃС‚Р°РЅС†РёРё
 Caption=z
 
 [Drivings]

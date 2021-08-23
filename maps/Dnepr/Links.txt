@@ -1,16 +1,16 @@
 [Options]
 AddToInfo=1
-Caption=Ссылки
-CityName=Днепр
-StringToAdd='Описание: '
+Caption=РЎСЃС‹Р»РєРё
+CityName=Р”РЅРµРїСЂ
+StringToAdd='РћРїРёСЃР°РЅРёРµ: '
 
-[Центрально-заводская]
-Центральная=http://gorod.dp.ua/metro/?pageid=282\nhttp://metro.dp.ua/stations/tsentralnaya.html
-Театральная=http://gorod.dp.ua/metro/?pageid=281\nhttp://metro.dp.ua/stations/teatralnaya.html
-Вокзальная=http://gorod.dp.ua/metro/?pageid=274\nhttp://metro.dp.ua/stations/vokzalnaya.html
-Метростроителей=http://gorod.dp.ua/metro/?pageid=275\nhttp://metro.dp.ua/stations/metrobuild.html
-Металлургов=http://gorod.dp.ua/metro/?pageid=276\nhttp://metro.dp.ua/stations/metallurgov.html
-Заводская=http://gorod.dp.ua/metro/?pageid=277\nhttp://metro.dp.ua/stations/zavodskaya.html
-Проспект Свободы=http://gorod.dp.ua/metro/?pageid=278\nhttp://metro.dp.ua/stations/prospekt-svobody.html
-Покровская=http://gorod.dp.ua/metro/?pageid=279\nhttp://metro.dp.ua/stations/kommunar.html
+[Р¦РµРЅС‚СЂР°Р»СЊРЅРѕ-Р·Р°РІРѕРґСЃРєР°СЏ]
+Р¦РµРЅС‚СЂР°Р»СЊРЅР°СЏ=http://gorod.dp.ua/metro/?pageid=282\nhttp://metro.dp.ua/stations/tsentralnaya.html
+РўРµР°С‚СЂР°Р»СЊРЅР°СЏ=http://gorod.dp.ua/metro/?pageid=281\nhttp://metro.dp.ua/stations/teatralnaya.html
+Р’РѕРєР·Р°Р»СЊРЅР°СЏ=http://gorod.dp.ua/metro/?pageid=274\nhttp://metro.dp.ua/stations/vokzalnaya.html
+РњРµС‚СЂРѕСЃС‚СЂРѕРёС‚РµР»РµР№=http://gorod.dp.ua/metro/?pageid=275\nhttp://metro.dp.ua/stations/metrobuild.html
+РњРµС‚Р°Р»Р»СѓСЂРіРѕРІ=http://gorod.dp.ua/metro/?pageid=276\nhttp://metro.dp.ua/stations/metallurgov.html
+Р—Р°РІРѕРґСЃРєР°СЏ=http://gorod.dp.ua/metro/?pageid=277\nhttp://metro.dp.ua/stations/zavodskaya.html
+РџСЂРѕСЃРїРµРєС‚ РЎРІРѕР±РѕРґС‹=http://gorod.dp.ua/metro/?pageid=278\nhttp://metro.dp.ua/stations/prospekt-svobody.html
+РџРѕРєСЂРѕРІСЃРєР°СЏ=http://gorod.dp.ua/metro/?pageid=279\nhttp://metro.dp.ua/stations/kommunar.html
 

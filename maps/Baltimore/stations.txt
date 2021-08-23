@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
 CityName=Baltimore
-MenuName=Разное\Ж/д станции (MARC)
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё (MARC)
 
 [Penn Station-Camden Yards]
 Penn Station=

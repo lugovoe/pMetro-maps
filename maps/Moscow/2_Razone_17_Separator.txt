@@ -1,4 +1,4 @@
 [Options]
 AddToInfo=0
-MenuName=Разное\-
+MenuName=Р Р°Р·РЅРѕРµ\-
 

@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Макет
-CityName=Самара
+Caption=РњР°РєРµС‚
+CityName=РЎР°РјР°СЂР°
 Type=3dImage
 
-[Первая]
-Козья слобода=KozyaSloboda.pm3d
+[РџРµСЂРІР°СЏ]
+РљРѕР·СЊСЏ СЃР»РѕР±РѕРґР°=KozyaSloboda.pm3d

@@ -1,18 +1,18 @@
 [Options]
 AddToInfo=1
-Caption=Макет
-CityName=Самара
+Caption=РњР°РєРµС‚
+CityName=РЎР°РјР°СЂР°
 Type=3dImage
 
 [1]
-Алабинская=Alabinskaya.pm3d
-Российская=Rossiyskaya.pm3d
-Московская=Moskovskaya.pm3d
-Гагаринская=Gagarinskaya.pm3d
-Спортивная=Sportivnaya.pm3d
-Советская=Sovetskaya.pm3d
-Победа=Pobeda.pm3d
-Безымянка=Bezymyanka.pm3d
-Кировская=Kirovskaya.pm3d
-Юнгородок=Yungorodok.pm3d
-Крылья Советов=KrylyaSovetov.pm3d
+РђР»Р°Р±РёРЅСЃРєР°СЏ=Alabinskaya.pm3d
+Р РѕСЃСЃРёР№СЃРєР°СЏ=Rossiyskaya.pm3d
+РњРѕСЃРєРѕРІСЃРєР°СЏ=Moskovskaya.pm3d
+Р“Р°РіР°СЂРёРЅСЃРєР°СЏ=Gagarinskaya.pm3d
+РЎРїРѕСЂС‚РёРІРЅР°СЏ=Sportivnaya.pm3d
+РЎРѕРІРµС‚СЃРєР°СЏ=Sovetskaya.pm3d
+РџРѕР±РµРґР°=Pobeda.pm3d
+Р‘РµР·С‹РјСЏРЅРєР°=Bezymyanka.pm3d
+РљРёСЂРѕРІСЃРєР°СЏ=Kirovskaya.pm3d
+Р®РЅРіРѕСЂРѕРґРѕРє=Yungorodok.pm3d
+РљСЂС‹Р»СЊСЏ РЎРѕРІРµС‚РѕРІ=KrylyaSovetov.pm3d

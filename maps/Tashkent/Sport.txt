@@ -1,20 +1,20 @@
 [Options]
 AddToInfo=1
-CityName=Ташкент
-Caption=Спорт
-MenuName=Разное\Спорт
+CityName=РўР°С€РєРµРЅС‚
+Caption=РЎРїРѕСЂС‚
+MenuName=Р Р°Р·РЅРѕРµ\РЎРїРѕСЂС‚
 StringToAdd='  '
 
 [Chilonzor]
 ;Olmazor=
 ;Chilonzor=
-Mirzo Ulug'bek=Стадион МХСК
+Mirzo Ulug'bek=РЎС‚Р°РґРёРѕРЅ РњРҐРЎРљ
 ;Novza=
 ;Milliy Bog'=
 ;Bunyodkor=
 ;Paxtakor=
 ;Mustaqillik Maydoni=
-Amir Temur Xiyoboni=Дворец водного спорта им. Митрофанова
+Amir Temur Xiyoboni=Р”РІРѕСЂРµС† РІРѕРґРЅРѕРіРѕ СЃРїРѕСЂС‚Р° РёРј. РњРёС‚СЂРѕС„Р°РЅРѕРІР°
 ;Hamid Olimjon=
 ;Pushkin=
 ;Buyuk Ipak Yo'li=
@@ -38,8 +38,8 @@ Amir Temur Xiyoboni=Дворец водного спорта им. Митрофанова
 ;Abdulla Qodiriy=
 ;Minor=
 ;Bodomzor=
-Shahriston=Спортивный комплекс "ЮнусАбад"
-Yunus Rajabiy=Дворец водного спорта им. Митрофанова
+Shahriston=РЎРїРѕСЂС‚РёРІРЅС‹Р№ РєРѕРјРїР»РµРєСЃ "Р®РЅСѓСЃРђР±Р°Рґ"
+Yunus Rajabiy=Р”РІРѕСЂРµС† РІРѕРґРЅРѕРіРѕ СЃРїРѕСЂС‚Р° РёРј. РњРёС‚СЂРѕС„Р°РЅРѕРІР°
 ;Yunus-Obod=
 ;Turkiston=
 

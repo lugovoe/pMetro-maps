@@ -1,11 +1,11 @@
 [Options]
 Name=Helsinki
 CityName=Helsinki
-Country=Финляндия
-RusName=Хельсинки
+Country=Р¤РёРЅР»СЏРЅРґРёСЏ
+RusName=РҐРµР»СЊСЃРёРЅРєРё
 NeedVersion=1.26.3
-MapAuthors=Схема от 20.07.2008г.
-MapAuthors=За основу взята схема с http://www.urbanrail.net/eu/hel/helsinki2.htm
-MapAuthors=Интервалы и информация о наземном транспорте взяты с http://www.hel.fi/hkl
-MapAuthors=Составил карту Федор Никулин
+MapAuthors=РЎС…РµРјР° РѕС‚ 20.07.2008Рі.
+MapAuthors=Р—Р° РѕСЃРЅРѕРІСѓ РІР·СЏС‚Р° СЃС…РµРјР° СЃ http://www.urbanrail.net/eu/hel/helsinki2.htm
+MapAuthors=РРЅС‚РµСЂРІР°Р»С‹ Рё РёРЅС„РѕСЂРјР°С†РёСЏ Рѕ РЅР°Р·РµРјРЅРѕРј С‚СЂР°РЅСЃРїРѕСЂС‚Рµ РІР·СЏС‚С‹ СЃ http://www.hel.fi/hkl
+MapAuthors=РЎРѕСЃС‚Р°РІРёР» РєР°СЂС‚Сѓ Р¤РµРґРѕСЂ РќРёРєСѓР»РёРЅ
 

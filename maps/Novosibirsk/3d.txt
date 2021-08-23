@@ -1,22 +1,22 @@
 [Options]
 AddToInfo=1
-Caption=Макет
-CityName=Новосибирск
+Caption=РњР°РєРµС‚
+CityName=РќРѕРІРѕСЃРёР±РёСЂСЃРє
 Type=3dImage
 
-[Ленинская]
-Заельцовская=Zaeltsovskaya.pm3d
-Гагаринская=Gagarinskaya.pm3d
-Красный проспект=KrasnyProspekt-Sibirskaya.pm3d
-Речной Вокзал=RechnoyVokzal.pm3d
-Площадь Маркса=PlMarksa.pm3d
-Площадь Ленина=PlLenina.pm3d
-Октябрьская=Oktyabrskaya.pm3d
-Студенческая=Studencheskaya.pm3d
+[Р›РµРЅРёРЅСЃРєР°СЏ]
+Р—Р°РµР»СЊС†РѕРІСЃРєР°СЏ=Zaeltsovskaya.pm3d
+Р“Р°РіР°СЂРёРЅСЃРєР°СЏ=Gagarinskaya.pm3d
+РљСЂР°СЃРЅС‹Р№ РїСЂРѕСЃРїРµРєС‚=KrasnyProspekt-Sibirskaya.pm3d
+Р РµС‡РЅРѕР№ Р’РѕРєР·Р°Р»=RechnoyVokzal.pm3d
+РџР»РѕС‰Р°РґСЊ РњР°СЂРєСЃР°=PlMarksa.pm3d
+РџР»РѕС‰Р°РґСЊ Р›РµРЅРёРЅР°=PlLenina.pm3d
+РћРєС‚СЏР±СЂСЊСЃРєР°СЏ=Oktyabrskaya.pm3d
+РЎС‚СѓРґРµРЅС‡РµСЃРєР°СЏ=Studencheskaya.pm3d
 
-[Дзержинская]
-Площадь Гарина-Михайловского=PlGarinaMikhailovskogo.pm3d
-Сибирская=KrasnyProspekt-Sibirskaya.pm3d
-Березовая Роща=BeryozovayaRoscha.pm3d
-Маршала Покрышкина=MarshalaPokryshkina.pm3d
-Золотая Нива=ZolotayaNiva.pm3d
+[Р”Р·РµСЂР¶РёРЅСЃРєР°СЏ]
+РџР»РѕС‰Р°РґСЊ Р“Р°СЂРёРЅР°-РњРёС…Р°Р№Р»РѕРІСЃРєРѕРіРѕ=PlGarinaMikhailovskogo.pm3d
+РЎРёР±РёСЂСЃРєР°СЏ=KrasnyProspekt-Sibirskaya.pm3d
+Р‘РµСЂРµР·РѕРІР°СЏ Р РѕС‰Р°=BeryozovayaRoscha.pm3d
+РњР°СЂС€Р°Р»Р° РџРѕРєСЂС‹С€РєРёРЅР°=MarshalaPokryshkina.pm3d
+Р—РѕР»РѕС‚Р°СЏ РќРёРІР°=ZolotayaNiva.pm3d

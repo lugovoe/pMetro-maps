@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
 CityName=Valencia
-MenuName=Ìîá.ñâÿçü\Îòêğûòûå ó÷àñòêè
+MenuName=ĞœĞ¾Ğ±.ÑĞ²ÑĞ·ÑŒ\ĞÑ‚ĞºÑ€Ñ‹Ñ‚Ñ‹Ğµ ÑƒÑ‡Ğ°ÑÑ‚ĞºĞ¸
 
 [Drivings]
 Lliria=1,Lliria,Cantereria
@@ -38,7 +38,7 @@ Lliria=
 Benaguasil 2n=
 Benaguasil 1r=
 La Pobla de Vallbona=
-L’Eliana=
+Lâ€™Eliana=
 Montesol=
 El Clot=
 Entrepins=
@@ -49,10 +49,10 @@ Santa Rita=
 Paterna=
 Campament=
 Les Carolines/Fira=
-Benimàmet=
+BenimĞ°met=
 Cantereria=
 Betera=
-S. Psiquiàtric=
+S. PsiquiĞ°tric=
 Masies=
 Seminari-CEU=
 Moncada-Alfara=
@@ -75,7 +75,7 @@ Omet=
 Espioca=
 Font Almaguer=
 Alginet=
-Ausiàs March=
+AusiĞ°s March=
 Carlet=
 Benimodo=
 L'Alcudia=
@@ -87,7 +87,7 @@ Villanueva de Castellon=
 [3]
 Palmaret=
 Alboraya=
-Almàssera=
+AlmĞ°ssera=
 Meliana=
 Foios=
 Albalat dels Sorells=
@@ -113,7 +113,7 @@ Palau de Congressos=
 Florista=
 Garbi=
 Benicalap=
-Trànsits=
+TrĞ°nsits=
 Marxalenes=
 Reus=
 Sagunt=

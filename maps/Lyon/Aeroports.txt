@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
 CityName=Lyon
-MenuName=Разное\Проезд к аэропортам
+MenuName=Р Р°Р·РЅРѕРµ\РџСЂРѕРµР·Рґ Рє Р°СЌСЂРѕРїРѕСЂС‚Р°Рј
 MenuImage=Airplane_logo.vec
 
 [A]

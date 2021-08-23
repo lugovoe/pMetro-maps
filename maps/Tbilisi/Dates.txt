@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Дата открытия
-CityName=Тбилиси
-StringToAdd='  Дата открытия: '
+Caption=Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ
+CityName=РўР±РёР»РёСЃРё
+StringToAdd='  Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ: '
 
 [Akhmeteli-Varketili]
 Rustaveli=11.01.1966

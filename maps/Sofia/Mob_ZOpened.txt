@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=0
-CityName=София
-MenuName=Моб.связь\Открытые станции
+CityName=РЎРѕС„РёСЏ
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\РћС‚РєСЂС‹С‚С‹Рµ СЃС‚Р°РЅС†РёРё
 
 [1 metrodiametr]
-Обеля=
+РћР±РµР»СЏ=
 

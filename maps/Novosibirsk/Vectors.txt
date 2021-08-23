@@ -1,37 +1,37 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Новосибирск
+Caption=РЎС…РµРјР°
+CityName=РќРѕРІРѕСЃРёР±РёСЂСЃРє
 StringToAdd='  '
 Type=Image
 
-[Ленинская]
-Заельцовская=Zaeltsovskaya.vec
-Гагаринская=Gagarinskaya.vec
-Красный проспект=KrasnyProspekt-Sibirskaya.vec
-Площадь Ленина=PlLenina.vec
-Октябрьская=Oktyabrskaya.vec
-Речной Вокзал=RechnoyVokzal.vec
-Студенческая=Studencheskaya.vec
-Площадь Маркса=PlMarksa.vec
+[Р›РµРЅРёРЅСЃРєР°СЏ]
+Р—Р°РµР»СЊС†РѕРІСЃРєР°СЏ=Zaeltsovskaya.vec
+Р“Р°РіР°СЂРёРЅСЃРєР°СЏ=Gagarinskaya.vec
+РљСЂР°СЃРЅС‹Р№ РїСЂРѕСЃРїРµРєС‚=KrasnyProspekt-Sibirskaya.vec
+РџР»РѕС‰Р°РґСЊ Р›РµРЅРёРЅР°=PlLenina.vec
+РћРєС‚СЏР±СЂСЊСЃРєР°СЏ=Oktyabrskaya.vec
+Р РµС‡РЅРѕР№ Р’РѕРєР·Р°Р»=RechnoyVokzal.vec
+РЎС‚СѓРґРµРЅС‡РµСЃРєР°СЏ=Studencheskaya.vec
+РџР»РѕС‰Р°РґСЊ РњР°СЂРєСЃР°=PlMarksa.vec
 
-[Дзержинская]
-Площадь Гарина-Михайловского=PlGarinaMikhailovskogo.vec
-Сибирская=KrasnyProspekt-Sibirskaya.vec
-Березовая Роща=BeryozovayaRoscha.vec
-Маршала Покрышкина=MarshalaPokryshkina.vec
-Золотая нива=ZolotayaNiva.vec
+[Р”Р·РµСЂР¶РёРЅСЃРєР°СЏ]
+РџР»РѕС‰Р°РґСЊ Р“Р°СЂРёРЅР°-РњРёС…Р°Р№Р»РѕРІСЃРєРѕРіРѕ=PlGarinaMikhailovskogo.vec
+РЎРёР±РёСЂСЃРєР°СЏ=KrasnyProspekt-Sibirskaya.vec
+Р‘РµСЂРµР·РѕРІР°СЏ Р РѕС‰Р°=BeryozovayaRoscha.vec
+РњР°СЂС€Р°Р»Р° РџРѕРєСЂС‹С€РєРёРЅР°=MarshalaPokryshkina.vec
+Р—РѕР»РѕС‚Р°СЏ РЅРёРІР°=ZolotayaNiva.vec
 
-[Электропоезда_на_юг.Кузбасс.Сокур_через_Инскую]
-Речной Вокзал=RechnoyVokzal.vec
-Новосибирск-Главный=PlGarinaMikhailovskogo.vec
-Разъезд Иня=Inya.vec
-Разъезд Иня-южная=Inya.vec
+[Р­Р»РµРєС‚СЂРѕРїРѕРµР·РґР°_РЅР°_СЋРі.РљСѓР·Р±Р°СЃСЃ.РЎРѕРєСѓСЂ_С‡РµСЂРµР·_РРЅСЃРєСѓСЋ]
+Р РµС‡РЅРѕР№ Р’РѕРєР·Р°Р»=RechnoyVokzal.vec
+РќРѕРІРѕСЃРёР±РёСЂСЃРє-Р“Р»Р°РІРЅС‹Р№=PlGarinaMikhailovskogo.vec
+Р Р°Р·СЉРµР·Рґ РРЅСЏ=Inya.vec
+Р Р°Р·СЉРµР·Рґ РРЅСЏ-СЋР¶РЅР°СЏ=Inya.vec
 
-[Электропоезда_на_восток]
-Новосибирск-Главный=PlGarinaMikhailovskogo.vec
-Гагаринская=Gagarinskaya.vec
+[Р­Р»РµРєС‚СЂРѕРїРѕРµР·РґР°_РЅР°_РІРѕСЃС‚РѕРє]
+РќРѕРІРѕСЃРёР±РёСЂСЃРє-Р“Р»Р°РІРЅС‹Р№=PlGarinaMikhailovskogo.vec
+Р“Р°РіР°СЂРёРЅСЃРєР°СЏ=Gagarinskaya.vec
 
-[Электропоезда_на_запад]
-Новосибирск-Главный=PlGarinaMikhailovskogo.vec
+[Р­Р»РµРєС‚СЂРѕРїРѕРµР·РґР°_РЅР°_Р·Р°РїР°Рґ]
+РќРѕРІРѕСЃРёР±РёСЂСЃРє-Р“Р»Р°РІРЅС‹Р№=PlGarinaMikhailovskogo.vec
 

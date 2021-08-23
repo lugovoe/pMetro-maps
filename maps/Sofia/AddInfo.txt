@@ -1,23 +1,23 @@
 [Options]
 AddToInfo=1
-Caption=Информация
+Caption=РРЅС„РѕСЂРјР°С†РёСЏ
 CityName=Sofia
 ;StringToAdd='  '
 
 [1 metrodiametr]
-;ИЕЦ - Цариградско шосе=
-;Младост 3=
-;Младост 1=
-;Мусагеница=
-;Г. М. Димитров=
-;Жолио Кюри=
-;Стадион Васил Левски=
-;Климент Охридски=
-Сердика=Выход на пересечение бульвара Todor Alexandrov с улицей Knyaginya Maria, а также на Nezavissimost Sq.\nhttp://www.metropolitan.bg/html/serdika_eng.htm
-Опълченска=Выход на пересечение бульвара Todor Alexandrov с бульварам Christo Botev и улицей Опълченска.\nhttp://www.metropolitan.bg/html/opulch_eng.htm
-Константин Величков=Выход на пересечение бульвара Todor Alexandrov с бульваром "Константин Величков" и улицей Pirotska.\nhttp://www.metropolitan.bg/html/konstantin_eng.htm
-Вардар=Выход на пересечение бульвара Pirotski c улицей Вардар.\nhttp://www.metropolitan.bg/html/vardar_eng.htm
-Западен парк=Выход на пересечение бульвара Pirotski с бульварами Dobrinova Scala и Louis Pasteur.\nhttp://www.metropolitan.bg/html/zappark_eng.htm
-Люлин=Выход на бульвар Pirotski.\nhttp://www.metropolitan.bg/html/lulin_eng.htm\n
-Сливница=Выход на бульвар Сливница.\nhttp://www.metropolitan.bg/html/slivnica_eng.htm\n
-Обеля=
+;РР•Р¦ - Р¦Р°СЂРёРіСЂР°РґСЃРєРѕ С€РѕСЃРµ=
+;РњР»Р°РґРѕСЃС‚ 3=
+;РњР»Р°РґРѕСЃС‚ 1=
+;РњСѓСЃР°РіРµРЅРёС†Р°=
+;Р“. Рњ. Р”РёРјРёС‚СЂРѕРІ=
+;Р–РѕР»РёРѕ РљСЋСЂРё=
+;РЎС‚Р°РґРёРѕРЅ Р’Р°СЃРёР» Р›РµРІСЃРєРё=
+;РљР»РёРјРµРЅС‚ РћС…СЂРёРґСЃРєРё=
+РЎРµСЂРґРёРєР°=Р’С‹С…РѕРґ РЅР° РїРµСЂРµСЃРµС‡РµРЅРёРµ Р±СѓР»СЊРІР°СЂР° Todor Alexandrov СЃ СѓР»РёС†РµР№ Knyaginya Maria, Р° С‚Р°РєР¶Рµ РЅР° Nezavissimost Sq.\nhttp://www.metropolitan.bg/html/serdika_eng.htm
+РћРїСЉР»С‡РµРЅСЃРєР°=Р’С‹С…РѕРґ РЅР° РїРµСЂРµСЃРµС‡РµРЅРёРµ Р±СѓР»СЊРІР°СЂР° Todor Alexandrov СЃ Р±СѓР»СЊРІР°СЂР°Рј Christo Botev Рё СѓР»РёС†РµР№ РћРїСЉР»С‡РµРЅСЃРєР°.\nhttp://www.metropolitan.bg/html/opulch_eng.htm
+РљРѕРЅСЃС‚Р°РЅС‚РёРЅ Р’РµР»РёС‡РєРѕРІ=Р’С‹С…РѕРґ РЅР° РїРµСЂРµСЃРµС‡РµРЅРёРµ Р±СѓР»СЊРІР°СЂР° Todor Alexandrov СЃ Р±СѓР»СЊРІР°СЂРѕРј "РљРѕРЅСЃС‚Р°РЅС‚РёРЅ Р’РµР»РёС‡РєРѕРІ" Рё СѓР»РёС†РµР№ Pirotska.\nhttp://www.metropolitan.bg/html/konstantin_eng.htm
+Р’Р°СЂРґР°СЂ=Р’С‹С…РѕРґ РЅР° РїРµСЂРµСЃРµС‡РµРЅРёРµ Р±СѓР»СЊРІР°СЂР° Pirotski c СѓР»РёС†РµР№ Р’Р°СЂРґР°СЂ.\nhttp://www.metropolitan.bg/html/vardar_eng.htm
+Р—Р°РїР°РґРµРЅ РїР°СЂРє=Р’С‹С…РѕРґ РЅР° РїРµСЂРµСЃРµС‡РµРЅРёРµ Р±СѓР»СЊРІР°СЂР° Pirotski СЃ Р±СѓР»СЊРІР°СЂР°РјРё Dobrinova Scala Рё Louis Pasteur.\nhttp://www.metropolitan.bg/html/zappark_eng.htm
+Р›СЋР»РёРЅ=Р’С‹С…РѕРґ РЅР° Р±СѓР»СЊРІР°СЂ Pirotski.\nhttp://www.metropolitan.bg/html/lulin_eng.htm\n
+РЎР»РёРІРЅРёС†Р°=Р’С‹С…РѕРґ РЅР° Р±СѓР»СЊРІР°СЂ РЎР»РёРІРЅРёС†Р°.\nhttp://www.metropolitan.bg/html/slivnica_eng.htm\n
+РћР±РµР»СЏ=

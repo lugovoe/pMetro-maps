@@ -1,4 +1,4 @@
 [Options]
 AddToInfo=0
-MenuName=Транспорт\-
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\-
 

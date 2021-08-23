@@ -1,11 +1,11 @@
 [Options]
 AddToInfo=1
-CityName=Catania (Катания)
-MenuName=Разное\Ж/д станции
-Caption=Станции
-StringToAdd='Ж/д станция '
+CityName=Catania (РљР°С‚Р°РЅРёСЏ)
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=РЎС‚Р°РЅС†РёРё
+StringToAdd='Р–/Рґ СЃС‚Р°РЅС†РёСЏ '
 
 [Linea 1]
-Borgo=Circumetnea - дизель поезд до вулкана Этны
-Stazione Centrale F.S.=Центральный вокзал
+Borgo=Circumetnea - РґРёР·РµР»СЊ РїРѕРµР·Рґ РґРѕ РІСѓР»РєР°РЅР° Р­С‚РЅС‹
+Stazione Centrale F.S.=Р¦РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РІРѕРєР·Р°Р»
 

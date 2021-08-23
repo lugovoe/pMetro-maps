@@ -1,13 +1,13 @@
 [Options]
 AddToInfo=1
-CityName=Glasgow (Глазго)
-MenuName=Разное\Ж/д станции
-Caption=Станции
-StringToAdd='Ж/д станция '
+CityName=Glasgow (Р“Р»Р°Р·РіРѕ)
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=РЎС‚Р°РЅС†РёРё
+StringToAdd='Р–/Рґ СЃС‚Р°РЅС†РёСЏ '
 
 [Circle line]
-Patrick=Одноименная станция
-Buchanan Street=Станция Queen Street
-St. Enoch=Станция St. Argyle
+Patrick=РћРґРЅРѕРёРјРµРЅРЅР°СЏ СЃС‚Р°РЅС†РёСЏ
+Buchanan Street=РЎС‚Р°РЅС†РёСЏ Queen Street
+St. Enoch=РЎС‚Р°РЅС†РёСЏ St. Argyle
 
 []

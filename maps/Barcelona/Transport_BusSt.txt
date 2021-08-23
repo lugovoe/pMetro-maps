@@ -3,10 +3,10 @@
 [Options]
 AddToInfo=1
 CityName=Barcelona
-MenuName=Транспорт\Автовокзалы
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\РђРІС‚РѕРІРѕРєР·Р°Р»С‹
 ;MenuImage=Vokzals_logo.bmp
 ;ImageFileName=Vokzals.vec(Metro.map),
-;Caption=Трамвай
+;Caption=РўСЂР°РјРІР°Р№
 
 [L1]
 Arc de Triomf=

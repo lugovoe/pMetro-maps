@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-CityName=Napoli (Неаполь)
-MenuName=Разное\Морвокзалы
-Caption=Морвокзалы
+CityName=Napoli (РќРµР°РїРѕР»СЊ)
+MenuName=Р Р°Р·РЅРѕРµ\РњРѕСЂРІРѕРєР·Р°Р»С‹
+Caption=РњРѕСЂРІРѕРєР·Р°Р»С‹
 StringToAdd=
 
 [Metropolitana F. S.]

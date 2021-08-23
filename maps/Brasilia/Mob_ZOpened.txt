@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
-CityName=Бразилиа
-MenuName=Моб.связь\Открытые участки
+CityName=Р‘СЂР°Р·РёР»РёР°
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\РћС‚РєСЂС‹С‚С‹Рµ СѓС‡Р°СЃС‚РєРё
 
 [Drivings]
 OrangeLineAsaSulTerminalSamambaia=Orange Line,Asa Sul,Terminal Samambaia

@@ -1,11 +1,11 @@
 [Options]
 Name=Sochi
-CityName=Сочи
-Country=Россия
-RusName=Сочи
-Comment=Перспективная схема легкого метро
+CityName=РЎРѕС‡Рё
+Country=Р РѕСЃСЃРёСЏ
+RusName=РЎРѕС‡Рё
+Comment=РџРµСЂСЃРїРµРєС‚РёРІРЅР°СЏ СЃС…РµРјР° Р»РµРіРєРѕРіРѕ РјРµС‚СЂРѕ
 NeedVersion=1.26.3
-MapAuthors=Схема от 07.03.2008г.
-MapAuthors=Мурадов Борис
+MapAuthors=РЎС…РµРјР° РѕС‚ 07.03.2008Рі.
+MapAuthors=РњСѓСЂР°РґРѕРІ Р‘РѕСЂРёСЃ
 
 []

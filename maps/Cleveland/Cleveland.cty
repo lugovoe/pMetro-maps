@@ -1,17 +1,17 @@
 [Options]
 Name=Cleveland
 CityName=Cleveland
-Country=США
-RusName=Кливленд
+Country=РЎРЁРђ
+RusName=РљР»РёРІР»РµРЅРґ
 NeedVersion=1.26.3
-MapAuthors=Схема от 13.09.2006г.
-MapAuthors=Автор: Варламов Дмитрий (www.chpeks.com)
-MapAuthors=Информация взята с сайта www.urbanrail.net
-MapAuthors=В текущей версии:
-MapAuthors= - все интервалы движения поездов равны 2 минутам
-MapAuthors= - схемы линий
-MapAuthors= - даты открытия станций
-MapAuthors= - аэропорт
-MapAuthors=Возможны неточности.
+MapAuthors=РЎС…РµРјР° РѕС‚ 13.09.2006Рі.
+MapAuthors=РђРІС‚РѕСЂ: Р’Р°СЂР»Р°РјРѕРІ Р”РјРёС‚СЂРёР№ (www.chpeks.com)
+MapAuthors=РРЅС„РѕСЂРјР°С†РёСЏ РІР·СЏС‚Р° СЃ СЃР°Р№С‚Р° www.urbanrail.net
+MapAuthors=Р’ С‚РµРєСѓС‰РµР№ РІРµСЂСЃРёРё:
+MapAuthors= - РІСЃРµ РёРЅС‚РµСЂРІР°Р»С‹ РґРІРёР¶РµРЅРёСЏ РїРѕРµР·РґРѕРІ СЂР°РІРЅС‹ 2 РјРёРЅСѓС‚Р°Рј
+MapAuthors= - СЃС…РµРјС‹ Р»РёРЅРёР№
+MapAuthors= - РґР°С‚С‹ РѕС‚РєСЂС‹С‚РёСЏ СЃС‚Р°РЅС†РёР№
+MapAuthors= - Р°СЌСЂРѕРїРѕСЂС‚
+MapAuthors=Р’РѕР·РјРѕР¶РЅС‹ РЅРµС‚РѕС‡РЅРѕСЃС‚Рё.
 
 []

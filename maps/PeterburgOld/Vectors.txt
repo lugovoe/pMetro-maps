@@ -1,78 +1,78 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Санкт-Петербург
+Caption=РЎС…РµРјР°
+CityName=РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі
 Type=Image
 
-[Линия 1]
-Девяткино=Devyatkino.vec
-Гражданский пр.=GrazhdanskyPr.vec
-Академическая=Akademicheskaya.vec
-Политехническая=Polytech.vec
-пл.Мужества=PlMuzhestva.vec
-Лесная=Lesnaya.vec
-Выборгская=Vyborgskaya.vec
-пл.Ленина=PlLenina.vec
-Чернышевская=Chernyshevskaya.vec
-пл.Восстания=PlVosstania-Mayakovskaya.vec
-Владимирская=Vladimirskaya-Dostoevskaya.vec
-Пушкинская=Pushkinskaya.vec
-Технологический институт-I=TechInstitut.vec
-Балтийская=Baltiyskaya.vec
-Нарвская=Narvskaya.vec
-Кировский завод=KirovskyZavod.vec
-Автово=Avtovo.vec
-Ленинский пр.=LeninskyPr.vec
-пр.Ветеранов=PrVeteranov.vec
+[Р›РёРЅРёСЏ 1]
+Р”РµРІСЏС‚РєРёРЅРѕ=Devyatkino.vec
+Р“СЂР°Р¶РґР°РЅСЃРєРёР№ РїСЂ.=GrazhdanskyPr.vec
+РђРєР°РґРµРјРёС‡РµСЃРєР°СЏ=Akademicheskaya.vec
+РџРѕР»РёС‚РµС…РЅРёС‡РµСЃРєР°СЏ=Polytech.vec
+РїР».РњСѓР¶РµСЃС‚РІР°=PlMuzhestva.vec
+Р›РµСЃРЅР°СЏ=Lesnaya.vec
+Р’С‹Р±РѕСЂРіСЃРєР°СЏ=Vyborgskaya.vec
+РїР».Р›РµРЅРёРЅР°=PlLenina.vec
+Р§РµСЂРЅС‹С€РµРІСЃРєР°СЏ=Chernyshevskaya.vec
+РїР».Р’РѕСЃСЃС‚Р°РЅРёСЏ=PlVosstania-Mayakovskaya.vec
+Р’Р»Р°РґРёРјРёСЂСЃРєР°СЏ=Vladimirskaya-Dostoevskaya.vec
+РџСѓС€РєРёРЅСЃРєР°СЏ=Pushkinskaya.vec
+РўРµС…РЅРѕР»РѕРіРёС‡РµСЃРєРёР№ РёРЅСЃС‚РёС‚СѓС‚-I=TechInstitut.vec
+Р‘Р°Р»С‚РёР№СЃРєР°СЏ=Baltiyskaya.vec
+РќР°СЂРІСЃРєР°СЏ=Narvskaya.vec
+РљРёСЂРѕРІСЃРєРёР№ Р·Р°РІРѕРґ=KirovskyZavod.vec
+РђРІС‚РѕРІРѕ=Avtovo.vec
+Р›РµРЅРёРЅСЃРєРёР№ РїСЂ.=LeninskyPr.vec
+РїСЂ.Р’РµС‚РµСЂР°РЅРѕРІ=PrVeteranov.vec
 
-[Линия 2]
-Парнас=Parnas.vec
-пр.Просвещения=PrProsvescheniya.vec
-Озерки=Ozerki.vec
-Удельная=Udelnaya.vec
-Пионерская=Pionerskaya.vec
-Чёрная речка=ChernayaRechka.vec
-Петроградская=Petrogradskaya.vec
-Горьковская=Gorkovskaya.vec
-Невский пр.=NevskiPr-GostinyDvor.vec
-Сенная площадь=Sadovaya-SennayaPl.vec
-Технологический институт-II=TechInstitut.vec
-Фрунзенская=Frunzenskaya.vec
-Московские ворота=MoskVorota.vec
-Электросила=Electrosila.vec
-Парк Победы=ParkPobedy.vec
-Московская=Moskovskaya.vec
-Звёздная=Zvezdnaya.vec
-Купчино=Kupchino.vec
+[Р›РёРЅРёСЏ 2]
+РџР°СЂРЅР°СЃ=Parnas.vec
+РїСЂ.РџСЂРѕСЃРІРµС‰РµРЅРёСЏ=PrProsvescheniya.vec
+РћР·РµСЂРєРё=Ozerki.vec
+РЈРґРµР»СЊРЅР°СЏ=Udelnaya.vec
+РџРёРѕРЅРµСЂСЃРєР°СЏ=Pionerskaya.vec
+Р§С‘СЂРЅР°СЏ СЂРµС‡РєР°=ChernayaRechka.vec
+РџРµС‚СЂРѕРіСЂР°РґСЃРєР°СЏ=Petrogradskaya.vec
+Р“РѕСЂСЊРєРѕРІСЃРєР°СЏ=Gorkovskaya.vec
+РќРµРІСЃРєРёР№ РїСЂ.=NevskiPr-GostinyDvor.vec
+РЎРµРЅРЅР°СЏ РїР»РѕС‰Р°РґСЊ=Sadovaya-SennayaPl.vec
+РўРµС…РЅРѕР»РѕРіРёС‡РµСЃРєРёР№ РёРЅСЃС‚РёС‚СѓС‚-II=TechInstitut.vec
+Р¤СЂСѓРЅР·РµРЅСЃРєР°СЏ=Frunzenskaya.vec
+РњРѕСЃРєРѕРІСЃРєРёРµ РІРѕСЂРѕС‚Р°=MoskVorota.vec
+Р­Р»РµРєС‚СЂРѕСЃРёР»Р°=Electrosila.vec
+РџР°СЂРє РџРѕР±РµРґС‹=ParkPobedy.vec
+РњРѕСЃРєРѕРІСЃРєР°СЏ=Moskovskaya.vec
+Р—РІС‘Р·РґРЅР°СЏ=Zvezdnaya.vec
+РљСѓРїС‡РёРЅРѕ=Kupchino.vec
 
-[Линия 3]
-Приморская=Primorskaya.vec
-Василеостровская=Vasileostrovskaya.vec
-Гостиный двор=NevskiPr-GostinyDvor.vec
-Маяковская=PlVosstania-Mayakovskaya.vec
-пл.Ал.Невского-I=AleksandraNevskogo.vec
-Елизаровская=Elizarovskaya.vec
-Ломоносовская=Lomonosovskaya.vec
-Пролетарская=Proletarskaya.vec
-Обухово=Obukhovo.vec
-Рыбацкое=Rybatskoe.vec
+[Р›РёРЅРёСЏ 3]
+РџСЂРёРјРѕСЂСЃРєР°СЏ=Primorskaya.vec
+Р’Р°СЃРёР»РµРѕСЃС‚СЂРѕРІСЃРєР°СЏ=Vasileostrovskaya.vec
+Р“РѕСЃС‚РёРЅС‹Р№ РґРІРѕСЂ=NevskiPr-GostinyDvor.vec
+РњР°СЏРєРѕРІСЃРєР°СЏ=PlVosstania-Mayakovskaya.vec
+РїР».РђР».РќРµРІСЃРєРѕРіРѕ-I=AleksandraNevskogo.vec
+Р•Р»РёР·Р°СЂРѕРІСЃРєР°СЏ=Elizarovskaya.vec
+Р›РѕРјРѕРЅРѕСЃРѕРІСЃРєР°СЏ=Lomonosovskaya.vec
+РџСЂРѕР»РµС‚Р°СЂСЃРєР°СЏ=Proletarskaya.vec
+РћР±СѓС…РѕРІРѕ=Obukhovo.vec
+Р С‹Р±Р°С†РєРѕРµ=Rybatskoe.vec
 
-[Линия 4]
-Комендантский пр.=KomendantskyPr.vec
-Старая деревня=StarayaDerevnya.vec
-Крестовский остров=KrestovskiyOstrov.vec
-Чкаловская=Chkalovskaya.vec
-Спортивная=Sportivnaya.vec
-Садовая=Sadovaya-SennayaPl.vec
-Достоевская=Vladimirskaya-Dostoevskaya.vec
-Лиговский пр.=LigovskiyPr.vec
-пл.Ал.Невского-II=AleksandraNevskogo.vec
-Новочеркасская=Novocherkasskaya.vec
-Ладожская=Ladozhskaya.vec
-пр.Большевиков=PrBolshevikov.vec
-ул.Дыбенко=UlDybenko.vec
+[Р›РёРЅРёСЏ 4]
+РљРѕРјРµРЅРґР°РЅС‚СЃРєРёР№ РїСЂ.=KomendantskyPr.vec
+РЎС‚Р°СЂР°СЏ РґРµСЂРµРІРЅСЏ=StarayaDerevnya.vec
+РљСЂРµСЃС‚РѕРІСЃРєРёР№ РѕСЃС‚СЂРѕРІ=KrestovskiyOstrov.vec
+Р§РєР°Р»РѕРІСЃРєР°СЏ=Chkalovskaya.vec
+РЎРїРѕСЂС‚РёРІРЅР°СЏ=Sportivnaya.vec
+РЎР°РґРѕРІР°СЏ=Sadovaya-SennayaPl.vec
+Р”РѕСЃС‚РѕРµРІСЃРєР°СЏ=Vladimirskaya-Dostoevskaya.vec
+Р›РёРіРѕРІСЃРєРёР№ РїСЂ.=LigovskiyPr.vec
+РїР».РђР».РќРµРІСЃРєРѕРіРѕ-II=AleksandraNevskogo.vec
+РќРѕРІРѕС‡РµСЂРєР°СЃСЃРєР°СЏ=Novocherkasskaya.vec
+Р›Р°РґРѕР¶СЃРєР°СЏ=Ladozhskaya.vec
+РїСЂ.Р‘РѕР»СЊС€РµРІРёРєРѕРІ=PrBolshevikov.vec
+СѓР».Р”С‹Р±РµРЅРєРѕ=UlDybenko.vec
 
-[Линия 5]
-Звенигородская=Pushkinskaya.vec
-Волковская=Volkovskaya.vec
+[Р›РёРЅРёСЏ 5]
+Р—РІРµРЅРёРіРѕСЂРѕРґСЃРєР°СЏ=Pushkinskaya.vec
+Р’РѕР»РєРѕРІСЃРєР°СЏ=Volkovskaya.vec
 

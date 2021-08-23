@@ -1,10 +1,10 @@
 [Options]
 AddToInfo=1
 Caption=Info
-CityName=Toulouse (Тулуза)
+CityName=Toulouse (РўСѓР»СѓР·Р°)
 StringToAdd='  '
 
 
 [A]
-Capitole=Вблизи находится здание Капитолия - мэрии Тулузы.
+Capitole=Р’Р±Р»РёР·Рё РЅР°С…РѕРґРёС‚СЃСЏ Р·РґР°РЅРёРµ РљР°РїРёС‚РѕР»РёСЏ - РјСЌСЂРёРё РўСѓР»СѓР·С‹.
 

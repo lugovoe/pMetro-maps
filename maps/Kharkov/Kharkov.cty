@@ -1,23 +1,23 @@
 [Options]
-Name=Харьков
-CityName=Харьков
-Country=Украина
-RusName=Харьков
+Name=РҐР°СЂСЊРєРѕРІ
+CityName=РҐР°СЂСЊРєРѕРІ
+Country=РЈРєСЂР°РёРЅР°
+RusName=РҐР°СЂСЊРєРѕРІ
 NeedVersion=1.26.3
-MapAuthors=Схема от 16.01.2018г.
+MapAuthors=РЎС…РµРјР° РѕС‚ 16.01.2018Рі.
 MapAuthors=
-MapAuthors=Информация о времени проезда:
-MapAuthors=- Программа MMetro Константина Штенникова,
-MapAuthors=а также (по информации с сайта http://mmetro.al.ru):
+MapAuthors=РРЅС„РѕСЂРјР°С†РёСЏ Рѕ РІСЂРµРјРµРЅРё РїСЂРѕРµР·РґР°:
+MapAuthors=- РџСЂРѕРіСЂР°РјРјР° MMetro РљРѕРЅСЃС‚Р°РЅС‚РёРЅР° РЁС‚РµРЅРЅРёРєРѕРІР°,
+MapAuthors=Р° С‚Р°РєР¶Рµ (РїРѕ РёРЅС„РѕСЂРјР°С†РёРё СЃ СЃР°Р№С‚Р° http://mmetro.al.ru):
 MapAuthors=- Vadim Pudovkin,
 MapAuthors=- Nick Bliznyuk,
 MapAuthors=- Pavel A Gnezdilov.
 MapAuthors=
-MapAuthors=Карта нарисована на основе http://www.metro.kharkov.ua.
+MapAuthors=РљР°СЂС‚Р° РЅР°СЂРёСЃРѕРІР°РЅР° РЅР° РѕСЃРЅРѕРІРµ http://www.metro.kharkov.ua.
 MapAuthors=
-MapAuthors=Информация по cтанциям - с сайтов www.metro.kharkov.ua, gortransport.kharkov.ua и от Владислава Савицкого.
+MapAuthors=РРЅС„РѕСЂРјР°С†РёСЏ РїРѕ cС‚Р°РЅС†РёСЏРј - СЃ СЃР°Р№С‚РѕРІ www.metro.kharkov.ua, gortransport.kharkov.ua Рё РѕС‚ Р’Р»Р°РґРёСЃР»Р°РІР° РЎР°РІРёС†РєРѕРіРѕ.
 MapAuthors=
-MapAuthors=Информация о наземном транспорте - с сайтов www.metro.kharkov.ua, gortransport.kharkov.ua и от Владислава Савицкого.
+MapAuthors=РРЅС„РѕСЂРјР°С†РёСЏ Рѕ РЅР°Р·РµРјРЅРѕРј С‚СЂР°РЅСЃРїРѕСЂС‚Рµ - СЃ СЃР°Р№С‚РѕРІ www.metro.kharkov.ua, gortransport.kharkov.ua Рё РѕС‚ Р’Р»Р°РґРёСЃР»Р°РІР° РЎР°РІРёС†РєРѕРіРѕ.
 MapAuthors=
-MapAuthors=Схемы электричек прислал Владислав Савицкий.
+MapAuthors=РЎС…РµРјС‹ СЌР»РµРєС‚СЂРёС‡РµРє РїСЂРёСЃР»Р°Р» Р’Р»Р°РґРёСЃР»Р°РІ РЎР°РІРёС†РєРёР№.
 

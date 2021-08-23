@@ -1,17 +1,17 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Волгоград
+Caption=РЎС…РµРјР°
+CityName=Р’РѕР»РіРѕРіСЂР°Рґ
 Type=Image
 
-[СТ]
-Пионерская=Pionerskaya.vec
-Комсомольская=Komsomolskaya.vec
-Площадь Ленина=PlLenina.vec
-ЦПКиО=CPKIO.vec
-Центральный Стадион=CentralStadion.vec
-Мамаев Курган=MamaevKurgan.vec
-Дворец Спорта=DvorecSporta.vec
-Площадь Возрождения=PlVozrozhdeniya.vec
-Тракторный завод=TraktorniyZavod.vec
+[РЎРў]
+РџРёРѕРЅРµСЂСЃРєР°СЏ=Pionerskaya.vec
+РљРѕРјСЃРѕРјРѕР»СЊСЃРєР°СЏ=Komsomolskaya.vec
+РџР»РѕС‰Р°РґСЊ Р›РµРЅРёРЅР°=PlLenina.vec
+Р¦РџРљРёРћ=CPKIO.vec
+Р¦РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РЎС‚Р°РґРёРѕРЅ=CentralStadion.vec
+РњР°РјР°РµРІ РљСѓСЂРіР°РЅ=MamaevKurgan.vec
+Р”РІРѕСЂРµС† РЎРїРѕСЂС‚Р°=DvorecSporta.vec
+РџР»РѕС‰Р°РґСЊ Р’РѕР·СЂРѕР¶РґРµРЅРёСЏ=PlVozrozhdeniya.vec
+РўСЂР°РєС‚РѕСЂРЅС‹Р№ Р·Р°РІРѕРґ=TraktorniyZavod.vec
 

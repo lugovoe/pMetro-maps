@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
 CityName=Sevilla
-MenuName=Разное\Открытые участки
+MenuName=Р Р°Р·РЅРѕРµ\РћС‚РєСЂС‹С‚С‹Рµ СѓС‡Р°СЃС‚РєРё
 
 [Drivings]
 1=Line 1,Ciudad Expo,Cavaleri,0,30

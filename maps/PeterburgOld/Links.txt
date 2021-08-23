@@ -1,73 +1,73 @@
 [Options]
 AddToInfo=1
 Caption=
-CityName=Санкт-Петербург
-StringToAdd='  Описание станции: '
+CityName=РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі
+StringToAdd='  РћРїРёСЃР°РЅРёРµ СЃС‚Р°РЅС†РёРё: '
 
-[Линия 1]
-Девяткино=http://kommet.spb.ru/station/st119.html
-Гражданский пр.=http://kommet.spb.ru/station/st118.html
-Академическая=http://kommet.spb.ru/station/st117.html
-Политехническая=http://kommet.spb.ru/station/st116.html
-пл.Мужества=http://kommet.spb.ru/station/st115.html
-Лесная=http://kommet.spb.ru/station/st114.html
-Выборгская=http://kommet.spb.ru/station/st113.html
-пл.Ленина=http://kommet.spb.ru/station/st112.html
-Чернышевская=http://kommet.spb.ru/station/st111.html
-пл.Восстания=http://kommet.spb.ru/station/st110.html
-Владимирская=http://kommet.spb.ru/station/st109.html
-Пушкинская=http://kommet.spb.ru/station/st108.html
-Технологический институт-I=http://kommet.spb.ru/station/st107.html
-Балтийская=http://kommet.spb.ru/station/st106.html
-Нарвская=http://kommet.spb.ru/station/st105.html
-Кировский завод=http://kommet.spb.ru/station/st104.html
-Автово=http://kommet.spb.ru/station/st103.html
-Ленинский пр.=http://kommet.spb.ru/station/st102.html
-пр.Ветеранов=http://kommet.spb.ru/station/st101.html
+[Р›РёРЅРёСЏ 1]
+Р”РµРІСЏС‚РєРёРЅРѕ=http://kommet.spb.ru/station/st119.html
+Р“СЂР°Р¶РґР°РЅСЃРєРёР№ РїСЂ.=http://kommet.spb.ru/station/st118.html
+РђРєР°РґРµРјРёС‡РµСЃРєР°СЏ=http://kommet.spb.ru/station/st117.html
+РџРѕР»РёС‚РµС…РЅРёС‡РµСЃРєР°СЏ=http://kommet.spb.ru/station/st116.html
+РїР».РњСѓР¶РµСЃС‚РІР°=http://kommet.spb.ru/station/st115.html
+Р›РµСЃРЅР°СЏ=http://kommet.spb.ru/station/st114.html
+Р’С‹Р±РѕСЂРіСЃРєР°СЏ=http://kommet.spb.ru/station/st113.html
+РїР».Р›РµРЅРёРЅР°=http://kommet.spb.ru/station/st112.html
+Р§РµСЂРЅС‹С€РµРІСЃРєР°СЏ=http://kommet.spb.ru/station/st111.html
+РїР».Р’РѕСЃСЃС‚Р°РЅРёСЏ=http://kommet.spb.ru/station/st110.html
+Р’Р»Р°РґРёРјРёСЂСЃРєР°СЏ=http://kommet.spb.ru/station/st109.html
+РџСѓС€РєРёРЅСЃРєР°СЏ=http://kommet.spb.ru/station/st108.html
+РўРµС…РЅРѕР»РѕРіРёС‡РµСЃРєРёР№ РёРЅСЃС‚РёС‚СѓС‚-I=http://kommet.spb.ru/station/st107.html
+Р‘Р°Р»С‚РёР№СЃРєР°СЏ=http://kommet.spb.ru/station/st106.html
+РќР°СЂРІСЃРєР°СЏ=http://kommet.spb.ru/station/st105.html
+РљРёСЂРѕРІСЃРєРёР№ Р·Р°РІРѕРґ=http://kommet.spb.ru/station/st104.html
+РђРІС‚РѕРІРѕ=http://kommet.spb.ru/station/st103.html
+Р›РµРЅРёРЅСЃРєРёР№ РїСЂ.=http://kommet.spb.ru/station/st102.html
+РїСЂ.Р’РµС‚РµСЂР°РЅРѕРІ=http://kommet.spb.ru/station/st101.html
 
-[Линия 2]
-пр.Просвещения=http://kommet.spb.ru/station/st217.html
-Озерки=http://kommet.spb.ru/station/st216.html
-Удельная=http://kommet.spb.ru/station/st215.html
-Пионерская=http://kommet.spb.ru/station/st214.html
-Чёрная речка=http://kommet.spb.ru/station/st213.html
-Петроградская=http://kommet.spb.ru/station/st212.html
-Горьковская=http://kommet.spb.ru/station/st211.html
-Невский пр.=http://kommet.spb.ru/station/st210.html
-Сенная площадь=http://kommet.spb.ru/station/st209.html
-Технологический институт-II=http://kommet.spb.ru/station/st208.html
-Фрунзенская=http://kommet.spb.ru/station/st207.html
-Московские ворота=http://kommet.spb.ru/station/st206.html
-Электросила=http://kommet.spb.ru/station/st205.html
-Парк Победы=http://kommet.spb.ru/station/st204.html
-Московская=http://kommet.spb.ru/station/st203.html
-Звёздная=http://kommet.spb.ru/station/st202.html
-Купчино=http://kommet.spb.ru/station/st201.html
+[Р›РёРЅРёСЏ 2]
+РїСЂ.РџСЂРѕСЃРІРµС‰РµРЅРёСЏ=http://kommet.spb.ru/station/st217.html
+РћР·РµСЂРєРё=http://kommet.spb.ru/station/st216.html
+РЈРґРµР»СЊРЅР°СЏ=http://kommet.spb.ru/station/st215.html
+РџРёРѕРЅРµСЂСЃРєР°СЏ=http://kommet.spb.ru/station/st214.html
+Р§С‘СЂРЅР°СЏ СЂРµС‡РєР°=http://kommet.spb.ru/station/st213.html
+РџРµС‚СЂРѕРіСЂР°РґСЃРєР°СЏ=http://kommet.spb.ru/station/st212.html
+Р“РѕСЂСЊРєРѕРІСЃРєР°СЏ=http://kommet.spb.ru/station/st211.html
+РќРµРІСЃРєРёР№ РїСЂ.=http://kommet.spb.ru/station/st210.html
+РЎРµРЅРЅР°СЏ РїР»РѕС‰Р°РґСЊ=http://kommet.spb.ru/station/st209.html
+РўРµС…РЅРѕР»РѕРіРёС‡РµСЃРєРёР№ РёРЅСЃС‚РёС‚СѓС‚-II=http://kommet.spb.ru/station/st208.html
+Р¤СЂСѓРЅР·РµРЅСЃРєР°СЏ=http://kommet.spb.ru/station/st207.html
+РњРѕСЃРєРѕРІСЃРєРёРµ РІРѕСЂРѕС‚Р°=http://kommet.spb.ru/station/st206.html
+Р­Р»РµРєС‚СЂРѕСЃРёР»Р°=http://kommet.spb.ru/station/st205.html
+РџР°СЂРє РџРѕР±РµРґС‹=http://kommet.spb.ru/station/st204.html
+РњРѕСЃРєРѕРІСЃРєР°СЏ=http://kommet.spb.ru/station/st203.html
+Р—РІС‘Р·РґРЅР°СЏ=http://kommet.spb.ru/station/st202.html
+РљСѓРїС‡РёРЅРѕ=http://kommet.spb.ru/station/st201.html
 
-[Линия 3]
-Приморская=http://kommet.spb.ru/station/st310.html
-Василеостровская=http://kommet.spb.ru/station/st309.html
-Гостиный двор=http://kommet.spb.ru/station/st308.html
-Маяковская=http://kommet.spb.ru/station/st307.html
-пл.Ал.Невского-I=http://kommet.spb.ru/station/st306.html
-Елизаровская=http://kommet.spb.ru/station/st305.html
-Ломоносовская=http://kommet.spb.ru/station/st304.html
-Пролетарская=http://kommet.spb.ru/station/st303.html
-Обухово=http://kommet.spb.ru/station/st302.html
-Рыбацкое=http://kommet.spb.ru/station/st301.html
+[Р›РёРЅРёСЏ 3]
+РџСЂРёРјРѕСЂСЃРєР°СЏ=http://kommet.spb.ru/station/st310.html
+Р’Р°СЃРёР»РµРѕСЃС‚СЂРѕРІСЃРєР°СЏ=http://kommet.spb.ru/station/st309.html
+Р“РѕСЃС‚РёРЅС‹Р№ РґРІРѕСЂ=http://kommet.spb.ru/station/st308.html
+РњР°СЏРєРѕРІСЃРєР°СЏ=http://kommet.spb.ru/station/st307.html
+РїР».РђР».РќРµРІСЃРєРѕРіРѕ-I=http://kommet.spb.ru/station/st306.html
+Р•Р»РёР·Р°СЂРѕРІСЃРєР°СЏ=http://kommet.spb.ru/station/st305.html
+Р›РѕРјРѕРЅРѕСЃРѕРІСЃРєР°СЏ=http://kommet.spb.ru/station/st304.html
+РџСЂРѕР»РµС‚Р°СЂСЃРєР°СЏ=http://kommet.spb.ru/station/st303.html
+РћР±СѓС…РѕРІРѕ=http://kommet.spb.ru/station/st302.html
+Р С‹Р±Р°С†РєРѕРµ=http://kommet.spb.ru/station/st301.html
 
-[Линия 4]
-Комендантский пр.=http://kommet.spb.ru/station/st414.html
-Старая деревня=http://kommet.spb.ru/station/st413.html
-Крестовский остров=http://kommet.spb.ru/station/st412.html
-Чкаловская=http://kommet.spb.ru/station/st411.html
-Спортивная=http://kommet.spb.ru/station/st410.html
-Садовая=http://kommet.spb.ru/station/st408.html
-Достоевская=http://kommet.spb.ru/station/st407.html
-Лиговский пр.=http://kommet.spb.ru/station/st406.html
-пл.Ал.Невского-II=http://kommet.spb.ru/station/st405.html
-Новочеркасская=http://kommet.spb.ru/station/st404.html
-Ладожская=http://kommet.spb.ru/station/st403.html
-пр.Большевиков=http://kommet.spb.ru/station/st402.html
-ул.Дыбенко=http://kommet.spb.ru/station/st401.html
+[Р›РёРЅРёСЏ 4]
+РљРѕРјРµРЅРґР°РЅС‚СЃРєРёР№ РїСЂ.=http://kommet.spb.ru/station/st414.html
+РЎС‚Р°СЂР°СЏ РґРµСЂРµРІРЅСЏ=http://kommet.spb.ru/station/st413.html
+РљСЂРµСЃС‚РѕРІСЃРєРёР№ РѕСЃС‚СЂРѕРІ=http://kommet.spb.ru/station/st412.html
+Р§РєР°Р»РѕРІСЃРєР°СЏ=http://kommet.spb.ru/station/st411.html
+РЎРїРѕСЂС‚РёРІРЅР°СЏ=http://kommet.spb.ru/station/st410.html
+РЎР°РґРѕРІР°СЏ=http://kommet.spb.ru/station/st408.html
+Р”РѕСЃС‚РѕРµРІСЃРєР°СЏ=http://kommet.spb.ru/station/st407.html
+Р›РёРіРѕРІСЃРєРёР№ РїСЂ.=http://kommet.spb.ru/station/st406.html
+РїР».РђР».РќРµРІСЃРєРѕРіРѕ-II=http://kommet.spb.ru/station/st405.html
+РќРѕРІРѕС‡РµСЂРєР°СЃСЃРєР°СЏ=http://kommet.spb.ru/station/st404.html
+Р›Р°РґРѕР¶СЃРєР°СЏ=http://kommet.spb.ru/station/st403.html
+РїСЂ.Р‘РѕР»СЊС€РµРІРёРєРѕРІ=http://kommet.spb.ru/station/st402.html
+СѓР».Р”С‹Р±РµРЅРєРѕ=http://kommet.spb.ru/station/st401.html
 

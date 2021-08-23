@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-CityName=Roma (Рим)
-MenuName=Разное\Автовокзалы
-Caption=Автовокзалы
+CityName=Roma (Р РёРј)
+MenuName=Р Р°Р·РЅРѕРµ\РђРІС‚РѕРІРѕРєР·Р°Р»С‹
+Caption=РђРІС‚РѕРІРѕРєР·Р°Р»С‹
 StringToAdd=
 
 [A]

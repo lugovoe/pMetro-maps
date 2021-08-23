@@ -1,256 +1,256 @@
 [Options]
 AddToInfo=1
-Caption=Макет
-CityName=Москва
+Caption=РњР°РєРµС‚
+CityName=РњРѕСЃРєРІР°
 Type=3dImage
 
-[Сокольническая]
-Юго-Западная=UgoZapadnaya.pm3d
-Проспект Вернадского=PrVernadskogo.pm3d
-Университет=Universitet.pm3d
-Воробьевы горы=VorobievyGory.pm3d
-Спортивная=Sportivnaya.pm3d
-Фрунзенская=Frunzenskaya.pm3d
-Парк культуры=ParkKultury.pm3d,ParkKulturyKoltsevaya.pms
-Кропоткинская=Kropotkinskaya.pm3d
-Библиотека имени Ленина=Borovitskaya.pm3d,Borovitskaya2.pms,BorovitskayaRusich.pms
-Лубянка=Lubyanka.pm3d,Lubyanka2.pms
-Охотный ряд=PlRevolucii.pm3d,PlRevoluciiRusich.pms
-Чистые пруды=ChistyePrudy.pm3d,ChistyePrudy2.pms
-Красные ворота=KrasnyeVorota.pm3d
-Комсомольская=Komsomolskaya.pm3d(381,-213,713,168,48,4440),KomsomolskayaKoltsevaya.pms,KomsomolskayaTrain.pms,KomsomolskayaSputnik.pms
-Красносельская=Krasnoselskaya.pm3d
-Сокольники=Sokolniki.pm3d
-Преображенская площадь=PreobrazhenskayaPl.pm3d
-Черкизовская=Cherkizovskaya.pm3d
-Бульвар Рокоссовского=UlPodbelskogo.pm3d
+[РЎРѕРєРѕР»СЊРЅРёС‡РµСЃРєР°СЏ]
+Р®РіРѕ-Р—Р°РїР°РґРЅР°СЏ=UgoZapadnaya.pm3d
+РџСЂРѕСЃРїРµРєС‚ Р’РµСЂРЅР°РґСЃРєРѕРіРѕ=PrVernadskogo.pm3d
+РЈРЅРёРІРµСЂСЃРёС‚РµС‚=Universitet.pm3d
+Р’РѕСЂРѕР±СЊРµРІС‹ РіРѕСЂС‹=VorobievyGory.pm3d
+РЎРїРѕСЂС‚РёРІРЅР°СЏ=Sportivnaya.pm3d
+Р¤СЂСѓРЅР·РµРЅСЃРєР°СЏ=Frunzenskaya.pm3d
+РџР°СЂРє РєСѓР»СЊС‚СѓСЂС‹=ParkKultury.pm3d,ParkKulturyKoltsevaya.pms
+РљСЂРѕРїРѕС‚РєРёРЅСЃРєР°СЏ=Kropotkinskaya.pm3d
+Р‘РёР±Р»РёРѕС‚РµРєР° РёРјРµРЅРё Р›РµРЅРёРЅР°=Borovitskaya.pm3d,Borovitskaya2.pms,BorovitskayaRusich.pms
+Р›СѓР±СЏРЅРєР°=Lubyanka.pm3d,Lubyanka2.pms
+РћС…РѕС‚РЅС‹Р№ СЂСЏРґ=PlRevolucii.pm3d,PlRevoluciiRusich.pms
+Р§РёСЃС‚С‹Рµ РїСЂСѓРґС‹=ChistyePrudy.pm3d,ChistyePrudy2.pms
+РљСЂР°СЃРЅС‹Рµ РІРѕСЂРѕС‚Р°=KrasnyeVorota.pm3d
+РљРѕРјСЃРѕРјРѕР»СЊСЃРєР°СЏ=Komsomolskaya.pm3d(381,-213,713,168,48,4440),KomsomolskayaKoltsevaya.pms,KomsomolskayaTrain.pms,KomsomolskayaSputnik.pms
+РљСЂР°СЃРЅРѕСЃРµР»СЊСЃРєР°СЏ=Krasnoselskaya.pm3d
+РЎРѕРєРѕР»СЊРЅРёРєРё=Sokolniki.pm3d
+РџСЂРµРѕР±СЂР°Р¶РµРЅСЃРєР°СЏ РїР»РѕС‰Р°РґСЊ=PreobrazhenskayaPl.pm3d
+Р§РµСЂРєРёР·РѕРІСЃРєР°СЏ=Cherkizovskaya.pm3d
+Р‘СѓР»СЊРІР°СЂ Р РѕРєРѕСЃСЃРѕРІСЃРєРѕРіРѕ=UlPodbelskogo.pm3d
 
-[Замоскворецкая]
-Красногвардейская=Krasnogvardeyskaya.pm3d(291,-176,153,180,40,3763),Zyablikovo.pms
-Домодедовская=Domodedovskaya.pm3d
-Орехово=Orehovo.pm3d
-Царицыно=Tsaritsino.pm3d
-Кантемировская=Kantemirovskaya.pm3d
-Каширская=Kashirskaya.pm3d
-Коломенская=Kolomenskaya.pm3d
-Автозаводская=Avtozavodskaya.pm3d
-Павелецкая=Paveletskaya.pm3d,PaveletskayaKoltsevaya.pms
-Новокузнецкая=Tretyakovskaya.pm3d
-Театральная=PlRevolucii.pm3d,PlRevoluciiRusich.pms
-Тверская=Pushkinskaya.pm3d,Pushkinskaya2.pms
-Маяковская=Mayakovskaya.pm3d
-Белорусская=Belorusskaya.pm3d,BelorusskayaKoltsevaya.pms
-Динамо=Dinamo.pm3d
-Аэропорт=Aeroport.pm3d
-Сокол=Sokol.pm3d
-Войковская=Voykovskaya.pm3d
-Водный стадион=VodnyStadion.pm3d
-Речной вокзал=RechnoyVokzal.pm3d
+[Р—Р°РјРѕСЃРєРІРѕСЂРµС†РєР°СЏ]
+РљСЂР°СЃРЅРѕРіРІР°СЂРґРµР№СЃРєР°СЏ=Krasnogvardeyskaya.pm3d(291,-176,153,180,40,3763),Zyablikovo.pms
+Р”РѕРјРѕРґРµРґРѕРІСЃРєР°СЏ=Domodedovskaya.pm3d
+РћСЂРµС…РѕРІРѕ=Orehovo.pm3d
+Р¦Р°СЂРёС†С‹РЅРѕ=Tsaritsino.pm3d
+РљР°РЅС‚РµРјРёСЂРѕРІСЃРєР°СЏ=Kantemirovskaya.pm3d
+РљР°С€РёСЂСЃРєР°СЏ=Kashirskaya.pm3d
+РљРѕР»РѕРјРµРЅСЃРєР°СЏ=Kolomenskaya.pm3d
+РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ=Avtozavodskaya.pm3d
+РџР°РІРµР»РµС†РєР°СЏ=Paveletskaya.pm3d,PaveletskayaKoltsevaya.pms
+РќРѕРІРѕРєСѓР·РЅРµС†РєР°СЏ=Tretyakovskaya.pm3d
+РўРµР°С‚СЂР°Р»СЊРЅР°СЏ=PlRevolucii.pm3d,PlRevoluciiRusich.pms
+РўРІРµСЂСЃРєР°СЏ=Pushkinskaya.pm3d,Pushkinskaya2.pms
+РњР°СЏРєРѕРІСЃРєР°СЏ=Mayakovskaya.pm3d
+Р‘РµР»РѕСЂСѓСЃСЃРєР°СЏ=Belorusskaya.pm3d,BelorusskayaKoltsevaya.pms
+Р”РёРЅР°РјРѕ=Dinamo.pm3d
+РђСЌСЂРѕРїРѕСЂС‚=Aeroport.pm3d
+РЎРѕРєРѕР»=Sokol.pm3d
+Р’РѕР№РєРѕРІСЃРєР°СЏ=Voykovskaya.pm3d
+Р’РѕРґРЅС‹Р№ СЃС‚Р°РґРёРѕРЅ=VodnyStadion.pm3d
+Р РµС‡РЅРѕР№ РІРѕРєР·Р°Р»=RechnoyVokzal.pm3d
 
-[Арбатско-Покровская]
-Пятницкое шоссе=PyatnitskoeShosse.pm3d
-Митино=Mitino.pm3d
-Волоколамская=Volokolamskaya.pm3d
-Мякинино=Myakinino.pm3d
-Строгино=Strogino.pm3d
-Крылатское=Krylatskoe.pm3d
-Молодёжная=Molodezhnaya.pm3d
-Кунцевская=Kuntsevskaya.pm3d\nKuntsevskaya2.pm3d
-Славянский бульвар=SlavyanskiyBulvar.pm3d
-Парк Победы=ParkPobedy.pm3d,ParkPobedy2.pms
-Киевская=Kievskaya.pm3d,KievskayaRusich.pms
-Смоленская=Smolenskaya.pm3d
-Арбатская=Borovitskaya.pm3d,Borovitskaya2.pms,BorovitskayaRusich.pms
-Площадь Революции=PlRevolucii.pm3d,PlRevoluciiRusich.pms
-Курская=Chkalovskaya.pm3d(1659,-659,720,180,55,3624),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
-Бауманская=Baumanskaya.pm3d
-Электрозаводская=Elektrozavodskaya.pm3d
-Измайловская=Izmaylovskaya.pm3d
-Партизанская=Partizanskaya.pm3d
-Первомайская=Pervomayskaya.pm3d
-Семеновская=Semenovskaya.pm3d
-Щелковская=Schelkovskaya.pm3d
+[РђСЂР±Р°С‚СЃРєРѕ-РџРѕРєСЂРѕРІСЃРєР°СЏ]
+РџСЏС‚РЅРёС†РєРѕРµ С€РѕСЃСЃРµ=PyatnitskoeShosse.pm3d
+РњРёС‚РёРЅРѕ=Mitino.pm3d
+Р’РѕР»РѕРєРѕР»Р°РјСЃРєР°СЏ=Volokolamskaya.pm3d
+РњСЏРєРёРЅРёРЅРѕ=Myakinino.pm3d
+РЎС‚СЂРѕРіРёРЅРѕ=Strogino.pm3d
+РљСЂС‹Р»Р°С‚СЃРєРѕРµ=Krylatskoe.pm3d
+РњРѕР»РѕРґС‘Р¶РЅР°СЏ=Molodezhnaya.pm3d
+РљСѓРЅС†РµРІСЃРєР°СЏ=Kuntsevskaya.pm3d\nKuntsevskaya2.pm3d
+РЎР»Р°РІСЏРЅСЃРєРёР№ Р±СѓР»СЊРІР°СЂ=SlavyanskiyBulvar.pm3d
+РџР°СЂРє РџРѕР±РµРґС‹=ParkPobedy.pm3d,ParkPobedy2.pms
+РљРёРµРІСЃРєР°СЏ=Kievskaya.pm3d,KievskayaRusich.pms
+РЎРјРѕР»РµРЅСЃРєР°СЏ=Smolenskaya.pm3d
+РђСЂР±Р°С‚СЃРєР°СЏ=Borovitskaya.pm3d,Borovitskaya2.pms,BorovitskayaRusich.pms
+РџР»РѕС‰Р°РґСЊ Р РµРІРѕР»СЋС†РёРё=PlRevolucii.pm3d,PlRevoluciiRusich.pms
+РљСѓСЂСЃРєР°СЏ=Chkalovskaya.pm3d(1659,-659,720,180,55,3624),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
+Р‘Р°СѓРјР°РЅСЃРєР°СЏ=Baumanskaya.pm3d
+Р­Р»РµРєС‚СЂРѕР·Р°РІРѕРґСЃРєР°СЏ=Elektrozavodskaya.pm3d
+РР·РјР°Р№Р»РѕРІСЃРєР°СЏ=Izmaylovskaya.pm3d
+РџР°СЂС‚РёР·Р°РЅСЃРєР°СЏ=Partizanskaya.pm3d
+РџРµСЂРІРѕРјР°Р№СЃРєР°СЏ=Pervomayskaya.pm3d
+РЎРµРјРµРЅРѕРІСЃРєР°СЏ=Semenovskaya.pm3d
+Р©РµР»РєРѕРІСЃРєР°СЏ=Schelkovskaya.pm3d
 
-[Филевская]
-Кунцевская=Kuntsevskaya.pm3d\nKuntsevskaya2.pm3d
-Пионерская=Pionerskaya.pm3d
-Филевский парк=FilevskyPark.pm3d
-Багратионовская=Bagrationovskaya.pm3d
-Фили=Fili.pm3d
-Кутузовская=Kutuzovskaya.pm3d
-Студенческая=Studencheskaya.pm3d
-Киевская=Kievskaya.pm3d,KievskayaRusich.pms
-Смоленская=SmolenskayaF.pm3d
-Арбатская=Arbatskaya.pm3d
-Александровский сад=Borovitskaya.pm3d,Borovitskaya2.pms,BorovitskayaRusich.pms
-Выставочная=DelovoyCentr.pm3d
-Международная=Mezhdunarodnaya.pm3d
+[Р¤РёР»РµРІСЃРєР°СЏ]
+РљСѓРЅС†РµРІСЃРєР°СЏ=Kuntsevskaya.pm3d\nKuntsevskaya2.pm3d
+РџРёРѕРЅРµСЂСЃРєР°СЏ=Pionerskaya.pm3d
+Р¤РёР»РµРІСЃРєРёР№ РїР°СЂРє=FilevskyPark.pm3d
+Р‘Р°РіСЂР°С‚РёРѕРЅРѕРІСЃРєР°СЏ=Bagrationovskaya.pm3d
+Р¤РёР»Рё=Fili.pm3d
+РљСѓС‚СѓР·РѕРІСЃРєР°СЏ=Kutuzovskaya.pm3d
+РЎС‚СѓРґРµРЅС‡РµСЃРєР°СЏ=Studencheskaya.pm3d
+РљРёРµРІСЃРєР°СЏ=Kievskaya.pm3d,KievskayaRusich.pms
+РЎРјРѕР»РµРЅСЃРєР°СЏ=SmolenskayaF.pm3d
+РђСЂР±Р°С‚СЃРєР°СЏ=Arbatskaya.pm3d
+РђР»РµРєСЃР°РЅРґСЂРѕРІСЃРєРёР№ СЃР°Рґ=Borovitskaya.pm3d,Borovitskaya2.pms,BorovitskayaRusich.pms
+Р’С‹СЃС‚Р°РІРѕС‡РЅР°СЏ=DelovoyCentr.pm3d
+РњРµР¶РґСѓРЅР°СЂРѕРґРЅР°СЏ=Mezhdunarodnaya.pm3d
 
-[Кольцевая]
-Новослободская=Mendeleevskaya.pm3d,MendeleevskayaKoltsevaya.pms
-Проспект Мира=ProspectMira.pm3d,ProspectMiraKoltsevaya.pms
-Комсомольская=Komsomolskaya.pm3d(-1328,-410,552,270,39,2780),KomsomolskayaKoltsevaya.pms,KomsomolskayaTrain.pms,KomsomolskayaSputnik.pms
-Курская=Chkalovskaya.pm3d(1181,-1963,720,319,32,3043),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
-Таганская=Taganskaya.pm3d,TaganskayaEzh.pms,TaganskayaKoltsevaya.pms
-Павелецкая=Paveletskaya.pm3d,PaveletskayaKoltsevaya.pms
-Добрынинская=Serpuhovskaya.pm3d,SerpuhovskayaRadialnaya.pms
-Октябрьская=Oktyabrskaya.pm3d(-108,-245,-431,990,28,5106),OktyabrskayaKoltsevaya.pms
-Парк культуры=ParkKultury.pm3d,ParkKulturyKoltsevaya.pms
-Краснопресненская=Barrikadnaya.pm3d,Barrikadnaya2.pms
-Киевская=Kievskaya.pm3d,KievskayaRusich.pms
-Белорусская=Belorusskaya.pm3d,BelorusskayaKoltsevaya.pms
+[РљРѕР»СЊС†РµРІР°СЏ]
+РќРѕРІРѕСЃР»РѕР±РѕРґСЃРєР°СЏ=Mendeleevskaya.pm3d,MendeleevskayaKoltsevaya.pms
+РџСЂРѕСЃРїРµРєС‚ РњРёСЂР°=ProspectMira.pm3d,ProspectMiraKoltsevaya.pms
+РљРѕРјСЃРѕРјРѕР»СЊСЃРєР°СЏ=Komsomolskaya.pm3d(-1328,-410,552,270,39,2780),KomsomolskayaKoltsevaya.pms,KomsomolskayaTrain.pms,KomsomolskayaSputnik.pms
+РљСѓСЂСЃРєР°СЏ=Chkalovskaya.pm3d(1181,-1963,720,319,32,3043),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
+РўР°РіР°РЅСЃРєР°СЏ=Taganskaya.pm3d,TaganskayaEzh.pms,TaganskayaKoltsevaya.pms
+РџР°РІРµР»РµС†РєР°СЏ=Paveletskaya.pm3d,PaveletskayaKoltsevaya.pms
+Р”РѕР±СЂС‹РЅРёРЅСЃРєР°СЏ=Serpuhovskaya.pm3d,SerpuhovskayaRadialnaya.pms
+РћРєС‚СЏР±СЂСЊСЃРєР°СЏ=Oktyabrskaya.pm3d(-108,-245,-431,990,28,5106),OktyabrskayaKoltsevaya.pms
+РџР°СЂРє РєСѓР»СЊС‚СѓСЂС‹=ParkKultury.pm3d,ParkKulturyKoltsevaya.pms
+РљСЂР°СЃРЅРѕРїСЂРµСЃРЅРµРЅСЃРєР°СЏ=Barrikadnaya.pm3d,Barrikadnaya2.pms
+РљРёРµРІСЃРєР°СЏ=Kievskaya.pm3d,KievskayaRusich.pms
+Р‘РµР»РѕСЂСѓСЃСЃРєР°СЏ=Belorusskaya.pm3d,BelorusskayaKoltsevaya.pms
 
-[Калужско-Рижская]
-Новоясеневская=BitcevskyPark.pm3d
-Ясенево=Yasenevo.pm3d
-Теплый Стан=TeplyStan.pm3d
-Коньково=Konkovo.pm3d
-Беляево=Belaevo.pm3d
-Калужская=Kaluzhskaya.pm3d
-Новые Черемушки=NovyeCheremushki.pm3d
-Профсоюзная=Profsouznaya.pm3d
-Академическая=Akademicheskaya.pm3d
-Ленинский проспект=LeninskyProspect.pm3d
-Шаболовская=Shabolovskaya.pm3d
-Октябрьская=Oktyabrskaya.pm3d(396,-1440,-431,1115,36,3800),OktyabrskayaKoltsevaya.pms
-Третьяковская=Tretyakovskaya.pm3d
-Китай-город=Kitay-gorod.pm3d,Kitay-gorod2.pms
-Тургеневская=ChistyePrudy.pm3d,ChistyePrudy2.pms
-Сухаревская=Suharevskaya.pm3d
-Проспект Мира=ProspectMira.pm3d,ProspectMiraKoltsevaya.pms
-Рижская=Rizhskaya.pm3d
-Алексеевская=Alekseevskaya.pm3d
-ВДНХ=VDNH.pm3d
-Ботанический сад=BotanicheskySad.pm3d
-Свиблово=Sviblovo.pm3d
-Бабушкинская=Babushkinskaya.pm3d
-Медведково=Medvedkovo.pm3d
+[РљР°Р»СѓР¶СЃРєРѕ-Р РёР¶СЃРєР°СЏ]
+РќРѕРІРѕСЏСЃРµРЅРµРІСЃРєР°СЏ=BitcevskyPark.pm3d
+РЇСЃРµРЅРµРІРѕ=Yasenevo.pm3d
+РўРµРїР»С‹Р№ РЎС‚Р°РЅ=TeplyStan.pm3d
+РљРѕРЅСЊРєРѕРІРѕ=Konkovo.pm3d
+Р‘РµР»СЏРµРІРѕ=Belaevo.pm3d
+РљР°Р»СѓР¶СЃРєР°СЏ=Kaluzhskaya.pm3d
+РќРѕРІС‹Рµ Р§РµСЂРµРјСѓС€РєРё=NovyeCheremushki.pm3d
+РџСЂРѕС„СЃРѕСЋР·РЅР°СЏ=Profsouznaya.pm3d
+РђРєР°РґРµРјРёС‡РµСЃРєР°СЏ=Akademicheskaya.pm3d
+Р›РµРЅРёРЅСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=LeninskyProspect.pm3d
+РЁР°Р±РѕР»РѕРІСЃРєР°СЏ=Shabolovskaya.pm3d
+РћРєС‚СЏР±СЂСЊСЃРєР°СЏ=Oktyabrskaya.pm3d(396,-1440,-431,1115,36,3800),OktyabrskayaKoltsevaya.pms
+РўСЂРµС‚СЊСЏРєРѕРІСЃРєР°СЏ=Tretyakovskaya.pm3d
+РљРёС‚Р°Р№-РіРѕСЂРѕРґ=Kitay-gorod.pm3d,Kitay-gorod2.pms
+РўСѓСЂРіРµРЅРµРІСЃРєР°СЏ=ChistyePrudy.pm3d,ChistyePrudy2.pms
+РЎСѓС…Р°СЂРµРІСЃРєР°СЏ=Suharevskaya.pm3d
+РџСЂРѕСЃРїРµРєС‚ РњРёСЂР°=ProspectMira.pm3d,ProspectMiraKoltsevaya.pms
+Р РёР¶СЃРєР°СЏ=Rizhskaya.pm3d
+РђР»РµРєСЃРµРµРІСЃРєР°СЏ=Alekseevskaya.pm3d
+Р’Р”РќРҐ=VDNH.pm3d
+Р‘РѕС‚Р°РЅРёС‡РµСЃРєРёР№ СЃР°Рґ=BotanicheskySad.pm3d
+РЎРІРёР±Р»РѕРІРѕ=Sviblovo.pm3d
+Р‘Р°Р±СѓС€РєРёРЅСЃРєР°СЏ=Babushkinskaya.pm3d
+РњРµРґРІРµРґРєРѕРІРѕ=Medvedkovo.pm3d
 
-[Таганско-Краснопресненская]
-Выхино=Vykhino.pm3d,VykhinoTrain.pms,VykhinoSputnik.pms
-Рязанский проспект=RyazanskyPr.pm3d
-Кузьминки=Kuzminki.pm3d
-Текстильщики=Tekstilschiki.pm3d(0,-397,39,180,49,3355),TekstilschikiTrain.pms
-Волгоградский проспект=VolgogradskyPr.pm3d
-Пролетарская=Proletarskaya.pm3d,Proletarskaya2.pms
-Таганская=Taganskaya.pm3d,TaganskayaEzh.pms,TaganskayaKoltsevaya.pms
-Китай-город=Kitay-gorod.pm3d,Kitay-gorod2.pms
-Кузнецкий мост=Lubyanka.pm3d,Lubyanka2.pms
-Пушкинская=Pushkinskaya.pm3d,Pushkinskaya2.pms
-Баррикадная=Barrikadnaya.pm3d,Barrikadnaya2.pms
-Улица 1905 года=Ulitsa1905goda.pm3d
-Беговая=Begovaya.pm3d(-655,907,194,190,58,4088),BegovayaTrain.pms
-Полежаевская=Polezhaevskaya.pm3d
-Октябрьское поле=OktyabrskoePole.pm3d
-Щукинская=SHCHukinskaya.pm3d
-Тушинская=Tushinskaya.pm3d(421,-78,41,180,42,2647),TushinskayaTrain1.pms,TushinskayaTrain2.pms
-Сходненская=Shodnenskaya.pm3d
-Планерная=Planernaya.pm3d
+[РўР°РіР°РЅСЃРєРѕ-РљСЂР°СЃРЅРѕРїСЂРµСЃРЅРµРЅСЃРєР°СЏ]
+Р’С‹С…РёРЅРѕ=Vykhino.pm3d,VykhinoTrain.pms,VykhinoSputnik.pms
+Р СЏР·Р°РЅСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=RyazanskyPr.pm3d
+РљСѓР·СЊРјРёРЅРєРё=Kuzminki.pm3d
+РўРµРєСЃС‚РёР»СЊС‰РёРєРё=Tekstilschiki.pm3d(0,-397,39,180,49,3355),TekstilschikiTrain.pms
+Р’РѕР»РіРѕРіСЂР°РґСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=VolgogradskyPr.pm3d
+РџСЂРѕР»РµС‚Р°СЂСЃРєР°СЏ=Proletarskaya.pm3d,Proletarskaya2.pms
+РўР°РіР°РЅСЃРєР°СЏ=Taganskaya.pm3d,TaganskayaEzh.pms,TaganskayaKoltsevaya.pms
+РљРёС‚Р°Р№-РіРѕСЂРѕРґ=Kitay-gorod.pm3d,Kitay-gorod2.pms
+РљСѓР·РЅРµС†РєРёР№ РјРѕСЃС‚=Lubyanka.pm3d,Lubyanka2.pms
+РџСѓС€РєРёРЅСЃРєР°СЏ=Pushkinskaya.pm3d,Pushkinskaya2.pms
+Р‘Р°СЂСЂРёРєР°РґРЅР°СЏ=Barrikadnaya.pm3d,Barrikadnaya2.pms
+РЈР»РёС†Р° 1905 РіРѕРґР°=Ulitsa1905goda.pm3d
+Р‘РµРіРѕРІР°СЏ=Begovaya.pm3d(-655,907,194,190,58,4088),BegovayaTrain.pms
+РџРѕР»РµР¶Р°РµРІСЃРєР°СЏ=Polezhaevskaya.pm3d
+РћРєС‚СЏР±СЂСЊСЃРєРѕРµ РїРѕР»Рµ=OktyabrskoePole.pm3d
+Р©СѓРєРёРЅСЃРєР°СЏ=SHCHukinskaya.pm3d
+РўСѓС€РёРЅСЃРєР°СЏ=Tushinskaya.pm3d(421,-78,41,180,42,2647),TushinskayaTrain1.pms,TushinskayaTrain2.pms
+РЎС…РѕРґРЅРµРЅСЃРєР°СЏ=Shodnenskaya.pm3d
+РџР»Р°РЅРµСЂРЅР°СЏ=Planernaya.pm3d
 
-[Калининско-Солнцевская]
-Третьяковская=Tretyakovskaya.pm3d
-Марксистская=Taganskaya.pm3d,TaganskayaEzh.pms,TaganskayaKoltsevaya.pms
-Площадь Ильича=PloschadIlyicha.pm3d
-Авиамоторная=Aviamotornaya.pm3d
-Шоссе Энтузиастов=ShosseEntuziastov.pm3d
-Перово=Perovo.pm3d
-Новогиреево=Novogireevo.pm3d
-Новокосино=Novokosino.pm3d
+[РљР°Р»РёРЅРёРЅСЃРєРѕ-РЎРѕР»РЅС†РµРІСЃРєР°СЏ]
+РўСЂРµС‚СЊСЏРєРѕРІСЃРєР°СЏ=Tretyakovskaya.pm3d
+РњР°СЂРєСЃРёСЃС‚СЃРєР°СЏ=Taganskaya.pm3d,TaganskayaEzh.pms,TaganskayaKoltsevaya.pms
+РџР»РѕС‰Р°РґСЊ РР»СЊРёС‡Р°=PloschadIlyicha.pm3d
+РђРІРёР°РјРѕС‚РѕСЂРЅР°СЏ=Aviamotornaya.pm3d
+РЁРѕСЃСЃРµ Р­РЅС‚СѓР·РёР°СЃС‚РѕРІ=ShosseEntuziastov.pm3d
+РџРµСЂРѕРІРѕ=Perovo.pm3d
+РќРѕРІРѕРіРёСЂРµРµРІРѕ=Novogireevo.pm3d
+РќРѕРІРѕРєРѕСЃРёРЅРѕ=Novokosino.pm3d
 
-[Солнцевская]
-Парк Победы=ParkPobedy.pm3d,ParkPobedy2.pms
+[РЎРѕР»РЅС†РµРІСЃРєР°СЏ]
+РџР°СЂРє РџРѕР±РµРґС‹=ParkPobedy.pm3d,ParkPobedy2.pms
 
-[Серпуховско-Тимирязевская]
-Бульвар Дмитрия Донского=BulvarDmitriaDonskogo.pm3d,BulvarDmitriaDonskogo2.pms
-Аннино=Annino.pm3d
-Улица Академика Янгеля=UlitsaYangela.pm3d
-Пражская=Pragskaya.pm3d
-Южная=Yuzhnaya.pm3d
-Чертановская=Chertanovskaya.pm3d
-Севастопольская=Sevastopolskaya.pm3d
-Нахимовский проспект=NahimovskyProspekt.pm3d
-Нагорная=Nagornaya.pm3d
-Нагатинская=Nagatinskaya.pm3d
-Тульская=Tulskaya.pm3d
-Серпуховская=Serpuhovskaya.pm3d,SerpuhovskayaRadialnaya.pms
-Боровицкая=Borovitskaya.pm3d,Borovitskaya2.pms,BorovitskayaRusich.pms
-Полянка=Polyanka.pm3d
-Чеховская=Pushkinskaya.pm3d,Pushkinskaya2.pms
-Цветной бульвар=TsvetnoyBulvar.pm3d
-Менделеевская=Mendeleevskaya.pm3d,MendeleevskayaKoltsevaya.pms
-Савеловская=Savelovskaya.pm3d
-Дмитровская=Dmitrovskaya.pm3d
-Тимирязевская=Timiryazevskaya.pm3d
-Петровско-Разумовская=PetrovskoRazumovskaya.pm3d
-Владыкино=Vladykino.pm3d
-Отрадное=Otradnoe.pm3d
-Бибирево=Bibirevo.pm3d
-Алтуфьево=Altufyevo.pm3d
+[РЎРµСЂРїСѓС…РѕРІСЃРєРѕ-РўРёРјРёСЂСЏР·РµРІСЃРєР°СЏ]
+Р‘СѓР»СЊРІР°СЂ Р”РјРёС‚СЂРёСЏ Р”РѕРЅСЃРєРѕРіРѕ=BulvarDmitriaDonskogo.pm3d,BulvarDmitriaDonskogo2.pms
+РђРЅРЅРёРЅРѕ=Annino.pm3d
+РЈР»РёС†Р° РђРєР°РґРµРјРёРєР° РЇРЅРіРµР»СЏ=UlitsaYangela.pm3d
+РџСЂР°Р¶СЃРєР°СЏ=Pragskaya.pm3d
+Р®Р¶РЅР°СЏ=Yuzhnaya.pm3d
+Р§РµСЂС‚Р°РЅРѕРІСЃРєР°СЏ=Chertanovskaya.pm3d
+РЎРµРІР°СЃС‚РѕРїРѕР»СЊСЃРєР°СЏ=Sevastopolskaya.pm3d
+РќР°С…РёРјРѕРІСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=NahimovskyProspekt.pm3d
+РќР°РіРѕСЂРЅР°СЏ=Nagornaya.pm3d
+РќР°РіР°С‚РёРЅСЃРєР°СЏ=Nagatinskaya.pm3d
+РўСѓР»СЊСЃРєР°СЏ=Tulskaya.pm3d
+РЎРµСЂРїСѓС…РѕРІСЃРєР°СЏ=Serpuhovskaya.pm3d,SerpuhovskayaRadialnaya.pms
+Р‘РѕСЂРѕРІРёС†РєР°СЏ=Borovitskaya.pm3d,Borovitskaya2.pms,BorovitskayaRusich.pms
+РџРѕР»СЏРЅРєР°=Polyanka.pm3d
+Р§РµС…РѕРІСЃРєР°СЏ=Pushkinskaya.pm3d,Pushkinskaya2.pms
+Р¦РІРµС‚РЅРѕР№ Р±СѓР»СЊРІР°СЂ=TsvetnoyBulvar.pm3d
+РњРµРЅРґРµР»РµРµРІСЃРєР°СЏ=Mendeleevskaya.pm3d,MendeleevskayaKoltsevaya.pms
+РЎР°РІРµР»РѕРІСЃРєР°СЏ=Savelovskaya.pm3d
+Р”РјРёС‚СЂРѕРІСЃРєР°СЏ=Dmitrovskaya.pm3d
+РўРёРјРёСЂСЏР·РµРІСЃРєР°СЏ=Timiryazevskaya.pm3d
+РџРµС‚СЂРѕРІСЃРєРѕ-Р Р°Р·СѓРјРѕРІСЃРєР°СЏ=PetrovskoRazumovskaya.pm3d
+Р’Р»Р°РґС‹РєРёРЅРѕ=Vladykino.pm3d
+РћС‚СЂР°РґРЅРѕРµ=Otradnoe.pm3d
+Р‘РёР±РёСЂРµРІРѕ=Bibirevo.pm3d
+РђР»С‚СѓС„СЊРµРІРѕ=Altufyevo.pm3d
 
-[Люблинско-Дмитровская]
-Марьина роща=MaryinaRoscha.pm3d
-Достоевская=Dostoevskaya.pm3d(-393,-1464,310,270,16,2702)
-Трубная=TsvetnoyBulvar.pm3d(1567,1407,-106,102,44,4699)
-Сретенский бульвар=ChistyePrudy.pm3d(1911,195,-121,264,32,3512),ChistyePrudy2.pms
-Чкаловская=Chkalovskaya.pm3d(-81,-1188,222,270,32,3270),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
-Римская=PloschadIlyicha.pm3d
-Крестьянская застава=Proletarskaya.pm3d,Proletarskaya2.pms
-Дубровка=Dubrovka.pm3d
-Кожуховская=Kozhuhovskaya.pm3d
-Печатники=Pechatniki.pm3d
-Волжская=Volzhskaya.pm3d
-Люблино=Lublino.pm3d
-Братиславская=Bratislavskaya.pm3d
-Марьино=Maryino.pm3d
-Борисово=Borisovo.pm3d(1309,-2308,114,270,28,3358)
-Шипиловская=Shipilovskaya.pm3d(501,-2326,114,270,49,3628)
-Зябликово=Krasnogvardeyskaya.pm3d(310,-2270,153,270,40,3690),Zyablikovo.pms
+[Р›СЋР±Р»РёРЅСЃРєРѕ-Р”РјРёС‚СЂРѕРІСЃРєР°СЏ]
+РњР°СЂСЊРёРЅР° СЂРѕС‰Р°=MaryinaRoscha.pm3d
+Р”РѕСЃС‚РѕРµРІСЃРєР°СЏ=Dostoevskaya.pm3d(-393,-1464,310,270,16,2702)
+РўСЂСѓР±РЅР°СЏ=TsvetnoyBulvar.pm3d(1567,1407,-106,102,44,4699)
+РЎСЂРµС‚РµРЅСЃРєРёР№ Р±СѓР»СЊРІР°СЂ=ChistyePrudy.pm3d(1911,195,-121,264,32,3512),ChistyePrudy2.pms
+Р§РєР°Р»РѕРІСЃРєР°СЏ=Chkalovskaya.pm3d(-81,-1188,222,270,32,3270),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
+Р РёРјСЃРєР°СЏ=PloschadIlyicha.pm3d
+РљСЂРµСЃС‚СЊСЏРЅСЃРєР°СЏ Р·Р°СЃС‚Р°РІР°=Proletarskaya.pm3d,Proletarskaya2.pms
+Р”СѓР±СЂРѕРІРєР°=Dubrovka.pm3d
+РљРѕР¶СѓС…РѕРІСЃРєР°СЏ=Kozhuhovskaya.pm3d
+РџРµС‡Р°С‚РЅРёРєРё=Pechatniki.pm3d
+Р’РѕР»Р¶СЃРєР°СЏ=Volzhskaya.pm3d
+Р›СЋР±Р»РёРЅРѕ=Lublino.pm3d
+Р‘СЂР°С‚РёСЃР»Р°РІСЃРєР°СЏ=Bratislavskaya.pm3d
+РњР°СЂСЊРёРЅРѕ=Maryino.pm3d
+Р‘РѕСЂРёСЃРѕРІРѕ=Borisovo.pm3d(1309,-2308,114,270,28,3358)
+РЁРёРїРёР»РѕРІСЃРєР°СЏ=Shipilovskaya.pm3d(501,-2326,114,270,49,3628)
+Р—СЏР±Р»РёРєРѕРІРѕ=Krasnogvardeyskaya.pm3d(310,-2270,153,270,40,3690),Zyablikovo.pms
 
-[Каховская]
-Каширская=Kashirskaya.pm3d
-Варшавская=Varshavskaya.pm3d(152,43,47,180,48,3507),VarshavskayaTrain.pms
-Каховская=Sevastopolskaya.pm3d(-81,-688,324,261,49,3571)
+[РљР°С…РѕРІСЃРєР°СЏ]
+РљР°С€РёСЂСЃРєР°СЏ=Kashirskaya.pm3d
+Р’Р°СЂС€Р°РІСЃРєР°СЏ=Varshavskaya.pm3d(152,43,47,180,48,3507),VarshavskayaTrain.pms
+РљР°С…РѕРІСЃРєР°СЏ=Sevastopolskaya.pm3d(-81,-688,324,261,49,3571)
 
-[Бутовская]
-Улица Старокачаловская=BulvarDmitriaDonskogo.pm3d,BulvarDmitriaDonskogo2.pms
-Улица Скобелевская=UlitsaSkobelevskaya.pm3d
-Бульвар Адмирала Ушакова=BulvarAdmiralaUshakova.pm3d
-Улица Горчакова=UlitsaGorchakova.pm3d
-Бунинская аллея=BuninskayaAlleya.pm3d
+[Р‘СѓС‚РѕРІСЃРєР°СЏ]
+РЈР»РёС†Р° РЎС‚Р°СЂРѕРєР°С‡Р°Р»РѕРІСЃРєР°СЏ=BulvarDmitriaDonskogo.pm3d,BulvarDmitriaDonskogo2.pms
+РЈР»РёС†Р° РЎРєРѕР±РµР»РµРІСЃРєР°СЏ=UlitsaSkobelevskaya.pm3d
+Р‘СѓР»СЊРІР°СЂ РђРґРјРёСЂР°Р»Р° РЈС€Р°РєРѕРІР°=BulvarAdmiralaUshakova.pm3d
+РЈР»РёС†Р° Р“РѕСЂС‡Р°РєРѕРІР°=UlitsaGorchakova.pm3d
+Р‘СѓРЅРёРЅСЃРєР°СЏ Р°Р»Р»РµСЏ=BuninskayaAlleya.pm3d
 
-[Монорельс]
-Тимирязевская=TimiryazevskayaMonorels.pm3d
-Улица Милашенкова=UlitsaMilashenkova.pm3d
-Телецентр=TeleCentr.pm3d
-Улица академика Королева=UlitsaAkademikaKoroleva.pm3d
-Выставочный центр=VystavochnyCentr.pm3d
-Улица Сергея Эйзенштейна=UlitsaSergeyaEizenshteina.pm3d
+[РњРѕРЅРѕСЂРµР»СЊСЃ]
+РўРёРјРёСЂСЏР·РµРІСЃРєР°СЏ=TimiryazevskayaMonorels.pm3d
+РЈР»РёС†Р° РњРёР»Р°С€РµРЅРєРѕРІР°=UlitsaMilashenkova.pm3d
+РўРµР»РµС†РµРЅС‚СЂ=TeleCentr.pm3d
+РЈР»РёС†Р° Р°РєР°РґРµРјРёРєР° РљРѕСЂРѕР»РµРІР°=UlitsaAkademikaKoroleva.pm3d
+Р’С‹СЃС‚Р°РІРѕС‡РЅС‹Р№ С†РµРЅС‚СЂ=VystavochnyCentr.pm3d
+РЈР»РёС†Р° РЎРµСЂРіРµСЏ Р­Р№Р·РµРЅС€С‚РµР№РЅР°=UlitsaSergeyaEizenshteina.pm3d
 
-[Междувокзальная]
-Москва Курская=Chkalovskaya.pm3d(4392,-3745,1136,306,27,3774),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
+[РњРµР¶РґСѓРІРѕРєР·Р°Р»СЊРЅР°СЏ]
+РњРѕСЃРєРІР° РљСѓСЂСЃРєР°СЏ=Chkalovskaya.pm3d(4392,-3745,1136,306,27,3774),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
 
-[Рязанская]
-Москва Казанская=Komsomolskaya.pm3d(600,-4191,1062,180,49,3504),KomsomolskayaKoltsevaya.pms,KomsomolskayaTrain.pms,KomsomolskayaSputnik.pms
-Выхино=Vykhino.pm3d,VykhinoTrain.pms
+[Р СЏР·Р°РЅСЃРєР°СЏ]
+РњРѕСЃРєРІР° РљР°Р·Р°РЅСЃРєР°СЏ=Komsomolskaya.pm3d(600,-4191,1062,180,49,3504),KomsomolskayaKoltsevaya.pms,KomsomolskayaTrain.pms,KomsomolskayaSputnik.pms
+Р’С‹С…РёРЅРѕ=Vykhino.pm3d,VykhinoTrain.pms
 
-[Рижская]
-Тушино=Tushinskaya.pm3d(-1573,3675,41,90,52,7098),TushinskayaTrain1.pms,TushinskayaTrain2.pms
+[Р РёР¶СЃРєР°СЏ]
+РўСѓС€РёРЅРѕ=Tushinskaya.pm3d(-1573,3675,41,90,52,7098),TushinskayaTrain1.pms,TushinskayaTrain2.pms
 
-[Павелецкая]
-Коломенское=Varshavskaya.pm3d(2586,2281,382,90,50,4358),VarshavskayaTrain.pms
+[РџР°РІРµР»РµС†РєР°СЏ]
+РљРѕР»РѕРјРµРЅСЃРєРѕРµ=Varshavskaya.pm3d(2586,2281,382,90,50,4358),VarshavskayaTrain.pms
 
-[Белорусская]
-Тестовская=Testovskaya.pm3d
-Рабочий Поселок=RabochiyPoselok.pm3d,RabochiyPoselokS.pms
-Раздоры=Razdory.pm3d
-Беговая=Begovaya.pm3d(2450,-583,194,180,47,4465),BegovayaTrain.pms
-Кунцево=Kuntsevo.pm3d
+[Р‘РµР»РѕСЂСѓСЃСЃРєР°СЏ]
+РўРµСЃС‚РѕРІСЃРєР°СЏ=Testovskaya.pm3d
+Р Р°Р±РѕС‡РёР№ РџРѕСЃРµР»РѕРє=RabochiyPoselok.pm3d,RabochiyPoselokS.pms
+Р Р°Р·РґРѕСЂС‹=Razdory.pm3d
+Р‘РµРіРѕРІР°СЏ=Begovaya.pm3d(2450,-583,194,180,47,4465),BegovayaTrain.pms
+РљСѓРЅС†РµРІРѕ=Kuntsevo.pm3d
 
-[Курская]
-Москва Курская=Chkalovskaya.pm3d(4392,-3745,1136,306,27,3774),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
-Текстильщики=Tekstilschiki.pm3d(-1481,-2820,322,90,29,4158),TekstilschikiTrain.pms
+[РљСѓСЂСЃРєР°СЏ]
+РњРѕСЃРєРІР° РљСѓСЂСЃРєР°СЏ=Chkalovskaya.pm3d(4392,-3745,1136,306,27,3774),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
+РўРµРєСЃС‚РёР»СЊС‰РёРєРё=Tekstilschiki.pm3d(-1481,-2820,322,90,29,4158),TekstilschikiTrain.pms
 
-[Горьковская]
-Москва Курская=Chkalovskaya.pm3d(2176,-5178,1134,290,28,3174),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
-Электроугли=ElectroUgli.pm3d
-Электросталь=Electrostal.pm3d
+[Р“РѕСЂСЊРєРѕРІСЃРєР°СЏ]
+РњРѕСЃРєРІР° РљСѓСЂСЃРєР°СЏ=Chkalovskaya.pm3d(2176,-5178,1134,290,28,3174),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
+Р­Р»РµРєС‚СЂРѕСѓРіР»Рё=ElectroUgli.pm3d
+Р­Р»РµРєС‚СЂРѕСЃС‚Р°Р»СЊ=Electrostal.pm3d

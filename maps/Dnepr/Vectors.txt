@@ -1,13 +1,13 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Днепр
+Caption=РЎС…РµРјР°
+CityName=Р”РЅРµРїСЂ
 Type=Image
 
-[Центрально-заводская]
-Вокзальная=Vokzalnaya.vec
-Метростроителей=Metrostroiteley.vec
-Металлургов=Metallurgov.vec
-Заводская=Zavodskaya.vec
-Проспект Свободы=ProspektSvobody.vec
-Покровская=Pokrovskaya.vec
+[Р¦РµРЅС‚СЂР°Р»СЊРЅРѕ-Р·Р°РІРѕРґСЃРєР°СЏ]
+Р’РѕРєР·Р°Р»СЊРЅР°СЏ=Vokzalnaya.vec
+РњРµС‚СЂРѕСЃС‚СЂРѕРёС‚РµР»РµР№=Metrostroiteley.vec
+РњРµС‚Р°Р»Р»СѓСЂРіРѕРІ=Metallurgov.vec
+Р—Р°РІРѕРґСЃРєР°СЏ=Zavodskaya.vec
+РџСЂРѕСЃРїРµРєС‚ РЎРІРѕР±РѕРґС‹=ProspektSvobody.vec
+РџРѕРєСЂРѕРІСЃРєР°СЏ=Pokrovskaya.vec

@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
-CityName=Манила
-MenuName=Моб.связь\Открытые участки
+CityName=РњР°РЅРёР»Р°
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\РћС‚РєСЂС‹С‚С‹Рµ СѓС‡Р°СЃС‚РєРё
 
 [1]
 EDSA/Pasay

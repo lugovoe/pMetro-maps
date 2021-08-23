@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Дата открытия
-CityName=Калгари
-StringToAdd='  Дата открытия: '
+Caption=Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ
+CityName=РљР°Р»РіР°СЂРё
+StringToAdd='  Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ: '
 
 [201]
 Dalhousie=2003

@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
-CityName=Copenhagen (Копенгаген)
-MenuName=Моб.связь\Открытые станции
+CityName=Copenhagen (РљРѕРїРµРЅРіР°РіРµРЅ)
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\РћС‚РєСЂС‹С‚С‹Рµ СЃС‚Р°РЅС†РёРё
 Caption=z
 
 [Drivings]

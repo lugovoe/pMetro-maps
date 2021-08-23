@@ -1,25 +1,25 @@
 [Options]
 AddToInfo=1
 CityName=Bilbao
-MenuName=Разное\Музеи
-Caption=Музеи
-StringToAdd='  Музей:'
+MenuName=Р Р°Р·РЅРѕРµ\РњСѓР·РµРё
+Caption=РњСѓР·РµРё
+StringToAdd='  РњСѓР·РµР№:'
 MenuImage=Museums.bmp
 
 [1]
 Santutxu=Bilbao Arte, Urazurrutia,32 www.bilbao.net/bilbaoarte/
-Casco Viejo=Uranga Gallery, ул. Mitxel Labegerie,28\nCatalogo General Gallery, ул. Santa Maria,11\nLa Brocha, ул. Conde Mirasol,1\nEspacio Marzana, ул. Muelle Marzana,5\nDiocesan Museum of Sacred Art, пл. de la Encarnacion,9\nArcheology, ethnography and history Basque Museum, ул. Maria Munoz www.euskal-museoa.org\nBilbao Easter Procession Museum, пл. Unamuno, ул. Iturribide,3-1
-Moyua=Basandere, ул. Iparraguirre,4\nBarrainkua Culture Hall, ул. Barrainkua,5\nArte Tavira Gallery, ул. Juan de Ajuriaguerra,12\nWindsor Kulturgintza, ул. Juan de Ajuriaguerra,14\nAkros Gallery, ул. Juan de Ajuriaguerra,16\nVanguardia Gallery, ал. Mazarredo,19\nBilkin Arte Garaikidea Gallery, ул. Heros,22\nRekalde Exhibition Hall, ал. Rekalde,30\nColon XVI, ул. Colon de Larreategui,16\nbbk Exhibiton Hall, ул. Gran Via,32\nAritza Gallery, ул. Marques del Puerto,14\nBay Sala, ул. Licenciado Poza,4\nEderti, ал. Rekalde,37\nbbk Culture Hall, ул. Elcano,20\nArte Gallery, ал. Rekalde,63\nGuggenheim Museum Bilbao, пр. Abandoibarra,2 www.guggenheim-bilbao.es\nBenedicto Bilbao Museum, ул. Iparraguirre,55 www.museo-benedicto.net\nFine Arts Museum, пл. del Museo,2 www.museobilbao.com\nBullfighting Museum, пл. de Toros de Vista Alegre, ул. Martin Aguero,1 
-San Mames=Athletic Club Exhibition and Trophy Room, San Mames Stadium\nFile of Diputacion Foral of Bizkaia, ул. Maria Diaz de Haro,11\nRia de Bilbao Maritime Museum, Muelle Ramon de la Sota,1 www.museomaritimobilbao.org
-Astrabudua=Erandio Exhibition Hall, пл. Josu Murueta
-Leioa=Aula de Cultura de Las Arenas, ул. Las Mercedes,13
-Areeta=Romo Exhibition Hall, ул. Lope de Vega,8\nLas Arenas Exhibition Room, ул. Las Mercedes,13
+Casco Viejo=Uranga Gallery, СѓР». Mitxel Labegerie,28\nCatalogo General Gallery, СѓР». Santa Maria,11\nLa Brocha, СѓР». Conde Mirasol,1\nEspacio Marzana, СѓР». Muelle Marzana,5\nDiocesan Museum of Sacred Art, РїР». de la Encarnacion,9\nArcheology, ethnography and history Basque Museum, СѓР». Maria Munoz www.euskal-museoa.org\nBilbao Easter Procession Museum, РїР». Unamuno, СѓР». Iturribide,3-1
+Moyua=Basandere, СѓР». Iparraguirre,4\nBarrainkua Culture Hall, СѓР». Barrainkua,5\nArte Tavira Gallery, СѓР». Juan de Ajuriaguerra,12\nWindsor Kulturgintza, СѓР». Juan de Ajuriaguerra,14\nAkros Gallery, СѓР». Juan de Ajuriaguerra,16\nVanguardia Gallery, Р°Р». Mazarredo,19\nBilkin Arte Garaikidea Gallery, СѓР». Heros,22\nRekalde Exhibition Hall, Р°Р». Rekalde,30\nColon XVI, СѓР». Colon de Larreategui,16\nbbk Exhibiton Hall, СѓР». Gran Via,32\nAritza Gallery, СѓР». Marques del Puerto,14\nBay Sala, СѓР». Licenciado Poza,4\nEderti, Р°Р». Rekalde,37\nbbk Culture Hall, СѓР». Elcano,20\nArte Gallery, Р°Р». Rekalde,63\nGuggenheim Museum Bilbao, РїСЂ. Abandoibarra,2 www.guggenheim-bilbao.es\nBenedicto Bilbao Museum, СѓР». Iparraguirre,55 www.museo-benedicto.net\nFine Arts Museum, РїР». del Museo,2 www.museobilbao.com\nBullfighting Museum, РїР». de Toros de Vista Alegre, СѓР». Martin Aguero,1 
+San Mames=Athletic Club Exhibition and Trophy Room, San Mames Stadium\nFile of Diputacion Foral of Bizkaia, СѓР». Maria Diaz de Haro,11\nRia de Bilbao Maritime Museum, Muelle Ramon de la Sota,1 www.museomaritimobilbao.org
+Astrabudua=Erandio Exhibition Hall, РїР». Josu Murueta
+Leioa=Aula de Cultura de Las Arenas, СѓР». Las Mercedes,13
+Areeta=Romo Exhibition Hall, СѓР». Lope de Vega,8\nLas Arenas Exhibition Room, СѓР». Las Mercedes,13
 Neguri=Hotel Complex Los Tamarises, Beach of Ereaga
-Algorta=Algorta Exhibition Hall, ул. Urlgul
+Algorta=Algorta Exhibition Hall, СѓР». Urlgul
 
 [2]
 Santutxu=Bilbao Arte, Urazurrutia,32 www.bilbao.net/bilbaoarte/
-Casco Viejo=Uranga Gallery, ул. Mitxel Labegerie,28\nCatalogo General Gallery, ул. Santa Maria,11\nLa Brocha, ул. Conde Mirasol,1\nEspacio Marzana, ул. Muelle Marzana,5\nDiocesan Museum of Sacred Art, пл. de la Encarnacion,9\nArcheology, ethnography and history Basque Museum, ул. Maria Munoz www.euskal-museoa.org\nBilbao Easter Procession Museum, пл. Unamuno, ул. Iturribide,3-1
-Moyua=Basandere, ул. Iparraguirre,4\nBarrainkua Culture Hall, ул. Barrainkua,5\nArte Tavira Gallery, ул. Juan de Ajuriaguerra,12\nWindsor Kulturgintza, ул. Juan de Ajuriaguerra,14\nAkros Gallery, ул. Juan de Ajuriaguerra,16\nVanguardia Gallery, ал. Mazarredo,19\nBilkin Arte Garaikidea Gallery, ул. Heros,22\nRekalde Exhibition Hall, ал. Rekalde,30\nColon XVI, ул. Colon de Larreategui,16\nbbk Exhibiton Hall, ул. Gran Via,32\nAritza Gallery, ул. Marques del Puerto,14\nBay Sala, ул. Licenciado Poza,4\nEderti, ал. Rekalde,37\nbbk Culture Hall, ул. Elcano,20\nArte Gallery, ал. Rekalde,63\nGuggenheim Museum Bilbao, пр. Abandoibarra,2 www.guggenheim-bilbao.es\nBenedicto Bilbao Museum, ул. Iparraguirre,55 www.museo-benedicto.net\nFine Arts Museum, пл. del Museo,2 www.museobilbao.com\nBullfighting Museum, пл. de Toros de Vista Alegre, ул. Martin Aguero,1 
-San Mames=Athletic Club Exhibition and Trophy Room, San Mames Stadium\nFile of Diputacion Foral of Bizkaia, ул. Maria Diaz de Haro,11\nRia de Bilbao Maritime Museum, Muelle Ramon de la Sota,1 www.museomaritimobilbao.org
+Casco Viejo=Uranga Gallery, СѓР». Mitxel Labegerie,28\nCatalogo General Gallery, СѓР». Santa Maria,11\nLa Brocha, СѓР». Conde Mirasol,1\nEspacio Marzana, СѓР». Muelle Marzana,5\nDiocesan Museum of Sacred Art, РїР». de la Encarnacion,9\nArcheology, ethnography and history Basque Museum, СѓР». Maria Munoz www.euskal-museoa.org\nBilbao Easter Procession Museum, РїР». Unamuno, СѓР». Iturribide,3-1
+Moyua=Basandere, СѓР». Iparraguirre,4\nBarrainkua Culture Hall, СѓР». Barrainkua,5\nArte Tavira Gallery, СѓР». Juan de Ajuriaguerra,12\nWindsor Kulturgintza, СѓР». Juan de Ajuriaguerra,14\nAkros Gallery, СѓР». Juan de Ajuriaguerra,16\nVanguardia Gallery, Р°Р». Mazarredo,19\nBilkin Arte Garaikidea Gallery, СѓР». Heros,22\nRekalde Exhibition Hall, Р°Р». Rekalde,30\nColon XVI, СѓР». Colon de Larreategui,16\nbbk Exhibiton Hall, СѓР». Gran Via,32\nAritza Gallery, СѓР». Marques del Puerto,14\nBay Sala, СѓР». Licenciado Poza,4\nEderti, Р°Р». Rekalde,37\nbbk Culture Hall, СѓР». Elcano,20\nArte Gallery, Р°Р». Rekalde,63\nGuggenheim Museum Bilbao, РїСЂ. Abandoibarra,2 www.guggenheim-bilbao.es\nBenedicto Bilbao Museum, СѓР». Iparraguirre,55 www.museo-benedicto.net\nFine Arts Museum, РїР». del Museo,2 www.museobilbao.com\nBullfighting Museum, РїР». de Toros de Vista Alegre, СѓР». Martin Aguero,1 
+San Mames=Athletic Club Exhibition and Trophy Room, San Mames Stadium\nFile of Diputacion Foral of Bizkaia, СѓР». Maria Diaz de Haro,11\nRia de Bilbao Maritime Museum, Muelle Ramon de la Sota,1 www.museomaritimobilbao.org
 

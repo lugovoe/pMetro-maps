@@ -1,16 +1,16 @@
 [Options]
 Name=Guadalajara
 CityName=Guadalajara
-Country=Мексика
-RusName=Гвадалахара
+Country=РњРµРєСЃРёРєР°
+RusName=Р“РІР°РґР°Р»Р°С…Р°СЂР°
 NeedVersion=1.26.3
-MapAuthors=Автор: Варламов Дмитрий (www.chpeks.com)
-MapAuthors=Информация взята с сайта www.urbanrail.net
-MapAuthors=В текущей версии:
-MapAuthors= - все интервалы движения поездов равны 2 минутам
-MapAuthors= - схемы линий
-MapAuthors= - даты открытия станций
-MapAuthors= - открытые участки пути
-MapAuthors=Возможны неточности.
+MapAuthors=РђРІС‚РѕСЂ: Р’Р°СЂР»Р°РјРѕРІ Р”РјРёС‚СЂРёР№ (www.chpeks.com)
+MapAuthors=РРЅС„РѕСЂРјР°С†РёСЏ РІР·СЏС‚Р° СЃ СЃР°Р№С‚Р° www.urbanrail.net
+MapAuthors=Р’ С‚РµРєСѓС‰РµР№ РІРµСЂСЃРёРё:
+MapAuthors= - РІСЃРµ РёРЅС‚РµСЂРІР°Р»С‹ РґРІРёР¶РµРЅРёСЏ РїРѕРµР·РґРѕРІ СЂР°РІРЅС‹ 2 РјРёРЅСѓС‚Р°Рј
+MapAuthors= - СЃС…РµРјС‹ Р»РёРЅРёР№
+MapAuthors= - РґР°С‚С‹ РѕС‚РєСЂС‹С‚РёСЏ СЃС‚Р°РЅС†РёР№
+MapAuthors= - РѕС‚РєСЂС‹С‚С‹Рµ СѓС‡Р°СЃС‚РєРё РїСѓС‚Рё
+MapAuthors=Р’РѕР·РјРѕР¶РЅС‹ РЅРµС‚РѕС‡РЅРѕСЃС‚Рё.
 
 []

@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
 CityName=Minneapolis - St.Paul
-MenuName=Разное\Аэропорт
-Caption=Аэропорт
+MenuName=Р Р°Р·РЅРѕРµ\РђСЌСЂРѕРїРѕСЂС‚
+Caption=РђСЌСЂРѕРїРѕСЂС‚
 StringToAdd='  '
 
 [55]

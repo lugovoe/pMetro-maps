@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
 CityName=Panama
-MenuName=Моб.связь\Открытые станции
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\РћС‚РєСЂС‹С‚С‹Рµ СЃС‚Р°РЅС†РёРё
 
 [Drivings]
 1=Line 1,12 de Octubre,Los Andes

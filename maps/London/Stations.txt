@@ -1,123 +1,123 @@
 [Options]
 AddToInfo=1
 CityName=London
-MenuName=Транспорт\Ж/д станции
-Caption=Станции
-;StringToAdd='Ж/д станция'
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=РЎС‚Р°РЅС†РёРё
+;StringToAdd='Р–/Рґ СЃС‚Р°РЅС†РёСЏ'
 
 [Bakerloo]
-Willesden Junction=Станция "Willesden Junction"
-Queen's Park=Станция "Queen's Park"
-Paddington=Вокзал "Paddington" 
-Marylebone=Вокзал "Marylebone"
-Charing Cross=Вокзал "Charing Cross" 
-Embankment=Вокзал "Charing Cross" (100 метров)
-Waterloo=Вокзал "Waterloo"
-Elephant & Castle=Станция "Elephant & Castle" (100 метров)
+Willesden Junction=РЎС‚Р°РЅС†РёСЏ "Willesden Junction"
+Queen's Park=РЎС‚Р°РЅС†РёСЏ "Queen's Park"
+Paddington=Р’РѕРєР·Р°Р» "Paddington" 
+Marylebone=Р’РѕРєР·Р°Р» "Marylebone"
+Charing Cross=Р’РѕРєР·Р°Р» "Charing Cross" 
+Embankment=Р’РѕРєР·Р°Р» "Charing Cross" (100 РјРµС‚СЂРѕРІ)
+Waterloo=Р’РѕРєР·Р°Р» "Waterloo"
+Elephant & Castle=РЎС‚Р°РЅС†РёСЏ "Elephant & Castle" (100 РјРµС‚СЂРѕРІ)
 
 [Central]
-West Ruislip=Станция "West Ruislip"
-South Ruislip=Станция "South Ruislip"
-Greenford=Станция "Greenford"
-Ealing Broadway=Станция "Ealing Broadway"
-Liverpool Street=Вокзал "Liverpool Street"
-Stratford=Станция "Stratford"
+West Ruislip=РЎС‚Р°РЅС†РёСЏ "West Ruislip"
+South Ruislip=РЎС‚Р°РЅС†РёСЏ "South Ruislip"
+Greenford=РЎС‚Р°РЅС†РёСЏ "Greenford"
+Ealing Broadway=РЎС‚Р°РЅС†РёСЏ "Ealing Broadway"
+Liverpool Street=Р’РѕРєР·Р°Р» "Liverpool Street"
+Stratford=РЎС‚Р°РЅС†РёСЏ "Stratford"
 
 [Circle]
-Euston Square=Вокзал "Euston" (200 метров)
-King's Cross St.Pancras=Вокзал "King's Cross St.Pancras"
-Farringdon=Вокзал "Farringdon"
-Liverpool Street=Вокзал "Liverpool Street"
-Tower Hill=Вокзал "Fenchurch Street" (150 метров)
-Blackfriars=Станция "Blackfriars"
-Embankment=Вокзал "Charing Cross" (100 метров)
-Victoria=Вокзал "Victoria"
-Paddington=Вокзал "Paddington" 
+Euston Square=Р’РѕРєР·Р°Р» "Euston" (200 РјРµС‚СЂРѕРІ)
+King's Cross St.Pancras=Р’РѕРєР·Р°Р» "King's Cross St.Pancras"
+Farringdon=Р’РѕРєР·Р°Р» "Farringdon"
+Liverpool Street=Р’РѕРєР·Р°Р» "Liverpool Street"
+Tower Hill=Р’РѕРєР·Р°Р» "Fenchurch Street" (150 РјРµС‚СЂРѕРІ)
+Blackfriars=РЎС‚Р°РЅС†РёСЏ "Blackfriars"
+Embankment=Р’РѕРєР·Р°Р» "Charing Cross" (100 РјРµС‚СЂРѕРІ)
+Victoria=Р’РѕРєР·Р°Р» "Victoria"
+Paddington=Р’РѕРєР·Р°Р» "Paddington" 
 
 [District]
-Upminster=Станция "Upminster"
-Barking=Станция "Barking"
-West Ham=Станция "West Ham"
-Tower Hill=Вокзал "Fenchurch Street" (150 метров)
-Blackfriars=Станция "Blackfriars"
-Embankment=Вокзал "Charing Cross" (100 метров)
-Victoria=Вокзал "Victoria"
-Ealing Broadway=Станция "Ealing Broadway"
-Kensington Olympia=Станция "Kensington Olympia"
-Richmond=Станция "Richmond"
-Gunnersbury=Станция "Gunnersbury"
-Kew Gardens=Станция "Gunnersbury"
-West Brompton=Станция "West Brompton"
-Wimbledon=Станция "Wimbledon"
+Upminster=РЎС‚Р°РЅС†РёСЏ "Upminster"
+Barking=РЎС‚Р°РЅС†РёСЏ "Barking"
+West Ham=РЎС‚Р°РЅС†РёСЏ "West Ham"
+Tower Hill=Р’РѕРєР·Р°Р» "Fenchurch Street" (150 РјРµС‚СЂРѕРІ)
+Blackfriars=РЎС‚Р°РЅС†РёСЏ "Blackfriars"
+Embankment=Р’РѕРєР·Р°Р» "Charing Cross" (100 РјРµС‚СЂРѕРІ)
+Victoria=Р’РѕРєР·Р°Р» "Victoria"
+Ealing Broadway=РЎС‚Р°РЅС†РёСЏ "Ealing Broadway"
+Kensington Olympia=РЎС‚Р°РЅС†РёСЏ "Kensington Olympia"
+Richmond=РЎС‚Р°РЅС†РёСЏ "Richmond"
+Gunnersbury=РЎС‚Р°РЅС†РёСЏ "Gunnersbury"
+Kew Gardens=РЎС‚Р°РЅС†РёСЏ "Gunnersbury"
+West Brompton=РЎС‚Р°РЅС†РёСЏ "West Brompton"
+Wimbledon=РЎС‚Р°РЅС†РёСЏ "Wimbledon"
 
 [East London]
-New Cross Gate=Станция "New Cross Gate"
-New Cross=Станция "New Cross"
+New Cross Gate=РЎС‚Р°РЅС†РёСЏ "New Cross Gate"
+New Cross=РЎС‚Р°РЅС†РёСЏ "New Cross"
 
 [Hammersmith & City]
-Paddington=Вокзал "Paddington"
-King's Cross St.Pancras=Вокзал "King's Cross St.Pancras"
-Farringdon=Вокзал "Farringdon"
-Liverpool Street=Вокзал "Liverpool Street"
-Barking=Станция "Barking"
-West Ham=Станция "West Ham"
-Euston Square=Вокзал "Euston" (200 метров)
+Paddington=Р’РѕРєР·Р°Р» "Paddington"
+King's Cross St.Pancras=Р’РѕРєР·Р°Р» "King's Cross St.Pancras"
+Farringdon=Р’РѕРєР·Р°Р» "Farringdon"
+Liverpool Street=Р’РѕРєР·Р°Р» "Liverpool Street"
+Barking=РЎС‚Р°РЅС†РёСЏ "Barking"
+West Ham=РЎС‚Р°РЅС†РёСЏ "West Ham"
+Euston Square=Р’РѕРєР·Р°Р» "Euston" (200 РјРµС‚СЂРѕРІ)
 
 [Jubilee]
-West Hampstead=Станция "West Hampstead" (200 метров)
-Waterloo=Вокзал "Waterloo"
-Southwark=Станция "Waterloo East"
-London Bridge=Вокзал "London Bridge"
-Stratford=Станция "Stratford"
-Canning Town=Станция "Canning Town"
+West Hampstead=РЎС‚Р°РЅС†РёСЏ "West Hampstead" (200 РјРµС‚СЂРѕРІ)
+Waterloo=Р’РѕРєР·Р°Р» "Waterloo"
+Southwark=РЎС‚Р°РЅС†РёСЏ "Waterloo East"
+London Bridge=Р’РѕРєР·Р°Р» "London Bridge"
+Stratford=РЎС‚Р°РЅС†РёСЏ "Stratford"
+Canning Town=РЎС‚Р°РЅС†РёСЏ "Canning Town"
 
 [Metropolitan]
-Euston Square=Вокзал "Euston" (200 метров)
-Farringdon=Вокзал "Farringdon"
-Liverpool Street=Вокзал "Liverpool Street"
-Harrow-on-the-Hill=Станция "Harrow-on-the-Hill"
-Chalfont & Latimer II=Станция "Chalfont & Latimer"
-Amersham=Станция "Amersham"
+Euston Square=Р’РѕРєР·Р°Р» "Euston" (200 РјРµС‚СЂРѕРІ)
+Farringdon=Р’РѕРєР·Р°Р» "Farringdon"
+Liverpool Street=Р’РѕРєР·Р°Р» "Liverpool Street"
+Harrow-on-the-Hill=РЎС‚Р°РЅС†РёСЏ "Harrow-on-the-Hill"
+Chalfont & Latimer II=РЎС‚Р°РЅС†РёСЏ "Chalfont & Latimer"
+Amersham=РЎС‚Р°РЅС†РёСЏ "Amersham"
 
 [Northern]
-Kentish Town=Станция "Kentish Town"
-Euston II=Вокзал "Euston"
-Euston I=Вокзал "Euston"
-King's Cross St.Pancras=Вокзал "King's Cross St.Pancras"
-Old Street=Станция "Old Street"
-London Bridge=Вокзал "London Bridge"
-Elephant & Castle=Станция "Elephant & Castle" (100 метров)
-Charing Cross=Вокзал "Charing Cross" 
-Embankment=Вокзал "Charing Cross" (100 метров)
-Waterloo=Вокзал "Waterloo"
-Balham=Станция "Balham"
+Kentish Town=РЎС‚Р°РЅС†РёСЏ "Kentish Town"
+Euston II=Р’РѕРєР·Р°Р» "Euston"
+Euston I=Р’РѕРєР·Р°Р» "Euston"
+King's Cross St.Pancras=Р’РѕРєР·Р°Р» "King's Cross St.Pancras"
+Old Street=РЎС‚Р°РЅС†РёСЏ "Old Street"
+London Bridge=Р’РѕРєР·Р°Р» "London Bridge"
+Elephant & Castle=РЎС‚Р°РЅС†РёСЏ "Elephant & Castle" (100 РјРµС‚СЂРѕРІ)
+Charing Cross=Р’РѕРєР·Р°Р» "Charing Cross" 
+Embankment=Р’РѕРєР·Р°Р» "Charing Cross" (100 РјРµС‚СЂРѕРІ)
+Waterloo=Р’РѕРєР·Р°Р» "Waterloo"
+Balham=РЎС‚Р°РЅС†РёСЏ "Balham"
 
 [Piccadilly]
-Finsbury Park=Станция "Finsbury Park"
-King's Cross St.Pancras=Вокзал "King's Cross St.Pancras"
+Finsbury Park=РЎС‚Р°РЅС†РёСЏ "Finsbury Park"
+King's Cross St.Pancras=Р’РѕРєР·Р°Р» "King's Cross St.Pancras"
 
 [Victoria]
-Walthamstow Central=Станция "Walthamstow Central"
-Blackhorse Road=Станция "Blackhorse Road"
-Tottenham Hale=Станция "Tottenham Hale"
-Seven Sisters=Станция "Seven Sisters"
-Finsbury Park=Станция "Finsbury Park"
-Highbury & Islington=Станция "Highbury & Islington"
-King's Cross St.Pancras=Вокзал "King's Cross St.Pancras"
-Euston=Вокзал "Euston"
-Victoria=Вокзал "Victoria"
-Vauxhall=Станция "Vauxhall"
-Brixton=Станция "Brixton" (100 метров)
+Walthamstow Central=РЎС‚Р°РЅС†РёСЏ "Walthamstow Central"
+Blackhorse Road=РЎС‚Р°РЅС†РёСЏ "Blackhorse Road"
+Tottenham Hale=РЎС‚Р°РЅС†РёСЏ "Tottenham Hale"
+Seven Sisters=РЎС‚Р°РЅС†РёСЏ "Seven Sisters"
+Finsbury Park=РЎС‚Р°РЅС†РёСЏ "Finsbury Park"
+Highbury & Islington=РЎС‚Р°РЅС†РёСЏ "Highbury & Islington"
+King's Cross St.Pancras=Р’РѕРєР·Р°Р» "King's Cross St.Pancras"
+Euston=Р’РѕРєР·Р°Р» "Euston"
+Victoria=Р’РѕРєР·Р°Р» "Victoria"
+Vauxhall=РЎС‚Р°РЅС†РёСЏ "Vauxhall"
+Brixton=РЎС‚Р°РЅС†РёСЏ "Brixton" (100 РјРµС‚СЂРѕРІ)
 
 [Waterloo & City]
-Waterloo=Вокзал "Waterloo"
+Waterloo=Р’РѕРєР·Р°Р» "Waterloo"
 
 [Docklands Light Railway]
-Tower Gateway=Вокзал "Fenchurch Street" (150 метров)
-Greenwich=Станция "Greenwich"
-Limehouse=Станция "Limehouse"
-Lewisham=Станция "Greenwich"
-Stratford=Станция "Stratford"
-Canning Town=Станция "Canning Town"
-Custom House=Станция "Custom House"
+Tower Gateway=Р’РѕРєР·Р°Р» "Fenchurch Street" (150 РјРµС‚СЂРѕРІ)
+Greenwich=РЎС‚Р°РЅС†РёСЏ "Greenwich"
+Limehouse=РЎС‚Р°РЅС†РёСЏ "Limehouse"
+Lewisham=РЎС‚Р°РЅС†РёСЏ "Greenwich"
+Stratford=РЎС‚Р°РЅС†РёСЏ "Stratford"
+Canning Town=РЎС‚Р°РЅС†РёСЏ "Canning Town"
+Custom House=РЎС‚Р°РЅС†РёСЏ "Custom House"
 []

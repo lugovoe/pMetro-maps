@@ -1,10 +1,10 @@
 [Options]
 AddToInfo=1
 CityName=Praha
-MenuName=Разное\Лифты для инвалидов
+MenuName=Р Р°Р·РЅРѕРµ\Р›РёС„С‚С‹ РґР»СЏ РёРЅРІР°Р»РёРґРѕРІ
 MenuImage=Lifts.bmp
-Caption=Лифт
-StringToAdd='  Станция оборудована лифтом для инвалидов'
+Caption=Р›РёС„С‚
+StringToAdd='  РЎС‚Р°РЅС†РёСЏ РѕР±РѕСЂСѓРґРѕРІР°РЅР° Р»РёС„С‚РѕРј РґР»СЏ РёРЅРІР°Р»РёРґРѕРІ'
 
 [A]
 Dejvicka

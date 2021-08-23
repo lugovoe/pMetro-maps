@@ -1,12 +1,12 @@
 [Options]
 AddToInfo=1
-Caption=Аэропорт
-MenuName=Транспорт\Аэропорт
-CityName=Athenas (Афины)
+Caption=РђСЌСЂРѕРїРѕСЂС‚
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\РђСЌСЂРѕРїРѕСЂС‚
+CityName=Athenas (РђС„РёРЅС‹)
 ;StringToAdd='  '
 
 [Line 3]
-Aerothromio=Аэропорт Eleftherios Venizelos (Элефтериос Венизелос).\nСайт аэропорта: http://www.aia.gr/
+Aerothromio=РђСЌСЂРѕРїРѕСЂС‚ Eleftherios Venizelos (Р­Р»РµС„С‚РµСЂРёРѕСЃ Р’РµРЅРёР·РµР»РѕСЃ).\nРЎР°Р№С‚ Р°СЌСЂРѕРїРѕСЂС‚Р°: http://www.aia.gr/
 
 [Aerothromio - Kiato]
-Aerothromio=Аэропорт Eleftherios Venizelos (Элефтериос Венизелос).\nСайт аэропорта: http://www.aia.gr/
+Aerothromio=РђСЌСЂРѕРїРѕСЂС‚ Eleftherios Venizelos (Р­Р»РµС„С‚РµСЂРёРѕСЃ Р’РµРЅРёР·РµР»РѕСЃ).\nРЎР°Р№С‚ Р°СЌСЂРѕРїРѕСЂС‚Р°: http://www.aia.gr/

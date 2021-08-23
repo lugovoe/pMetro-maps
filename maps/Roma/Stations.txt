@@ -1,20 +1,20 @@
 [Options]
 AddToInfo=1
-CityName=Roma (Рим)
-MenuName=Разное\Ж/д станции
-Caption=Станции
-StringToAdd='Ж/д станция '
+CityName=Roma (Р РёРј)
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=РЎС‚Р°РЅС†РёРё
+StringToAdd='Р–/Рґ СЃС‚Р°РЅС†РёСЏ '
 
 [A]
-Termini=Termini - Центральный вокзал, поезд в аэропорт Fiumicino.
+Termini=Termini - Р¦РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РІРѕРєР·Р°Р», РїРѕРµР·Рґ РІ Р°СЌСЂРѕРїРѕСЂС‚ Fiumicino.
 Valle Aurelia=Valle Aurelia/Anastasio II.
-Flaminio=Flaminio, пригородные поезда Roma-Viterbo.
-Ponte Lungo=Ponte Lungo, поезд в аэропорт Fiumicino.
+Flaminio=Flaminio, РїСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° Roma-Viterbo.
+Ponte Lungo=Ponte Lungo, РїРѕРµР·Рґ РІ Р°СЌСЂРѕРїРѕСЂС‚ Fiumicino.
 
 [B]
-Tiburtina=Tiburtina - восточное направление (Pescara).
-Termini=Termini - Центральный вокзал, поезд в аэропорт Fiumicino.
-Piramide=Piramide, пригородные поезда Roma-Lido.
-Basilica San Paolo=Basilica San Paolo, пригородные поезда Roma-Lido.
-Eur Magliana=Eur Magliana, пригородные поезда Roma-Lido.
+Tiburtina=Tiburtina - РІРѕСЃС‚РѕС‡РЅРѕРµ РЅР°РїСЂР°РІР»РµРЅРёРµ (Pescara).
+Termini=Termini - Р¦РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РІРѕРєР·Р°Р», РїРѕРµР·Рґ РІ Р°СЌСЂРѕРїРѕСЂС‚ Fiumicino.
+Piramide=Piramide, РїСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° Roma-Lido.
+Basilica San Paolo=Basilica San Paolo, РїСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° Roma-Lido.
+Eur Magliana=Eur Magliana, РїСЂРёРіРѕСЂРѕРґРЅС‹Рµ РїРѕРµР·РґР° Roma-Lido.
 

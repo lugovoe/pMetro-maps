@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Общая информация
-CityName=Буэнос-Айрес
-StringToAdd='  Дата открытия: '
+Caption=РћР±С‰Р°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ
+CityName=Р‘СѓСЌРЅРѕСЃ-РђР№СЂРµСЃ
+StringToAdd='  Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ: '
 
 [A]
 Plaza de Mayo=01.12.1913
@@ -37,7 +37,7 @@ Nueve de julio=03.06.1937
 Tribunales=03.06.1937
 Callao D=23.02.1940
 Facultad de Medicina=23.02.1940
-Pueyrredуn D=23.02.1940
+PueyrredСѓn D=23.02.1940
 Aguero=23.02.1940
 Bulnes=23.02.1940
 Scalabrini Ortiz=23.02.1940
@@ -55,7 +55,7 @@ Rodolfo Walsh=20.06.1944 (?)
 Pichincha=20.06.1944 (?)
 Jujuy=20.06.1944 (?)
 General Urquiza=20.06.1944 (?)
-Boedo=октябрь 1944 г.
+Boedo=РѕРєС‚СЏР±СЂСЊ 1944 Рі.
 Avenida La Plata=24.04.1966 
 Independencia=24.04.1966 
 Belgrano=24.04.1966 

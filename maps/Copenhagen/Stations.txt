@@ -1,14 +1,14 @@
 [Options]
 AddToInfo=1
-CityName=Copenhagen (Копенгаген)
-MenuName=Разное\Ж/д станции
-Caption=Станции
-StringToAdd='Ж/д станция '
+CityName=Copenhagen (РљРѕРїРµРЅРіР°РіРµРЅ)
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=РЎС‚Р°РЅС†РёРё
+StringToAdd='Р–/Рґ СЃС‚Р°РЅС†РёСЏ '
 
 [M 1]
-Norreport=Одноименная станция
-Orestad=Одноименная станция
+Norreport=РћРґРЅРѕРёРјРµРЅРЅР°СЏ СЃС‚Р°РЅС†РёСЏ
+Orestad=РћРґРЅРѕРёРјРµРЅРЅР°СЏ СЃС‚Р°РЅС†РёСЏ
 
 [M 2]
-Norreport=Одноименная станция
-Lufthavnen=Одноименная станция
+Norreport=РћРґРЅРѕРёРјРµРЅРЅР°СЏ СЃС‚Р°РЅС†РёСЏ
+Lufthavnen=РћРґРЅРѕРёРјРµРЅРЅР°СЏ СЃС‚Р°РЅС†РёСЏ

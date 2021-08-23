@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Μΰκες
-CityName=Επεβΰν
+Caption=ΠΠ°ΠΊΠµΡ‚
+CityName=Π•Ρ€ΠµΠ²Π°Π½
 Type=3dImage
 
 [1]
-Χΰπαΰυ=Charbah.pm3d
+Π§Π°Ρ€Π±Π°Ρ…=Charbah.pm3d

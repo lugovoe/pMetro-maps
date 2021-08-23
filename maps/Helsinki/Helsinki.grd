@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
-Caption=Транспорт
-StringToAdd='  Наземный транспорт:'
+Caption=РўСЂР°РЅСЃРїРѕСЂС‚
+StringToAdd='  РќР°Р·РµРјРЅС‹Р№ С‚СЂР°РЅСЃРїРѕСЂС‚:'
 
 [Bus]
 13=^^^^Metro,Rautatientori
@@ -25,7 +25,7 @@ StringToAdd='  Наземный транспорт:'
 10=^^^^Metro,Rautatientori
 
 [Train]
-Центральный вокзал=^^^^Metro,Rautatientori
+Р¦РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РІРѕРєР·Р°Р»=^^^^Metro,Rautatientori
 
 [Taxi]
 

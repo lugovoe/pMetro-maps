@@ -1,28 +1,28 @@
 [Options]
 AddToInfo=1
-Caption=Информация
+Caption=РРЅС„РѕСЂРјР°С†РёСЏ
 CityName=Cleveland
 StringToAdd='  '
 
 [Red Line]
-Louis Stokes Station at Windermere=Открыта в 1955г.
-Superior=Открыта в 1955г.
-Euclid - E. 120=Открыта в 1955г.
-University Circle=Открыта в 1955г.
-E. 105 - Quincy=Открыта в 1955г.
-E. 97th=Открыта в 1955г.
-E. 55th=Открыта в 1955г.
-E.34 - Campus=Открыта в 1955г.
-Tower City - Public Square=Открыта в 1955г.
-W. 25 - Ohio City=Открыта в 1955г.
-W. 65 - Madison=Открыта в 1955г.
-West Blvd - Cudell=Открыта в 1955г.
-W. 117 - Madison=Открыта в 1955г.
-Triskett=Открыта в 1958г.
-West Park=Открыта в 1958г.
-Puritas=Открыта в 1968г.
-Brookpark=Открыта в 1968г.
-Cleveland Hopkins Int'l Airport=Открыта в 1968г.
+Louis Stokes Station at Windermere=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+Superior=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+Euclid - E. 120=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+University Circle=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+E. 105 - Quincy=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+E. 97th=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+E. 55th=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+E.34 - Campus=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+Tower City - Public Square=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+W. 25 - Ohio City=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+W. 65 - Madison=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+West Blvd - Cudell=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+W. 117 - Madison=РћС‚РєСЂС‹С‚Р° РІ 1955Рі.
+Triskett=РћС‚РєСЂС‹С‚Р° РІ 1958Рі.
+West Park=РћС‚РєСЂС‹С‚Р° РІ 1958Рі.
+Puritas=РћС‚РєСЂС‹С‚Р° РІ 1968Рі.
+Brookpark=РћС‚РєСЂС‹С‚Р° РІ 1968Рі.
+Cleveland Hopkins Int'l Airport=РћС‚РєСЂС‹С‚Р° РІ 1968Рі.
 
 []
 

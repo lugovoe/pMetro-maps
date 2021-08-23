@@ -4,12 +4,12 @@ Caption=Exits
 CityName=Montreal
 StringToAdd='Exits:'
 
-[1 GREEN ANGRIGNON - HONOR…-BEAUGRAND]
+[1 GREEN ANGRIGNON - HONOR–ô-BEAUGRAND]
 Angrignon=a-m43.htm Sortie Parc Angrignon, 3500, boul. des Trinitaires
 Monk=a-m42.htm Sortie Monk Sud, 6805, boul. Monk\nSortie Monk Nord, 6750, boul. Monk
 Jolicoeur=a-m41.htm 6200, rue Drake
 Verdun=a-m40.htm Sortie Verdun Nord, 4525, av. Verdun\nSortie Verdun Sud, 4520, av. Verdun
-De L'…glise=a-m39.htm Sortie Wellington\n250, av. Galt\nSortie de l'…glise\n133, av. de l'…glise
+De L'–ôglise=a-m39.htm Sortie Wellington\n250, av. Galt\nSortie de l'–ôglise\n133, av. de l'–ôglise
 LaSalle=a-m38.htm 301, av. Caisse
 Charlevoix=a-m37.htm 2600, rue Centre
 Lionel-Groulx=a-m36.htm Sortie Atwater, 620, av. Atwater
@@ -23,7 +23,7 @@ Berri-UQAM=a-m11.htm Sortie St-Denis, 1470, rue St-Denis\nSortie Berri, 1500, ru
 Beaudry=a-m29.htm 1255, rue Ste-Catherine Est
 Papineau=a-m28.htm 1425, rue Cartier
 Frontenac=a-m27.htm 2570, rue Ontario Est
-PrÈfontaine=a-m26.htm Sortie Hochelaga Nord, 3105, rue Hochelaga\nSortie Hochelaga Sud, 3100, rue Hochelaga
+Pr–πfontaine=a-m26.htm Sortie Hochelaga Nord, 3105, rue Hochelaga\nSortie Hochelaga Sud, 3100, rue Hochelaga
 Joliette=a-m25.htm Sortie Hochelaga Nord, 3575, rue Hochelaga\nSortie Hochelaga Sud, 3580, rue Hochelaga
 Pie-IX=a-m24.htm Sortie Pie-IX Ouest, 2700, boul. Pie-IX\nSortie Pie-IX Est, 2705, boul. Pie-IX
 Viau=a-m23.htm 4855, av. Pierre-de-Coubertin
@@ -31,24 +31,24 @@ Assomption=a-m22.htm 3075, boul. De L'Assomption
 Cadillac=a-m21.htm Sortie Sherbrooke Nord, 5995, rue Sherbrooke Est\nSortie Sherbrooke Sud, 3315, rue De Cadillac
 Langelier=a-m20.htm Sortie Sherbrooke Nord, 6595, rue Sherbrooke Est\nSortie Sherbrooke Sud, 6610, rue Sherbrooke Est\nSortie Langelier Ouest, 3355, boul. Langelier
 Radisson=a-m19.htm Sortie Sherbrooke Nord, 7155, rue Sherbrooke Est\nSortie Sherbrooke Sud, 7250, rue Sherbrooke Est
-HonorÈ-Beaugrand=a-m18.htm Sortie Sherbrooke Sud\n7950, rue Sherbrooke Est\nSortie Sherbrooke Nord\n7955, rue Sherbrooke Est\nSortie HonorÈ-Beaugrand\n4755, rue HonorÈ-Beaugrand
+Honor–π-Beaugrand=a-m18.htm Sortie Sherbrooke Sud\n7950, rue Sherbrooke Est\nSortie Sherbrooke Nord\n7955, rue Sherbrooke Est\nSortie Honor–π-Beaugrand\n4755, rue Honor–π-Beaugrand
                                           
-[2 ORANGE C‘TE-VERTU - MONTMORENCY]
-CÙte-Vertu=a-m65.htm CÙte-Vertu Nord, 1515 CÙte-Vertu\nCÙte-Vertu Sud, 1510 CÙte-Vertu\nEdouard-Laurin, 1515 Edouard-Laurin
-Du CollËge=a-m54.htm Sortie Du CollËge, 1490, rue Du CollËge\nSortie Cartier, 450, rue Ouimet
-De La Savane=a-m53.htm 8261, boul. DÈcarie
-Namur=a-m52.htm 7405, boul. DÈcarie
+[2 ORANGE C–§TE-VERTU - MONTMORENCY]
+C—Ñte-Vertu=a-m65.htm C—Ñte-Vertu Nord, 1515 C—Ñte-Vertu\nC—Ñte-Vertu Sud, 1510 C—Ñte-Vertu\nEdouard-Laurin, 1515 Edouard-Laurin
+Du Coll–∏ge=a-m54.htm Sortie Du Coll–∏ge, 1490, rue Du Coll–∏ge\nSortie Cartier, 450, rue Ouimet
+De La Savane=a-m53.htm 8261, boul. D–πcarie
+Namur=a-m52.htm 7405, boul. D–πcarie
 Plamondon=a-m51.htm Sortie Plamondon, 4811, av. Plamondon\nSortie Van Horne, 6250, av. Victoria
-CÙte-Sainte-Catherine=a-m50.htm 4780, chemin de la CÙte-Ste-Catherine
+C—Ñte-Sainte-Catherine=a-m50.htm 4780, chemin de la C—Ñte-Ste-Catherine
 Snowdon=a-m49.htm Sortie Queen-Mary, 5111, chemin Queen-Mary
-Villa-Maria=a-m48.htm 4331, boul. DÈcarie
-VendÙme=a-m47.htm 5160, boul. de Maisonneuve Ouest
+Villa-Maria=a-m48.htm 4331, boul. D–πcarie
+Vend—Ñme=a-m47.htm 5160, boul. de Maisonneuve Ouest
 Place-St-Henri=a-m46.htm Sortie St-Ferdinand, 555, rue St-Ferdinand
 Lionel-Groulx=a-m36.htm Sortie Atwater, 620, av. Atwater
 Georges-Vanier=a-m17.htm 2040, rue St-Antoine Ouest
 Lucien-l'Allier=a-m16.htm 955, rue Lucien-L'Allier
-Bonaventure=a-m15.htm Sortie Peel, 1166, rue de La Gauchetiere Ouest\nSortie de la CathÈdrale, 955, rue de la CathÈdrale\nAccËs intÈrieur ‡ la Place Bonaventure\nAccËs intÈrieur ‡ l'hÙtel Le Ch‚teau Champlain\nAccËs intÈrieur au 1000 de La GauchetiËre\nAccËs intÈrieur au 1250 RenÈ-LÈvesque Ouest
-Square-Victoria=a-m14.htm Sortie Belmont, 605, rue Belmont\nSortie Viger, 601, av. Viger Ouest\nSortie St-Antoine, 601, rue St-Antoine Ouest\nSortie St-Jacques, 605, rue St-Jacques Ouest\nAccËs intÈrieur - Centre de commerce mondial\nAccËs intÈrieur - Place de la CitÈ internationale\nAccËs intÈrieur - Place Victoria\nAccËs intÈrieur - tour Banque Nationale
+Bonaventure=a-m15.htm Sortie Peel, 1166, rue de La Gauchetiere Ouest\nSortie de la Cath–πdrale, 955, rue de la Cath–πdrale\nAcc–∏s int–πrieur –∞ la Place Bonaventure\nAcc–∏s int–πrieur –∞ l'h—Ñtel Le Ch–≤teau Champlain\nAcc–∏s int–πrieur au 1000 de La Gaucheti–∏re\nAcc–∏s int–πrieur au 1250 Ren–π-L–πvesque Ouest
+Square-Victoria=a-m14.htm Sortie Belmont, 605, rue Belmont\nSortie Viger, 601, av. Viger Ouest\nSortie St-Antoine, 601, rue St-Antoine Ouest\nSortie St-Jacques, 605, rue St-Jacques Ouest\nAcc–∏s int–πrieur - Centre de commerce mondial\nAcc–∏s int–πrieur - Place de la Cit–π internationale\nAcc–∏s int–πrieur - Place Victoria\nAcc–∏s int–πrieur - tour Banque Nationale
 Place-d'Armes=a-m13.htm Sortie St-Urbain, 960, rue St-Urbain
 Champ-de-Mars=a-m12.htm 940, rue Sanguinet
 Berri-UQAM=a-m11.htm Sortie St-Denis, 1470, rue St-Denis\nSortie Berri, 1500, rue Berri\nSortie Palais du commerce, 1650, rue Berri\nSortie Terminus Voyageur, 1635, rue Berri\nSortie Place Dupuis, 850, boul. de Maisonneuve Est\nSortie Ste-Catherine, 505, rue Ste-Catherine Est
@@ -56,28 +56,28 @@ Sherbrooke=a-m10.htm Sortie rue Berri Ouest, 3580, rue Berri\nSortie rue Berri E
 Mont-Royal=a-m09.htm 470, av. du Mont-Royal Est
 Laurier=a-m08.htm Sortie Laurier, 5113, rue Rivard\nSortie boul. St-Joseph/Gilford, 495, rue Gilford
 Rosemont=a-m07.htm 420, boul. Rosemont
-Beaubien=a-m06.htm 6530, av. de Ch‚teaubriand
+Beaubien=a-m06.htm 6530, av. de Ch–≤teaubriand
 Jean-Talon=a-m05.htm Sortie Jean-Talon Nord\n7100, rue Berri\nSortie Jean-Talon Sud\n430, rue Jean-Talon Est\nSortie Jean-Talon Sud\n522, rue Jean-Talon Est\nSortie St-Hubert\n780, rue Jean-Talon Est
 Jarry=a-m04.htm 504, rue Jarry Est
-CrÈmazie=a-m03.htm Sortie CrÈmazie Nord, 505, boul. CrÈmazie Est\nSortie CrÈmazie Sud, 490, boul. CrÈmazie Est
-SauvÈ=a-m02.htm Sortie SauvÈ Nord, 9800, rue Berri\nSortie SauvÈ Sud, 9790, rue Berri
-Henri-Bourassa=a-m01.htm Sortie Berri, 10670, rue Berri\nSortie boul. Henri-Bourassa Sud, 590, boul. Henri-Bourassa Est\nSortie boul. Henri-Bourassa Nord, 575, boul. Henri-Bourassa Est\nSortie Terminus Laval, AccËs au terminus Laval
+Cr–πmazie=a-m03.htm Sortie Cr–πmazie Nord, 505, boul. Cr–πmazie Est\nSortie Cr–πmazie Sud, 490, boul. Cr–πmazie Est
+Sauv–π=a-m02.htm Sortie Sauv–π Nord, 9800, rue Berri\nSortie Sauv–π Sud, 9790, rue Berri
+Henri-Bourassa=a-m01.htm Sortie Berri, 10670, rue Berri\nSortie boul. Henri-Bourassa Sud, 590, boul. Henri-Bourassa Est\nSortie boul. Henri-Bourassa Nord, 575, boul. Henri-Bourassa Est\nSortie Terminus Laval, Acc–∏s au terminus Laval
                                           
 [3 BLUE SNOWDON - SAINT-MICHEL]
 Snowdon=a-m49.htm Sortie Queen-Mary, 5111, chemin Queen-Mary
-CÙte-des-Neiges=a-m55.htm Sortie CÙte-des-Neiges Ouest, 5316, chemin de la CÙte-des-Neiges\nSortie CÙte-des-Neiges Est, 5351, chemin de la CÙte-des-Neiges
-UniversitÈ-de-MontrÈal=a-m56.htm Sortie boul. …douard-Monpetit, 2830, boul. …douard-Monpetit\nSortie Louis-Colin, 5400, av. Louis-Colin
-…douard-Montpetit=a-m57.htm Sortie Vincent-D'Indy, 2030, boul. …douard-Monpetit\nSortie …douard-Monpetit, 2040, boul. …douard-Monpetit\nSortie Pavillon Marie-Victorin , 80 av. Vincent-D'Indy
+C—Ñte-des-Neiges=a-m55.htm Sortie C—Ñte-des-Neiges Ouest, 5316, chemin de la C—Ñte-des-Neiges\nSortie C—Ñte-des-Neiges Est, 5351, chemin de la C—Ñte-des-Neiges
+Universit–π-de-Montr–πal=a-m56.htm Sortie boul. –ôdouard-Monpetit, 2830, boul. –ôdouard-Monpetit\nSortie Louis-Colin, 5400, av. Louis-Colin
+–ôdouard-Montpetit=a-m57.htm Sortie Vincent-D'Indy, 2030, boul. –ôdouard-Monpetit\nSortie –ôdouard-Monpetit, 2040, boul. –ôdouard-Monpetit\nSortie Pavillon Marie-Victorin , 80 av. Vincent-D'Indy
 Outremont=a-m58.htm 1400, av. Van Horne
 Acadie=a-m59.htm Sortie de l'Acadie, 6900, boul. de l'Acadie\nSortie Beaumont, 999, av. Beaumont
 Parc=a-m60.htm 7245, rue Hutchison
 De Castelnau=a-m61.htm Sortie St-Laurent Ouest, 7300, boul. St-Laurent\nSortie Saint-Laurent Est, 7333, boul. St-Laurent
 Jean-Talon=a-m05.htm Sortie Jean-Talon Nord\n7100, rue Berri\nSortie Jean-Talon Sud\n430, rue Jean-Talon Est\nSortie Jean-Talon Sud\n522, rue Jean-Talon Est\nSortie St-Hubert\n780, rue Jean-Talon Est
 Fabre=a-m62.htm Sortie Fabre,1737, rue Jean-Talon Est\nSortie Papineau,1480, rue Jean-Talon Est
-D'Iberville=a-m63.htm Sortie Louis-HÈbert, 2400, rue Jean-Talon Est\nSortie D'Iberville, 7151, rue D'Iberville
+D'Iberville=a-m63.htm Sortie Louis-H–πbert, 2400, rue Jean-Talon Est\nSortie D'Iberville, 7151, rue D'Iberville
 Saint-Michel=a-m64.htm Sortie St-Michel Ouest, 7270, boul. St-Michel\nSortie St-Michel Est, 7325, boul. St-Michel
                                           
 [4 YELLOW BERRI-UQAM - LONGUEUIL]
 Berri-UQAM=a-m11.htm Sortie St-Denis, 1470, rue St-Denis\nSortie Berri, 1500, rue Berri\nSortie Palais du commerce, 1650, rue Berri\nSortie Terminus Voyageur, 1635, rue Berri\nSortie Place Dupuis, 850, boul. de Maisonneuve Est\nSortie Ste-Catherine, 505, rue Ste-Catherine Est
-Jean-Drapeau=a-m45.htm 170, rue Ste-HÈlËne
+Jean-Drapeau=a-m45.htm 170, rue Ste-H–πl–∏ne
 Longueuil=a-m44.htm Sortie Longueuil, 100, Place Charles Lemoyne

@@ -1,9 +1,9 @@
 [Options]
 AddToInfo=1
 CityName=London
-MenuName=Разное\Парки
-Caption=Парки
-StringToAdd=Парки:
+MenuName=Р Р°Р·РЅРѕРµ\РџР°СЂРєРё
+Caption=РџР°СЂРєРё
+StringToAdd=РџР°СЂРєРё:
 
 [Bakerloo]
 Marylebone=Regent's Park

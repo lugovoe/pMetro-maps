@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Дата открытия
-CityName=Пальма-де-Мальорка
-StringToAdd='  Дата открытия '
+Caption=Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ
+CityName=РџР°Р»СЊРјР°-РґРµ-РњР°Р»СЊРѕСЂРєР°
+StringToAdd='  Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ '
 
 [1]
 Placa d'Espanya=25.04.2007

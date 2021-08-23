@@ -1,10 +1,10 @@
 [Options]
 Name=Toronto
 CityName=Toronto
-Country=Канада
-RusName=Торонто
+Country=РљР°РЅР°РґР°
+RusName=РўРѕСЂРѕРЅС‚Рѕ
 ;ImageFileName=Toronto.gif
 NeedVersion=1.26.3
-MapAuthors=Схема от 08.06.2005г.
-MapAuthors=\nИнформация о времени проезда:\n- http://www.city.toronto.on.ca/\nКарта взята с сайта http://www.city.toronto.on.ca/.
+MapAuthors=РЎС…РµРјР° РѕС‚ 08.06.2005Рі.
+MapAuthors=\nРРЅС„РѕСЂРјР°С†РёСЏ Рѕ РІСЂРµРјРµРЅРё РїСЂРѕРµР·РґР°:\n- http://www.city.toronto.on.ca/\nРљР°СЂС‚Р° РІР·СЏС‚Р° СЃ СЃР°Р№С‚Р° http://www.city.toronto.on.ca/.
 

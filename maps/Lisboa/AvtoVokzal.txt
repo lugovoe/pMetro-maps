@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-CityName=Lisboa (Лиссабон)
-MenuName=Разное\Автовокзалы
-Caption=Автовокзалы
+CityName=Lisboa (Р›РёСЃСЃР°Р±РѕРЅ)
+MenuName=Р Р°Р·РЅРѕРµ\РђРІС‚РѕРІРѕРєР·Р°Р»С‹
+Caption=РђРІС‚РѕРІРѕРєР·Р°Р»С‹
 StringToAdd=
 
 [Blue line]

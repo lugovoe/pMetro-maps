@@ -1,40 +1,40 @@
 [Options]
 AddToInfo=1
 CityName=Bilbao
-MenuName=Разное\Лифты
-Caption=Лифты
-StringToAdd='  Лифт:'
+MenuName=Р Р°Р·РЅРѕРµ\Р›РёС„С‚С‹
+Caption=Р›РёС„С‚С‹
+StringToAdd='  Р›РёС„С‚:'
 MenuImage=Lifts.bmp
 
 [1]
-Basarrate=на углу ул. Iturriaga и ул. Marques Laurentin
-Santutxu=на углу ул. Karmelo,12 и Sto.Rosario
+Basarrate=РЅР° СѓРіР»Сѓ СѓР». Iturriaga Рё СѓР». Marques Laurentin
+Santutxu=РЅР° СѓРіР»Сѓ СѓР». Karmelo,12 Рё Sto.Rosario
 Casco Viejo=(Mallona) Barrio La Cruz,28
-Abando=ул. Gran Via,1 (пл. Circular)
-Moyua=ул. Gran Via,37
-Indautxu=на углу ул. Dr. Areilza,25 и ал. Urkijo
-San Mames=на углу ул. Luis Brinas,13 и ал. Urkijo
-Deusto=на углу ул. Iruna,12 и ул. Lehendakari Agirre.
-Sarriko=на углу ул. Benidorm,2 и ул. Lehendakari Agirre
-San Inazio=на углу ул. Lehendakari Agirre,170, и пл. Levante
-Areeta=ул. Ibaigane,2
-Gobela=ул. Negubide,53-55
-Algorta=ул. Telletxe,1 C
+Abando=СѓР». Gran Via,1 (РїР». Circular)
+Moyua=СѓР». Gran Via,37
+Indautxu=РЅР° СѓРіР»Сѓ СѓР». Dr. Areilza,25 Рё Р°Р». Urkijo
+San Mames=РЅР° СѓРіР»Сѓ СѓР». Luis Brinas,13 Рё Р°Р». Urkijo
+Deusto=РЅР° СѓРіР»Сѓ СѓР». Iruna,12 Рё СѓР». Lehendakari Agirre.
+Sarriko=РЅР° СѓРіР»Сѓ СѓР». Benidorm,2 Рё СѓР». Lehendakari Agirre
+San Inazio=РЅР° СѓРіР»Сѓ СѓР». Lehendakari Agirre,170, Рё РїР». Levante
+Areeta=СѓР». Ibaigane,2
+Gobela=СѓР». Negubide,53-55
+Algorta=СѓР». Telletxe,1 C
 
 [2]
-Basarrate=на углу ул. Iturriaga и ул. Marques Laurentin
-Santutxu=на углу ул. Karmelo,12 и Sto.Rosario
+Basarrate=РЅР° СѓРіР»Сѓ СѓР». Iturriaga Рё СѓР». Marques Laurentin
+Santutxu=РЅР° СѓРіР»Сѓ СѓР». Karmelo,12 Рё Sto.Rosario
 Casco Viejo=(Mallona) Barrio La Cruz,28
-Abando=ул. Gran Via,1 (пл. Circular)
-Moyua=ул. Gran Via,37
-Indautxu=на углу ул. Dr. Areilza,25 и ал. Urkijo
-San Mames=на углу ул. Luis Brinas,13 и ал. Urkijo
-Deusto=на углу ул. Iruna,12 и ул. Lehendakari Agirre.
-Sarriko=на углу ул. Benidorm,2 и ул. Lehendakari Agirre
-San Inazio=на углу ул. Lehendakari Agirre,170, и пл. Levante
-Gurutzeta/Cruces=ул. Balejo
+Abando=СѓР». Gran Via,1 (РїР». Circular)
+Moyua=СѓР». Gran Via,37
+Indautxu=РЅР° СѓРіР»Сѓ СѓР». Dr. Areilza,25 Рё Р°Р». Urkijo
+San Mames=РЅР° СѓРіР»Сѓ СѓР». Luis Brinas,13 Рё Р°Р». Urkijo
+Deusto=РЅР° СѓРіР»Сѓ СѓР». Iruna,12 Рё СѓР». Lehendakari Agirre.
+Sarriko=РЅР° СѓРіР»Сѓ СѓР». Benidorm,2 Рё СѓР». Lehendakari Agirre
+San Inazio=РЅР° СѓРіР»Сѓ СѓР». Lehendakari Agirre,170, Рё РїР». Levante
+Gurutzeta/Cruces=СѓР». Balejo
 Bagatza=Gabriel Aresti
 Sestao=El Kasko
-Abatxolo=ул. Abatxolo,36
-Portugalete=ул. Ferdinand Arnoid
+Abatxolo=СѓР». Abatxolo,36
+Portugalete=СѓР». Ferdinand Arnoid
 

@@ -1,12 +1,12 @@
 [Options]
 Name=Moscow
-CityName=Москва
-Country=Россия
-RusName=Москва
+CityName=РњРѕСЃРєРІР°
+Country=Р РѕСЃСЃРёСЏ
+RusName=РњРѕСЃРєРІР°
 NeedVersion=1.29.5
-MapAuthors=Схема от 01.04.2021г.
+MapAuthors=РЎС…РµРјР° РѕС‚ 01.04.2021Рі.
 MapAuthors=
-MapAuthors=Автор 3d-макетов станций - Андрей Ионов.
+MapAuthors=РђРІС‚РѕСЂ 3d-РјР°РєРµС‚РѕРІ СЃС‚Р°РЅС†РёР№ - РђРЅРґСЂРµР№ РРѕРЅРѕРІ.
 MapAuthors=
-DelayNames=День,Час-пик,Ночь
+DelayNames=Р”РµРЅСЊ,Р§Р°СЃ-РїРёРє,РќРѕС‡СЊ
 

@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-CityName=Ташкент
-Caption=Гостиницы
-MenuName=Разное\Гостиницы
+CityName=РўР°С€РєРµРЅС‚
+Caption=Р“РѕСЃС‚РёРЅРёС†С‹
+MenuName=Р Р°Р·РЅРѕРµ\Р“РѕСЃС‚РёРЅРёС†С‹
 MenuImage=Hotel.bmp
 StringToAdd='  '
 
@@ -15,10 +15,10 @@ StringToAdd='  '
 ;Bunyodkor=
 ;Paxtakor=
 ;Mustaqillik Maydoni=
-Amir Temur Xiyoboni=Гостиница "Шератон"\nГостиница "Тата"\nГостиница "Узбекистан"
+Amir Temur Xiyoboni=Р“РѕСЃС‚РёРЅРёС†Р° "РЁРµСЂР°С‚РѕРЅ"\nР“РѕСЃС‚РёРЅРёС†Р° "РўР°С‚Р°"\nР“РѕСЃС‚РёРЅРёС†Р° "РЈР·Р±РµРєРёСЃС‚Р°РЅ"
 ;Hamid Olimjon=
 ;Pushkin=
-Buyuk Ipak Yo'li=Гостиница "Саёхат"
+Buyuk Ipak Yo'li=Р“РѕСЃС‚РёРЅРёС†Р° "РЎР°С‘С…Р°С‚"
 
 [O'zbekiston]
 ;Beruniy=
@@ -28,7 +28,7 @@ Buyuk Ipak Yo'li=Гостиница "Саёхат"
 ;Alisher Navoiy=
 ;O'zbekiston=
 ;Kosmonavtlar=
-Oybek=Гостиница "Гранд Мир Отель" (бывшая "Россия")
+Oybek=Р“РѕСЃС‚РёРЅРёС†Р° "Р“СЂР°РЅРґ РњРёСЂ РћС‚РµР»СЊ" (Р±С‹РІС€Р°СЏ "Р РѕСЃСЃРёСЏ")
 ;Toshkent=
 ;Mashinasozlar=
 ;Do'stlik=
@@ -38,9 +38,9 @@ Oybek=Гостиница "Гранд Мир Отель" (бывшая "Россия")
 ;Yunus Rajabiy=
 ;Abdulla Qodiriy=
 ;Minor=
-Bodomzor=Гостиница "Интерконтиненталь"
-Yunus Rajabiy=Гостиница "Шератон"\nГостиница "Тата"\nГостиница "Узбекистан"
-Ming O'rik=Гостиница "Гранд Мир Отель" (бывшая "Россия")
+Bodomzor=Р“РѕСЃС‚РёРЅРёС†Р° "РРЅС‚РµСЂРєРѕРЅС‚РёРЅРµРЅС‚Р°Р»СЊ"
+Yunus Rajabiy=Р“РѕСЃС‚РёРЅРёС†Р° "РЁРµСЂР°С‚РѕРЅ"\nР“РѕСЃС‚РёРЅРёС†Р° "РўР°С‚Р°"\nР“РѕСЃС‚РёРЅРёС†Р° "РЈР·Р±РµРєРёСЃС‚Р°РЅ"
+Ming O'rik=Р“РѕСЃС‚РёРЅРёС†Р° "Р“СЂР°РЅРґ РњРёСЂ РћС‚РµР»СЊ" (Р±С‹РІС€Р°СЏ "Р РѕСЃСЃРёСЏ")
 ;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=

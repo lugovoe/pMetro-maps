@@ -1,10 +1,10 @@
 var 
-  // поезда
+  // РїРѕРµР·РґР°
   TrainCount: integer;
   tArrive, tDeparture, Stops, Clocks, ClipHead, ClipTail: array[0..1] of extended;
   ShowClock, DoClipHead, DoClipTail: array[0..1] of Boolean;
 
-  // рельсы
+  // СЂРµР»СЊСЃС‹
   NodeCount: integer;
   xs, xs2, ys, ys2, zs, zs2: array[0..8] of extended; 
   PathLength, PathLength2: array[0..8] of extended;
@@ -51,14 +51,14 @@ begin
   doClipTail[1] := False;
 //  ClipTail[1] := 7.5;
 
-  // рассчитываем длину трассы
+  // СЂР°СЃСЃС‡РёС‚С‹РІР°РµРј РґР»РёРЅСѓ С‚СЂР°СЃСЃС‹
   for j := 0 to TrainCount - 1 do begin
     PathLength[0 + j * NodeCount] := 0;
     for i := 1 to NodeCount - 1 do
       PathLength[i + j * NodeCount] := PathLength[i - 1 + j * NodeCount] + sqrt((Xs[i + j * NodeCount] - Xs[i - 1 + j * NodeCount]) ^ 2 + (Ys[i + j * NodeCount] - Ys[i - 1 + j * NodeCount]) ^ 2 + (Zs[i + j * NodeCount] - Zs[i - 1 + j * NodeCount]) ^ 2);
   end;
 
-  // пересчитаем точки остановок, часов и обрезки
+  // РїРµСЂРµСЃС‡РёС‚Р°РµРј С‚РѕС‡РєРё РѕСЃС‚Р°РЅРѕРІРѕРє, С‡Р°СЃРѕРІ Рё РѕР±СЂРµР·РєРё
   for i := 0 to TrainCount - 1 do begin
     Stops[i] := Segment2Path(i, Stops[i]);
     Clocks[i] := Segment2Path(i, Clocks[i]);
@@ -69,15 +69,15 @@ end; // InitPath
 
 procedure Init();
 begin
-  TrainCount := 2; // количество часов и поездов
+  TrainCount := 2; // РєРѕР»РёС‡РµСЃС‚РІРѕ С‡Р°СЃРѕРІ Рё РїРѕРµР·РґРѕРІ
   VagonCount := 4;
-  StopTime := 10;        // остановка - 10 секунд
+  StopTime := 10;        // РѕСЃС‚Р°РЅРѕРІРєР° - 10 СЃРµРєСѓРЅРґ
 
   InitPath;
   InitClock;
   InitTrain;
 
-  // удаляем статичные ступеньки  
+  // СѓРґР°Р»СЏРµРј СЃС‚Р°С‚РёС‡РЅС‹Рµ СЃС‚СѓРїРµРЅСЊРєРё  
   HideObject('SUp');
   HideObject('SDown');
 end; // Init
@@ -101,7 +101,7 @@ begin
     GetPositionAbovePeriod;
 
 
-  // рисуем поезда
+  // СЂРёСЃСѓРµРј РїРѕРµР·РґР°
   DrawTrain(0, False, 2); //2
   DrawTrain(1, True, 2); //2
 //  DrawPath(24);

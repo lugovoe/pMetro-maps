@@ -3,39 +3,39 @@
 [Options]
 AddToInfo=1
 CityName=Barcelona
-MenuName=Транспорт\Трамвай
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\РўСЂР°РјРІР°Р№
 ;MenuImage=Vokzals_logo.bmp
 ;ImageFileName=Vokzals.vec(Metro.map),
-Caption=Трамвай
+Caption=РўСЂР°РјРІР°Р№
 
 [L1]
-Marina=Линия Т4
-Glories=Линии Т4, T5
+Marina=Р›РёРЅРёСЏ Рў4
+Glories=Р›РёРЅРёРё Рў4, T5
 
 [L2]
-Sant Roc=Линии Т5, Т6
-Gorg=Линии Т5, Т6
+Sant Roc=Р›РёРЅРёРё Рў5, Рў6
+Gorg=Р›РёРЅРёРё Рў5, Рў6
 
 [L3]
-Maria Cristina=Линии Т1, T2, Т3
-Palau Reial=Линии Т1, T2, Т3
-Zona Universitaria=Линии Т1, T2, Т3
+Maria Cristina=Р›РёРЅРёРё Рў1, T2, Рў3
+Palau Reial=Р›РёРЅРёРё Рў1, T2, Рў3
+Zona Universitaria=Р›РёРЅРёРё Рў1, T2, Рў3
 
 [L4]
-Besos=Линия Т5
-El Maresme|Forum=Линия Т4
-Selva de Mar=Линия Т4
+Besos=Р›РёРЅРёСЏ Рў5
+El Maresme|Forum=Р›РёРЅРёСЏ Рў4
+Selva de Mar=Р›РёРЅРёСЏ Рў4
 
 [L5]
-Ernest Lluch=Линии Т1, T2, Т3
-Cornella Centre=Линии Т1, T2
+Ernest Lluch=Р›РёРЅРёРё Рў1, T2, Рў3
+Cornella Centre=Р›РёРЅРёРё Рў1, T2
 
 [L10]
-Gorg=Линии Т5, Т6
+Gorg=Р›РёРЅРёРё Рў5, Рў6
 
 [R1]
-Cornella=Линии Т1, T2
-Sant Adria de Besos=Линии Т4, Т6
+Cornella=Р›РёРЅРёРё Рў1, T2
+Sant Adria de Besos=Р›РёРЅРёРё Рў4, Рў6
 
 [R4]
-Cornella=Линии Т1, T2
+Cornella=Р›РёРЅРёРё Рў1, T2

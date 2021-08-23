@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
 CityName=Helsinki
-MenuName=Моб.связь\Открытые станции
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\РћС‚РєСЂС‹С‚С‹Рµ СЃС‚Р°РЅС†РёРё
 
 [Drivings]
 Metro1=Metro,Sornainen,Herttoniemi,10,90

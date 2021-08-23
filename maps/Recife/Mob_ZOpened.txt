@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
-CityName=Ресифи
-MenuName=Моб.связь\Открытые участки
+CityName=Р РµСЃРёС„Рё
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\РћС‚РєСЂС‹С‚С‹Рµ СѓС‡Р°СЃС‚РєРё
 
 [Linha Centro]
 Recife=

@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
-Caption=Транспорт
-StringToAdd='  Наземный транспорт:'
+Caption=РўСЂР°РЅСЃРїРѕСЂС‚
+StringToAdd='  РќР°Р·РµРјРЅС‹Р№ С‚СЂР°РЅСЃРїРѕСЂС‚:'
 
 [Bus]
 2=^^^^Expo Line,Burrard, Millenium Line,Burrard
@@ -103,7 +103,7 @@ N17=^^^^Expo Line,Granville, Millenium Line,Granville
 N19=^^^^Expo Line,Granville, Expo Line,Main Street-Science World, Expo Line,New Westminster, Expo Line,Scott Road, Expo Line,Surrey Central, Millenium Line,Granville, Millenium Line,Main Street-Science World, Millenium Line,New Westminster
 N20=^^^^Expo Line,Granville, Millenium Line,Granville, Millenium Line,Commercial Drive
 N35=^^^^Expo Line,Granville, Millenium Line,Granville
-Seabus (5 мин)=^^^^Expo Line,Waterfront, Millenium Line,Waterfront
+Seabus (5 РјРёРЅ)=^^^^Expo Line,Waterfront, Millenium Line,Waterfront
 West Coast Express=^^^^Expo Line,Waterfront, Millenium Line,Waterfront
 
 []

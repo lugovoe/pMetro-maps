@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Тип станции
-CityName=Napoli (Неаполь)
-StringToAdd='  Тип станции: '
+Caption=РўРёРї СЃС‚Р°РЅС†РёРё
+CityName=Napoli (РќРµР°РїРѕР»СЊ)
+StringToAdd='  РўРёРї СЃС‚Р°РЅС†РёРё: '
 
 [Metropolitana Collinare]
 ;Centro Direzionale=
@@ -12,20 +12,20 @@ StringToAdd='  Тип станции: '
 ;Secondigliano=
 ;Regina Margherita=
 ;Miano=
-Piscinola=три платформы (два пути между ними)
-Chiaiano=по разные стороны от путей
-Frullone=по разные стороны от путей
-Colli Aminei=между путями
-Policlinico=между путями
-Rione Alto=между путями
-Montedonzelli=между путями
-Medaglie d'Oro=по разные стороны от путей
-Vanvitelli=по разные стороны от путей
-Quattro Giornate=между путями
-Salvator Rosa=между путями
-Materdei=между путями
-Museo=между путями
-Dante=три платформы (два пути между ними)
+Piscinola=С‚СЂРё РїР»Р°С‚С„РѕСЂРјС‹ (РґРІР° РїСѓС‚Рё РјРµР¶РґСѓ РЅРёРјРё)
+Chiaiano=РїРѕ СЂР°Р·РЅС‹Рµ СЃС‚РѕСЂРѕРЅС‹ РѕС‚ РїСѓС‚РµР№
+Frullone=РїРѕ СЂР°Р·РЅС‹Рµ СЃС‚РѕСЂРѕРЅС‹ РѕС‚ РїСѓС‚РµР№
+Colli Aminei=РјРµР¶РґСѓ РїСѓС‚СЏРјРё
+Policlinico=РјРµР¶РґСѓ РїСѓС‚СЏРјРё
+Rione Alto=РјРµР¶РґСѓ РїСѓС‚СЏРјРё
+Montedonzelli=РјРµР¶РґСѓ РїСѓС‚СЏРјРё
+Medaglie d'Oro=РїРѕ СЂР°Р·РЅС‹Рµ СЃС‚РѕСЂРѕРЅС‹ РѕС‚ РїСѓС‚РµР№
+Vanvitelli=РїРѕ СЂР°Р·РЅС‹Рµ СЃС‚РѕСЂРѕРЅС‹ РѕС‚ РїСѓС‚РµР№
+Quattro Giornate=РјРµР¶РґСѓ РїСѓС‚СЏРјРё
+Salvator Rosa=РјРµР¶РґСѓ РїСѓС‚СЏРјРё
+Materdei=РјРµР¶РґСѓ РїСѓС‚СЏРјРё
+Museo=РјРµР¶РґСѓ РїСѓС‚СЏРјРё
+Dante=С‚СЂРё РїР»Р°С‚С„РѕСЂРјС‹ (РґРІР° РїСѓС‚Рё РјРµР¶РґСѓ РЅРёРјРё)
 ;Toledo=
 ;Municipio=
 ;Universita=

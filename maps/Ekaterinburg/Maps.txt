@@ -1,30 +1,30 @@
 [Options]
 AddToInfo=1
-CityName=Екатеринбург
-Caption=Ссылки
-;Caption=Карта окрестностей
-StringToAdd='Карта окрестностей cтанции: '
+CityName=Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі
+Caption=РЎСЃС‹Р»РєРё
+;Caption=РљР°СЂС‚Р° РѕРєСЂРµСЃС‚РЅРѕСЃС‚РµР№
+StringToAdd='РљР°СЂС‚Р° РѕРєСЂРµСЃС‚РЅРѕСЃС‚РµР№ cС‚Р°РЅС†РёРё: '
 
-[Север-Юг]
-Проспект Космонавтов=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11354758&mapY=6311300&act=5&mapWidth=1040
-Уралмаш=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11354550&mapY=6309818&act=5&mapWidth=1040
-Машиностроителей=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11354550&mapY=6308648&act=5&mapWidth=1040
-Уральская=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11353718&mapY=6306620&act=5&mapWidth=1040
-Динамо=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11353718&mapY=6305450&act=5&mapWidth=1040
-Площадь 1905 года=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11353614&mapY=6304202&act=5&mapWidth=1040
-Геологическая=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11353822&mapY=6303188&act=5&mapWidth=1040
-Ботаническая=http://maps.yandex.ru/?ll=60.630833%2C56.797778&spn=0.028753%2C0.008918&z=16&l=map
+[РЎРµРІРµСЂ-Р®Рі]
+РџСЂРѕСЃРїРµРєС‚ РљРѕСЃРјРѕРЅР°РІС‚РѕРІ=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11354758&mapY=6311300&act=5&mapWidth=1040
+РЈСЂР°Р»РјР°С€=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11354550&mapY=6309818&act=5&mapWidth=1040
+РњР°С€РёРЅРѕСЃС‚СЂРѕРёС‚РµР»РµР№=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11354550&mapY=6308648&act=5&mapWidth=1040
+РЈСЂР°Р»СЊСЃРєР°СЏ=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11353718&mapY=6306620&act=5&mapWidth=1040
+Р”РёРЅР°РјРѕ=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11353718&mapY=6305450&act=5&mapWidth=1040
+РџР»РѕС‰Р°РґСЊ 1905 РіРѕРґР°=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11353614&mapY=6304202&act=5&mapWidth=1040
+Р“РµРѕР»РѕРіРёС‡РµСЃРєР°СЏ=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11353822&mapY=6303188&act=5&mapWidth=1040
+Р‘РѕС‚Р°РЅРёС‡РµСЃРєР°СЏ=http://maps.yandex.ru/?ll=60.630833%2C56.797778&spn=0.028753%2C0.008918&z=16&l=map
 
-[Городская электричка]
-Екатеринбург-Сортировочный=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11346126&mapY=6309740&act=5&mapWidth=1040
-Электродепо=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11348206&mapY=6307712&act=5&mapWidth=1040
-ВИЗ=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11351014&mapY=6306776&act=5&mapWidth=1040
-Екатеринбург-Пассажирский=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11354134&mapY=6306776&act=5&mapWidth=1040
-Первомайская=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11355590&mapY=6305060&act=5&mapWidth=1040
-Шарташ=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11356422&mapY=6303422&act=5&mapWidth=1040
-;Лесотехническая=
-;Ботаническая=
-Уктус=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11354862&mapY=6297650&act=5&mapWidth=1040
-;Вторчермет=
-Керамик=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11353822&mapY=6294842&act=5&mapWidth=1040
+[Р“РѕСЂРѕРґСЃРєР°СЏ СЌР»РµРєС‚СЂРёС‡РєР°]
+Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі-РЎРѕСЂС‚РёСЂРѕРІРѕС‡РЅС‹Р№=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11346126&mapY=6309740&act=5&mapWidth=1040
+Р­Р»РµРєС‚СЂРѕРґРµРїРѕ=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11348206&mapY=6307712&act=5&mapWidth=1040
+Р’РР—=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11351014&mapY=6306776&act=5&mapWidth=1040
+Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі-РџР°СЃСЃР°Р¶РёСЂСЃРєРёР№=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11354134&mapY=6306776&act=5&mapWidth=1040
+РџРµСЂРІРѕРјР°Р№СЃРєР°СЏ=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11355590&mapY=6305060&act=5&mapWidth=1040
+РЁР°СЂС‚Р°С€=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11356422&mapY=6303422&act=5&mapWidth=1040
+;Р›РµСЃРѕС‚РµС…РЅРёС‡РµСЃРєР°СЏ=
+;Р‘РѕС‚Р°РЅРёС‡РµСЃРєР°СЏ=
+РЈРєС‚СѓСЃ=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11354862&mapY=6297650&act=5&mapWidth=1040
+;Р’С‚РѕСЂС‡РµСЂРјРµС‚=
+РљРµСЂР°РјРёРє=http://maps.yandex.ru/map.xml?mapID=13&size=5&scale=6&mapX=11353822&mapY=6294842&act=5&mapWidth=1040
 

@@ -1,15 +1,15 @@
 [Options]
 AddToInfo=1
-Caption=Макет
-CityName=Екатеринбург
+Caption=РњР°РєРµС‚
+CityName=Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі
 Type=3dImage
 
-[Север-Юг]
-Проспект Космонавтов=ProspKosm.pm3d
-Уралмаш=Uralmash.pm3d
-Машиностроителей=Mashin.pm3d
-Уральская=Uralskaya.pm3d
-Динамо=Dinamo.pm3d
-Площадь 1905 года=Ploshad.pm3d
-Геологическая=Geologic.pm3d
-;Ботаническая=Botanicheskaya.pm3d
+[РЎРµРІРµСЂ-Р®Рі]
+РџСЂРѕСЃРїРµРєС‚ РљРѕСЃРјРѕРЅР°РІС‚РѕРІ=ProspKosm.pm3d
+РЈСЂР°Р»РјР°С€=Uralmash.pm3d
+РњР°С€РёРЅРѕСЃС‚СЂРѕРёС‚РµР»РµР№=Mashin.pm3d
+РЈСЂР°Р»СЊСЃРєР°СЏ=Uralskaya.pm3d
+Р”РёРЅР°РјРѕ=Dinamo.pm3d
+РџР»РѕС‰Р°РґСЊ 1905 РіРѕРґР°=Ploshad.pm3d
+Р“РµРѕР»РѕРіРёС‡РµСЃРєР°СЏ=Geologic.pm3d
+;Р‘РѕС‚Р°РЅРёС‡РµСЃРєР°СЏ=Botanicheskaya.pm3d

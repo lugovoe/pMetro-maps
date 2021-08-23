@@ -1,14 +1,14 @@
 [Options]
 Name=Kolomna
-CityName=Коломна
-Country=Россия
-RusName=Коломна
-Comment=Схема движения трамваев
+CityName=РљРѕР»РѕРјРЅР°
+Country=Р РѕСЃСЃРёСЏ
+RusName=РљРѕР»РѕРјРЅР°
+Comment=РЎС…РµРјР° РґРІРёР¶РµРЅРёСЏ С‚СЂР°РјРІР°РµРІ
 NeedVersion=1.28.2
 MapAuthors=
-MapAuthors=Схема трамвайных маршрутов на 2010 г.
+MapAuthors=РЎС…РµРјР° С‚СЂР°РјРІР°Р№РЅС‹С… РјР°СЂС€СЂСѓС‚РѕРІ РЅР° 2010 Рі.
 MapAuthors=
-MapAuthors=Автор: Крувялис Валерий
+MapAuthors=РђРІС‚РѕСЂ: РљСЂСѓРІСЏР»РёСЃ Р’Р°Р»РµСЂРёР№
 MapAuthors=
-MapAuthors=Информация частично взята с сайта  http://kolomnatram.ruz.net/
-DelayNames=5.00–10.00,10.00–15.00,15.00–19.00,после 19.00
+MapAuthors=РРЅС„РѕСЂРјР°С†РёСЏ С‡Р°СЃС‚РёС‡РЅРѕ РІР·СЏС‚Р° СЃ СЃР°Р№С‚Р°  http://kolomnatram.ruz.net/
+DelayNames=5.00вЂ“10.00,10.00вЂ“15.00,15.00вЂ“19.00,РїРѕСЃР»Рµ 19.00

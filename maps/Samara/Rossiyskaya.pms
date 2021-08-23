@@ -1,10 +1,10 @@
 var 
-  // поезда
+  // РїРѕРµР·РґР°
   TrainCount: integer;
   tArrive, tDeparture, Stops, Clocks, ClipHead, ClipTail: array[0..1] of extended;
   ShowClock, DoClipHead, DoClipTail: array[0..1] of Boolean;
 
-  // рельсы
+  // СЂРµР»СЊСЃС‹
   NodeCount: integer;
   xs, xs2, ys, ys2, zs, zs2: array[0..1] of extended; 
   PathLength, PathLength2: array[0..1] of extended;
@@ -37,14 +37,14 @@ begin
   ClipHead[1] := 0.06;
   ClipTail[1] := 0.94;
 
-  // рассчитываем длину трассы
+  // СЂР°СЃСЃС‡РёС‚С‹РІР°РµРј РґР»РёРЅСѓ С‚СЂР°СЃСЃС‹
   for j := 0 to TrainCount - 1 do begin
     PathLength[0 + j * NodeCount] := 0;
     for i := 1 to NodeCount - 1 do
       PathLength[i + j * NodeCount] := PathLength[i - 1 + j * NodeCount] + sqrt((Xs[i + j * NodeCount] - Xs[i - 1 + j * NodeCount]) ^ 2 + (Ys[i + j * NodeCount] - Ys[i - 1 + j * NodeCount]) ^ 2 + (Zs[i + j * NodeCount] - Zs[i - 1 + j * NodeCount]) ^ 2);
   end;
 
-  // пересчитаем точки остановок, часов и обрезки
+  // РїРµСЂРµСЃС‡РёС‚Р°РµРј С‚РѕС‡РєРё РѕСЃС‚Р°РЅРѕРІРѕРє, С‡Р°СЃРѕРІ Рё РѕР±СЂРµР·РєРё
   for i := 0 to TrainCount - 1 do begin
     Stops[i] := Segment2Path(i, Stops[i]);
     Clocks[i] := Segment2Path(i, Clocks[i]);
@@ -55,9 +55,9 @@ end; // InitPath
 
 procedure Init();
 begin
-  TrainCount := 2; // количество часов и поездов
+  TrainCount := 2; // РєРѕР»РёС‡РµСЃС‚РІРѕ С‡Р°СЃРѕРІ Рё РїРѕРµР·РґРѕРІ
   VagonCount := 3;
-  StopTime := 8;        // остановка - 8 секунд
+  StopTime := 8;        // РѕСЃС‚Р°РЅРѕРІРєР° - 8 СЃРµРєСѓРЅРґ
 
   InitPath;
   InitClock;
@@ -82,7 +82,7 @@ end;
 
 function CalcDoor1(dt: extended): extended;
 begin
-  // рассчитываем положение дверей 0 - закрыто, 1 - открыто
+  // СЂР°СЃСЃС‡РёС‚С‹РІР°РµРј РїРѕР»РѕР¶РµРЅРёРµ РґРІРµСЂРµР№ 0 - Р·Р°РєСЂС‹С‚Рѕ, 1 - РѕС‚РєСЂС‹С‚Рѕ
   Result := 0;
   if dt > 40 + 3 * 60 + StopTime - 5 then
     dt  := dt - (40 + 3 * 60 + StopTime);
@@ -104,13 +104,13 @@ var L: extended;
 begin
   tOld := 0; vOld := 0; L := 0;
   L := CalcLength(dt, L, -10, -10);
-  L := CalcLength(dt, L, 10, 0); // 1-я остановка
+  L := CalcLength(dt, L, 10, 0); // 1-СЏ РѕСЃС‚Р°РЅРѕРІРєР°
   L := CalcLength(dt, L, StopTime, 0);
   L := CalcLength(dt, L, 10, -10);
-  L := CalcLength(dt, L, 10, 0); // 2-я остановка
-  L := CalcLength(dt, L, 3 * 60, 0); // уехал на 3 минуты
+  L := CalcLength(dt, L, 10, 0); // 2-СЏ РѕСЃС‚Р°РЅРѕРІРєР°
+  L := CalcLength(dt, L, 3 * 60, 0); // СѓРµС…Р°Р» РЅР° 3 РјРёРЅСѓС‚С‹
   L := CalcLength(dt, L, 10, 10);
-  L := CalcLength(dt, L, 10, 0); // 3-я остановка
+  L := CalcLength(dt, L, 10, 0); // 3-СЏ РѕСЃС‚Р°РЅРѕРІРєР°
   L := CalcLength(dt, L, StopTime, 0);
   L := CalcLength(dt, L, 10, 10); 
 
@@ -131,63 +131,63 @@ begin // DrawSingleTrain1
   if (dt < MinTime) or (dt > MaxTime) then
     exit;
 
-  // запоминаем, когда поезд отправился, для часов
+  // Р·Р°РїРѕРјРёРЅР°РµРј, РєРѕРіРґР° РїРѕРµР·Рґ РѕС‚РїСЂР°РІРёР»СЃСЏ, РґР»СЏ С‡Р°СЃРѕРІ
   if (dt > StopTime + 3) and (tDeparture[TrainNumber] < tArrive[TrainNumber]) then
     tDeparture[TrainNumber] := Round(t) + 0.5;
 
   LHead := CalcTrain1(dt);
 
-  // обрезка
+  // РѕР±СЂРµР·РєР°
   if (LHead > 0) and DoClipHead[TrainNumber] then begin
     CalcWheel(TrainNumber, ClipHead[TrainNumber], Wheel1X, Wheel1Y, Wheel1Z, AngleXY1, AngleZ1);
     glPushMatrix;
     glTranslatef(Wheel1X, Wheel1Y, Wheel1Z);
-    glRotatef(AngleXY1, 0, 0, 1); // Поворачиваем сцену на угол вокруг оси Z
+    glRotatef(AngleXY1, 0, 0, 1); // РџРѕРІРѕСЂР°С‡РёРІР°РµРј СЃС†РµРЅСѓ РЅР° СѓРіРѕР» РІРѕРєСЂСѓРі РѕСЃРё Z
     EnableClipPlane(-1, 0, 0, 0);
     glPopMatrix;
   end else if (LHead < 0) and DoClipTail[TrainNumber] then begin
     CalcWheel(TrainNumber, ClipTail[TrainNumber], Wheel1X, Wheel1Y, Wheel1Z, AngleXY1, AngleZ1);
     glPushMatrix;
     glTranslatef(Wheel1X, Wheel1Y, Wheel1Z);
-    glRotatef(AngleXY1, 0, 0, 1); // Поворачиваем сцену на угол вокруг оси Z
+    glRotatef(AngleXY1, 0, 0, 1); // РџРѕРІРѕСЂР°С‡РёРІР°РµРј СЃС†РµРЅСѓ РЅР° СѓРіРѕР» РІРѕРєСЂСѓРі РѕСЃРё Z
     EnableClipPlane(1, 0, 0, 0);
     glPopMatrix;
   end;
 
-  // при помощи коэффициентов приводим к масштабу
+  // РїСЂРё РїРѕРјРѕС‰Рё РєРѕСЌС„С„РёС†РёРµРЅС‚РѕРІ РїСЂРёРІРѕРґРёРј Рє РјР°СЃС€С‚Р°Р±Сѓ
   LHead := -50 * LHead + Stops[TrainNumber];
   dDoor := CalcDoor1(dt) * 18;
 
-  // поезд
+  // РїРѕРµР·Рґ
   CalcWheel(TrainNumber, LHead - Tel1[0], Wheel1X, Wheel1Y, Wheel1Z, AngleXY1, AngleZ1);
   glPushMatrix;
   glTranslatef(Wheel1X, Wheel1Y, Wheel1Z);
-  glRotatef(AngleXY1, 0, 0, 1); // Поворачиваем сцену на угол вокруг оси Z
-  glRotatef(-AngleZ1, 0, 1, 0); // Поворачиваем сцену на угол вокруг оси Y
+  glRotatef(AngleXY1, 0, 0, 1); // РџРѕРІРѕСЂР°С‡РёРІР°РµРј СЃС†РµРЅСѓ РЅР° СѓРіРѕР» РІРѕРєСЂСѓРі РѕСЃРё Z
+  glRotatef(-AngleZ1, 0, 1, 0); // РџРѕРІРѕСЂР°С‡РёРІР°РµРј СЃС†РµРЅСѓ РЅР° СѓРіРѕР» РІРѕРєСЂСѓРі РѕСЃРё Y
 
   if dDoor = 0 then
     Draw3dObject('Nomernoy.Train.Closed')
   else begin
     if LeftOpened then begin
       glTranslatef(dDoor, 0, 0);
-      Draw3dObject('Nomernoy.dverLL'); // Левая дверь
+      Draw3dObject('Nomernoy.dverLL'); // Р›РµРІР°СЏ РґРІРµСЂСЊ
       glTranslatef(-2 * dDoor, 0, 0);
-      Draw3dObject('Nomernoy.dverLR'); // Правая дверь
+      Draw3dObject('Nomernoy.dverLR'); // РџСЂР°РІР°СЏ РґРІРµСЂСЊ
       glTranslatef(dDoor, 0, 0);
-      Draw3dObject('Nomernoy.Train.LeftOpened'); // поезд
+      Draw3dObject('Nomernoy.Train.LeftOpened'); // РїРѕРµР·Рґ
     end else begin
       glTranslatef(dDoor, 0, 0);
-      Draw3dObject('Nomernoy.dverRR'); // Левая дверь
+      Draw3dObject('Nomernoy.dverRR'); // Р›РµРІР°СЏ РґРІРµСЂСЊ
       glTranslatef(-2 * dDoor, 0, 0);
-      Draw3dObject('Nomernoy.dverRL'); // Правая дверь
+      Draw3dObject('Nomernoy.dverRL'); // РџСЂР°РІР°СЏ РґРІРµСЂСЊ
       glTranslatef(dDoor, 0, 0);
-      Draw3dObject('Nomernoy.Train.RightOpened');// поезд
+      Draw3dObject('Nomernoy.Train.RightOpened');// РїРѕРµР·Рґ
     end;
   end;
 
   glPopMatrix;
 
-  // отключаем обрезку
+  // РѕС‚РєР»СЋС‡Р°РµРј РѕР±СЂРµР·РєСѓ
 //  if DoClip[TrainNumber] then
   DisableClipPlane;
 end; // DrawSingleTrain1
@@ -197,7 +197,7 @@ var dt: extended;
 begin
   glPushMatrix;
   glTranslatef(321.8, 100, 0);
-  glRotatef(180, 0, 0, 1); // Поворачиваем сцену на угол вокруг оси Z
+  glRotatef(180, 0, 0, 1); // РџРѕРІРѕСЂР°С‡РёРІР°РµРј СЃС†РµРЅСѓ РЅР° СѓРіРѕР» РІРѕРєСЂСѓРі РѕСЃРё Z
   DrawTrainClock(TrainNumber);
   glPopMatrix;
   DrawSingleTrain1(TrainNumber, LeftOpened);
@@ -222,7 +222,7 @@ begin
     GetPositionAbovePeriod;
 
 
-  // рисуем поезда
+  // СЂРёСЃСѓРµРј РїРѕРµР·РґР°
   DrawTrain1(1, True); //2
 //  DrawPath(24);
 

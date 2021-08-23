@@ -1,17 +1,17 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Казань
+Caption=РЎС…РµРјР°
+CityName=РљР°Р·Р°РЅСЊ
 Type=Image
 
-[Первая]
-Проспект Победы=ProspektPobedy.vec
-Горки=Gorki.vec
-Аметьево=Ametyevo.vec
-Суконная слобода=SukonnayaSloboda.vec
-Площадь Тукая=PloschadTukaya.vec
-Кремлевская=Kremlevskaya.vec
-Козья слобода=KozyaSloboda.vec
-Яшьлек=Yashlek.vec
-;Северный вокзал=
-;Авиастроительная=
+[РџРµСЂРІР°СЏ]
+РџСЂРѕСЃРїРµРєС‚ РџРѕР±РµРґС‹=ProspektPobedy.vec
+Р“РѕСЂРєРё=Gorki.vec
+РђРјРµС‚СЊРµРІРѕ=Ametyevo.vec
+РЎСѓРєРѕРЅРЅР°СЏ СЃР»РѕР±РѕРґР°=SukonnayaSloboda.vec
+РџР»РѕС‰Р°РґСЊ РўСѓРєР°СЏ=PloschadTukaya.vec
+РљСЂРµРјР»РµРІСЃРєР°СЏ=Kremlevskaya.vec
+РљРѕР·СЊСЏ СЃР»РѕР±РѕРґР°=KozyaSloboda.vec
+РЇС€СЊР»РµРє=Yashlek.vec
+;РЎРµРІРµСЂРЅС‹Р№ РІРѕРєР·Р°Р»=
+;РђРІРёР°СЃС‚СЂРѕРёС‚РµР»СЊРЅР°СЏ=

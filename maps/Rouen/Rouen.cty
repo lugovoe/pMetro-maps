@@ -1,11 +1,11 @@
 [Options]
 Name=Rouen
 CityName=Rouen
-Country=Франция
-RusName=Руан
+Country=Р¤СЂР°РЅС†РёСЏ
+RusName=Р СѓР°РЅ
 NeedVersion=1.26.3
-MapAuthors=Схема от 28.09.2006г.
-MapAuthors=Интервалы и карта взяты с www.tcar.fr
-MapAuthors=Составил карту Фёдор Никулин
+MapAuthors=РЎС…РµРјР° РѕС‚ 28.09.2006Рі.
+MapAuthors=РРЅС‚РµСЂРІР°Р»С‹ Рё РєР°СЂС‚Р° РІР·СЏС‚С‹ СЃ www.tcar.fr
+MapAuthors=РЎРѕСЃС‚Р°РІРёР» РєР°СЂС‚Сѓ Р¤С‘РґРѕСЂ РќРёРєСѓР»РёРЅ
 
 []

@@ -1,249 +1,249 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Москва
+Caption=РЎС…РµРјР°
+CityName=РњРѕСЃРєРІР°
 Type=Image
 
-[Сокольническая]
-Саларьево=Salarevo.vec
-Румянцево=Rumyantsevo.vec
-Тропарёво=Troparevo.vec
-Юго-Западная=YugoZapadnaya.vec
-Проспект Вернадского=Vernadskogo.vec
-Университет=Universitet.vec
-Воробьевы горы=VorobevyGory.vec
-Спортивная=Sportivnaya.vec
-Фрунзенская=Frunzenskaya.vec
-Парк культуры=ParkKultury.vec
-Кропоткинская=Kropotkinskaya.vec
-Библиотека имени Ленина=Borovitskaya.vec
-Охотный ряд=Teatralnaya.vec
-Лубянка=Lubyanka.vec
-Чистые пруды=Turgenevskaya.vec
-Красные ворота=KrasnyeVorota.vec
-Комсомольская=Komsomolskaya.vec
-Красносельская=Krasnoselskaya.vec
-Сокольники=Sokolniki.vec
-Преображенская площадь=Preobrazhenskaya.vec
-Черкизовская=Cherkizovskaya.vec
-Бульвар Рокоссовского=BulvarRokossovskogo.vec
+[РЎРѕРєРѕР»СЊРЅРёС‡РµСЃРєР°СЏ]
+РЎР°Р»Р°СЂСЊРµРІРѕ=Salarevo.vec
+Р СѓРјСЏРЅС†РµРІРѕ=Rumyantsevo.vec
+РўСЂРѕРїР°СЂС‘РІРѕ=Troparevo.vec
+Р®РіРѕ-Р—Р°РїР°РґРЅР°СЏ=YugoZapadnaya.vec
+РџСЂРѕСЃРїРµРєС‚ Р’РµСЂРЅР°РґСЃРєРѕРіРѕ=Vernadskogo.vec
+РЈРЅРёРІРµСЂСЃРёС‚РµС‚=Universitet.vec
+Р’РѕСЂРѕР±СЊРµРІС‹ РіРѕСЂС‹=VorobevyGory.vec
+РЎРїРѕСЂС‚РёРІРЅР°СЏ=Sportivnaya.vec
+Р¤СЂСѓРЅР·РµРЅСЃРєР°СЏ=Frunzenskaya.vec
+РџР°СЂРє РєСѓР»СЊС‚СѓСЂС‹=ParkKultury.vec
+РљСЂРѕРїРѕС‚РєРёРЅСЃРєР°СЏ=Kropotkinskaya.vec
+Р‘РёР±Р»РёРѕС‚РµРєР° РёРјРµРЅРё Р›РµРЅРёРЅР°=Borovitskaya.vec
+РћС…РѕС‚РЅС‹Р№ СЂСЏРґ=Teatralnaya.vec
+Р›СѓР±СЏРЅРєР°=Lubyanka.vec
+Р§РёСЃС‚С‹Рµ РїСЂСѓРґС‹=Turgenevskaya.vec
+РљСЂР°СЃРЅС‹Рµ РІРѕСЂРѕС‚Р°=KrasnyeVorota.vec
+РљРѕРјСЃРѕРјРѕР»СЊСЃРєР°СЏ=Komsomolskaya.vec
+РљСЂР°СЃРЅРѕСЃРµР»СЊСЃРєР°СЏ=Krasnoselskaya.vec
+РЎРѕРєРѕР»СЊРЅРёРєРё=Sokolniki.vec
+РџСЂРµРѕР±СЂР°Р¶РµРЅСЃРєР°СЏ РїР»РѕС‰Р°РґСЊ=Preobrazhenskaya.vec
+Р§РµСЂРєРёР·РѕРІСЃРєР°СЏ=Cherkizovskaya.vec
+Р‘СѓР»СЊРІР°СЂ Р РѕРєРѕСЃСЃРѕРІСЃРєРѕРіРѕ=BulvarRokossovskogo.vec
 
-[Замоскворецкая]
-Ховрино=Hovrino.vec
-Речной вокзал=RechnoyVokzal.vec
-Водный стадион=VodnyStadion.vec
-Войковская=Voykovskaya.vec
-Сокол=Sokol.vec
-Аэропорт=Aeroport.vec
-Динамо=Dinamo.vec
-Белорусская=Belorusskaya.vec
-Маяковская=Mayakovskaya.vec
-Тверская=Pushkinskaya.vec
-Театральная=Teatralnaya.vec
-Новокузнецкая=Tretyakovskaya.vec
-Павелецкая=Pavelec.vec
-Автозаводская=Avtozavodskaya.vec
-Технопарк=Technopark.vec
-Коломенская=Kolomenskaya.vec
-Каширская=Kashirskaya.vec
-Кантемировская=Kantemirovskaya.vec
-Царицыно=TSaritsyno.vec
-Орехово=Orehovo.vec
-Домодедовская=Domodedovskaya.vec
-Красногвардейская=Krasnogvardeyskaya.vec
-Алма-Атинская=Alma-Atinskaya.vec
+[Р—Р°РјРѕСЃРєРІРѕСЂРµС†РєР°СЏ]
+РҐРѕРІСЂРёРЅРѕ=Hovrino.vec
+Р РµС‡РЅРѕР№ РІРѕРєР·Р°Р»=RechnoyVokzal.vec
+Р’РѕРґРЅС‹Р№ СЃС‚Р°РґРёРѕРЅ=VodnyStadion.vec
+Р’РѕР№РєРѕРІСЃРєР°СЏ=Voykovskaya.vec
+РЎРѕРєРѕР»=Sokol.vec
+РђСЌСЂРѕРїРѕСЂС‚=Aeroport.vec
+Р”РёРЅР°РјРѕ=Dinamo.vec
+Р‘РµР»РѕСЂСѓСЃСЃРєР°СЏ=Belorusskaya.vec
+РњР°СЏРєРѕРІСЃРєР°СЏ=Mayakovskaya.vec
+РўРІРµСЂСЃРєР°СЏ=Pushkinskaya.vec
+РўРµР°С‚СЂР°Р»СЊРЅР°СЏ=Teatralnaya.vec
+РќРѕРІРѕРєСѓР·РЅРµС†РєР°СЏ=Tretyakovskaya.vec
+РџР°РІРµР»РµС†РєР°СЏ=Pavelec.vec
+РђРІС‚РѕР·Р°РІРѕРґСЃРєР°СЏ=Avtozavodskaya.vec
+РўРµС…РЅРѕРїР°СЂРє=Technopark.vec
+РљРѕР»РѕРјРµРЅСЃРєР°СЏ=Kolomenskaya.vec
+РљР°С€РёСЂСЃРєР°СЏ=Kashirskaya.vec
+РљР°РЅС‚РµРјРёСЂРѕРІСЃРєР°СЏ=Kantemirovskaya.vec
+Р¦Р°СЂРёС†С‹РЅРѕ=TSaritsyno.vec
+РћСЂРµС…РѕРІРѕ=Orehovo.vec
+Р”РѕРјРѕРґРµРґРѕРІСЃРєР°СЏ=Domodedovskaya.vec
+РљСЂР°СЃРЅРѕРіРІР°СЂРґРµР№СЃРєР°СЏ=Krasnogvardeyskaya.vec
+РђР»РјР°-РђС‚РёРЅСЃРєР°СЏ=Alma-Atinskaya.vec
 
-[Арбатско-Покровская]
-Пятницкое шоссе=PyatnitskoeShosse.vec
-Митино=Mitino.vec
-Волоколамская=Volokolamskaya.vec
-Мякинино=Myakinino.vec
-Строгино=Strogino.vec
-Крылатское=Krylatskoe.vec
-Молодёжная=Molodezhnaya.vec
-Кунцевская=Kuntsevskaya.vec
-Славянский бульвар=SlavyanskiyBulvar.vec
-Парк Победы=ParkPobedy.vec
-Киевская=Kievskaya.vec
-Смоленская=SmolenskayaAPL.vec
-Арбатская=Borovitskaya.vec
-Площадь Революции=Teatralnaya.vec
-Курская=Kurskaya.vec
-Бауманская=Baumanskaya.vec
-Электрозаводская=Electrozavodskaya.vec
-Семеновская=Semenovskaya.vec
-Партизанская=Partizanskaya.vec
-Измайловская=Izmaylovskaya.vec
-Первомайская=Pervomayskaya.vec
-Щелковская=Schelkovskaya.vec
+[РђСЂР±Р°С‚СЃРєРѕ-РџРѕРєСЂРѕРІСЃРєР°СЏ]
+РџСЏС‚РЅРёС†РєРѕРµ С€РѕСЃСЃРµ=PyatnitskoeShosse.vec
+РњРёС‚РёРЅРѕ=Mitino.vec
+Р’РѕР»РѕРєРѕР»Р°РјСЃРєР°СЏ=Volokolamskaya.vec
+РњСЏРєРёРЅРёРЅРѕ=Myakinino.vec
+РЎС‚СЂРѕРіРёРЅРѕ=Strogino.vec
+РљСЂС‹Р»Р°С‚СЃРєРѕРµ=Krylatskoe.vec
+РњРѕР»РѕРґС‘Р¶РЅР°СЏ=Molodezhnaya.vec
+РљСѓРЅС†РµРІСЃРєР°СЏ=Kuntsevskaya.vec
+РЎР»Р°РІСЏРЅСЃРєРёР№ Р±СѓР»СЊРІР°СЂ=SlavyanskiyBulvar.vec
+РџР°СЂРє РџРѕР±РµРґС‹=ParkPobedy.vec
+РљРёРµРІСЃРєР°СЏ=Kievskaya.vec
+РЎРјРѕР»РµРЅСЃРєР°СЏ=SmolenskayaAPL.vec
+РђСЂР±Р°С‚СЃРєР°СЏ=Borovitskaya.vec
+РџР»РѕС‰Р°РґСЊ Р РµРІРѕР»СЋС†РёРё=Teatralnaya.vec
+РљСѓСЂСЃРєР°СЏ=Kurskaya.vec
+Р‘Р°СѓРјР°РЅСЃРєР°СЏ=Baumanskaya.vec
+Р­Р»РµРєС‚СЂРѕР·Р°РІРѕРґСЃРєР°СЏ=Electrozavodskaya.vec
+РЎРµРјРµРЅРѕРІСЃРєР°СЏ=Semenovskaya.vec
+РџР°СЂС‚РёР·Р°РЅСЃРєР°СЏ=Partizanskaya.vec
+РР·РјР°Р№Р»РѕРІСЃРєР°СЏ=Izmaylovskaya.vec
+РџРµСЂРІРѕРјР°Р№СЃРєР°СЏ=Pervomayskaya.vec
+Р©РµР»РєРѕРІСЃРєР°СЏ=Schelkovskaya.vec
 
-[Филевская]
-Международная=Mezhd.vec
-Выставочная=Vystavochnaya.vec
-Александровский сад=Borovitskaya.vec
-Арбатская=ArbatskayaF.vec
-Смоленская=SmolenskayaFL.vec
-Киевская=Kievskaya.vec
-Студенческая=Studencheskaya.vec
-Кутузовская=Kutuzovskaya.vec
-Фили=Fili.vec
-Багратионовская=Bagrationovskaya.vec
-Филевский парк=FilevskyPark.vec
-Пионерская=Pionerskaya.vec
-Кунцевская=Kuntsevskaya.vec
+[Р¤РёР»РµРІСЃРєР°СЏ]
+РњРµР¶РґСѓРЅР°СЂРѕРґРЅР°СЏ=Mezhd.vec
+Р’С‹СЃС‚Р°РІРѕС‡РЅР°СЏ=Vystavochnaya.vec
+РђР»РµРєСЃР°РЅРґСЂРѕРІСЃРєРёР№ СЃР°Рґ=Borovitskaya.vec
+РђСЂР±Р°С‚СЃРєР°СЏ=ArbatskayaF.vec
+РЎРјРѕР»РµРЅСЃРєР°СЏ=SmolenskayaFL.vec
+РљРёРµРІСЃРєР°СЏ=Kievskaya.vec
+РЎС‚СѓРґРµРЅС‡РµСЃРєР°СЏ=Studencheskaya.vec
+РљСѓС‚СѓР·РѕРІСЃРєР°СЏ=Kutuzovskaya.vec
+Р¤РёР»Рё=Fili.vec
+Р‘Р°РіСЂР°С‚РёРѕРЅРѕРІСЃРєР°СЏ=Bagrationovskaya.vec
+Р¤РёР»РµРІСЃРєРёР№ РїР°СЂРє=FilevskyPark.vec
+РџРёРѕРЅРµСЂСЃРєР°СЏ=Pionerskaya.vec
+РљСѓРЅС†РµРІСЃРєР°СЏ=Kuntsevskaya.vec
 
-[Кольцевая]
-Белорусская=Belorusskaya.vec
-Новослободская=Novoslobodskaya.vec
-Проспект Мира=ProspektMira.vec
-Комсомольская=Komsomolskaya.vec
-Курская=Kurskaya.vec
-Таганская=Taganskaya.vec
-Павелецкая=Pavelec.vec
-Добрынинская=Serpuhovskaya.vec
-Октябрьская=Octyabrskaya.vec
-Парк культуры=ParkKultury.vec
-Киевская=Kievskaya.vec
-Краснопресненская=Barrikadnaya.vec
+[РљРѕР»СЊС†РµРІР°СЏ]
+Р‘РµР»РѕСЂСѓСЃСЃРєР°СЏ=Belorusskaya.vec
+РќРѕРІРѕСЃР»РѕР±РѕРґСЃРєР°СЏ=Novoslobodskaya.vec
+РџСЂРѕСЃРїРµРєС‚ РњРёСЂР°=ProspektMira.vec
+РљРѕРјСЃРѕРјРѕР»СЊСЃРєР°СЏ=Komsomolskaya.vec
+РљСѓСЂСЃРєР°СЏ=Kurskaya.vec
+РўР°РіР°РЅСЃРєР°СЏ=Taganskaya.vec
+РџР°РІРµР»РµС†РєР°СЏ=Pavelec.vec
+Р”РѕР±СЂС‹РЅРёРЅСЃРєР°СЏ=Serpuhovskaya.vec
+РћРєС‚СЏР±СЂСЊСЃРєР°СЏ=Octyabrskaya.vec
+РџР°СЂРє РєСѓР»СЊС‚СѓСЂС‹=ParkKultury.vec
+РљРёРµРІСЃРєР°СЏ=Kievskaya.vec
+РљСЂР°СЃРЅРѕРїСЂРµСЃРЅРµРЅСЃРєР°СЏ=Barrikadnaya.vec
 
-[Калужско-Рижская]
-Новоясеневская=Novoyasenevskaya.vec
-Ясенево=Yasenevo.vec
-Теплый Стан=TeplyStan.vec
-Коньково=Konkovo.vec
-Беляево=Belyaevo.vec
-Калужская=Kaluzhskaya.vec
-Новые Черемушки=NovyeCheremushki.vec
-Профсоюзная=Profsoyuznaya.vec
-Академическая=Akademicheskaya.vec
-Ленинский проспект=LeninskyProspekt.vec
-Шаболовская=Shabolovskaya.vec
-Октябрьская=Octyabrskaya.vec
-Третьяковская=Tretyakovskaya.vec
-Китай-город=KitayGorod.vec
-Тургеневская=Turgenevskaya.vec
-Сухаревская=Suharevskaya.vec
-Проспект Мира=ProspektMira.vec
-Рижская=Rizhskaya.vec
-Алексеевская=Alekseevskaya.vec
-ВДНХ=VDNH.vec\nVDNH-VystavochnyCentr.vec
-Ботанический сад=BotanicheskySad.vec
-Свиблово=Sviblovo.vec
-Бабушкинская=Babushkinskaya.vec
-Медведково=Medvedkovo.vec
+[РљР°Р»СѓР¶СЃРєРѕ-Р РёР¶СЃРєР°СЏ]
+РќРѕРІРѕСЏСЃРµРЅРµРІСЃРєР°СЏ=Novoyasenevskaya.vec
+РЇСЃРµРЅРµРІРѕ=Yasenevo.vec
+РўРµРїР»С‹Р№ РЎС‚Р°РЅ=TeplyStan.vec
+РљРѕРЅСЊРєРѕРІРѕ=Konkovo.vec
+Р‘РµР»СЏРµРІРѕ=Belyaevo.vec
+РљР°Р»СѓР¶СЃРєР°СЏ=Kaluzhskaya.vec
+РќРѕРІС‹Рµ Р§РµСЂРµРјСѓС€РєРё=NovyeCheremushki.vec
+РџСЂРѕС„СЃРѕСЋР·РЅР°СЏ=Profsoyuznaya.vec
+РђРєР°РґРµРјРёС‡РµСЃРєР°СЏ=Akademicheskaya.vec
+Р›РµРЅРёРЅСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=LeninskyProspekt.vec
+РЁР°Р±РѕР»РѕРІСЃРєР°СЏ=Shabolovskaya.vec
+РћРєС‚СЏР±СЂСЊСЃРєР°СЏ=Octyabrskaya.vec
+РўСЂРµС‚СЊСЏРєРѕРІСЃРєР°СЏ=Tretyakovskaya.vec
+РљРёС‚Р°Р№-РіРѕСЂРѕРґ=KitayGorod.vec
+РўСѓСЂРіРµРЅРµРІСЃРєР°СЏ=Turgenevskaya.vec
+РЎСѓС…Р°СЂРµРІСЃРєР°СЏ=Suharevskaya.vec
+РџСЂРѕСЃРїРµРєС‚ РњРёСЂР°=ProspektMira.vec
+Р РёР¶СЃРєР°СЏ=Rizhskaya.vec
+РђР»РµРєСЃРµРµРІСЃРєР°СЏ=Alekseevskaya.vec
+Р’Р”РќРҐ=VDNH.vec\nVDNH-VystavochnyCentr.vec
+Р‘РѕС‚Р°РЅРёС‡РµСЃРєРёР№ СЃР°Рґ=BotanicheskySad.vec
+РЎРІРёР±Р»РѕРІРѕ=Sviblovo.vec
+Р‘Р°Р±СѓС€РєРёРЅСЃРєР°СЏ=Babushkinskaya.vec
+РњРµРґРІРµРґРєРѕРІРѕ=Medvedkovo.vec
 
-[Таганско-Краснопресненская]
-Котельники=Kotelniki.vec
-Жулебино=Zhulebino.vec
-Лермонтовский проспект=LermontovskyPr.vec
-Выхино=Vyhino.vec
-Рязанский проспект=RyazanskiyProspekt.vec
-Кузьминки=Kuzminki.vec
-Текстильщики=Tekstilshchiki.vec
-Волгоградский проспект=VolgogradskiyProspekt.vec
-Пролетарская=Proletarskaya.vec
-Таганская=Taganskaya.vec
-Китай-город=KitayGorod.vec
-Кузнецкий мост=Lubyanka.vec
-Пушкинская=Pushkinskaya.vec
-Баррикадная=Barrikadnaya.vec
-Улица 1905 года=Ulitsa1905goda.vec
-Беговая=Begovaya.vec
-Полежаевская=Polezhaevskaya.vec
-Октябрьское поле=OktyabrskoePole.vec
-Щукинская=SHCHukinskaya.vec
-Спартак=Spartak.vec
-Тушинская=Tushinskaya.vec
-Сходненская=Shodnenskaya.vec
-Планерная=Planernaya.vec
+[РўР°РіР°РЅСЃРєРѕ-РљСЂР°СЃРЅРѕРїСЂРµСЃРЅРµРЅСЃРєР°СЏ]
+РљРѕС‚РµР»СЊРЅРёРєРё=Kotelniki.vec
+Р–СѓР»РµР±РёРЅРѕ=Zhulebino.vec
+Р›РµСЂРјРѕРЅС‚РѕРІСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=LermontovskyPr.vec
+Р’С‹С…РёРЅРѕ=Vyhino.vec
+Р СЏР·Р°РЅСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=RyazanskiyProspekt.vec
+РљСѓР·СЊРјРёРЅРєРё=Kuzminki.vec
+РўРµРєСЃС‚РёР»СЊС‰РёРєРё=Tekstilshchiki.vec
+Р’РѕР»РіРѕРіСЂР°РґСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=VolgogradskiyProspekt.vec
+РџСЂРѕР»РµС‚Р°СЂСЃРєР°СЏ=Proletarskaya.vec
+РўР°РіР°РЅСЃРєР°СЏ=Taganskaya.vec
+РљРёС‚Р°Р№-РіРѕСЂРѕРґ=KitayGorod.vec
+РљСѓР·РЅРµС†РєРёР№ РјРѕСЃС‚=Lubyanka.vec
+РџСѓС€РєРёРЅСЃРєР°СЏ=Pushkinskaya.vec
+Р‘Р°СЂСЂРёРєР°РґРЅР°СЏ=Barrikadnaya.vec
+РЈР»РёС†Р° 1905 РіРѕРґР°=Ulitsa1905goda.vec
+Р‘РµРіРѕРІР°СЏ=Begovaya.vec
+РџРѕР»РµР¶Р°РµРІСЃРєР°СЏ=Polezhaevskaya.vec
+РћРєС‚СЏР±СЂСЊСЃРєРѕРµ РїРѕР»Рµ=OktyabrskoePole.vec
+Р©СѓРєРёРЅСЃРєР°СЏ=SHCHukinskaya.vec
+РЎРїР°СЂС‚Р°Рє=Spartak.vec
+РўСѓС€РёРЅСЃРєР°СЏ=Tushinskaya.vec
+РЎС…РѕРґРЅРµРЅСЃРєР°СЏ=Shodnenskaya.vec
+РџР»Р°РЅРµСЂРЅР°СЏ=Planernaya.vec
 
-[Калининско-Солнцевская]
-Новокосино=Novokosino.vec
-Новогиреево=Novogireevo.vec
-Перово=Perovo.vec
-Шоссе Энтузиастов=ShosseEnt.vec
-Авиамоторная=Aviamotornaya.vec
-Площадь Ильича=Rimskaya.vec
-Марксистская=Taganskaya.vec
-Третьяковская=Tretyakovskaya.vec
+[РљР°Р»РёРЅРёРЅСЃРєРѕ-РЎРѕР»РЅС†РµРІСЃРєР°СЏ]
+РќРѕРІРѕРєРѕСЃРёРЅРѕ=Novokosino.vec
+РќРѕРІРѕРіРёСЂРµРµРІРѕ=Novogireevo.vec
+РџРµСЂРѕРІРѕ=Perovo.vec
+РЁРѕСЃСЃРµ Р­РЅС‚СѓР·РёР°СЃС‚РѕРІ=ShosseEnt.vec
+РђРІРёР°РјРѕС‚РѕСЂРЅР°СЏ=Aviamotornaya.vec
+РџР»РѕС‰Р°РґСЊ РР»СЊРёС‡Р°=Rimskaya.vec
+РњР°СЂРєСЃРёСЃС‚СЃРєР°СЏ=Taganskaya.vec
+РўСЂРµС‚СЊСЏРєРѕРІСЃРєР°СЏ=Tretyakovskaya.vec
 
-[Солнцевская]
-Парк Победы=ParkPobedy.vec
-Минская=Minskaya.vec
-Ломоносовский проспект=LomonosovskyPr.vec
-Раменки=Ramenki.vec
+[РЎРѕР»РЅС†РµРІСЃРєР°СЏ]
+РџР°СЂРє РџРѕР±РµРґС‹=ParkPobedy.vec
+РњРёРЅСЃРєР°СЏ=Minskaya.vec
+Р›РѕРјРѕРЅРѕСЃРѕРІСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=LomonosovskyPr.vec
+Р Р°РјРµРЅРєРё=Ramenki.vec
 
-[Серпуховско-Тимирязевская]
-Бульвар Дмитрия Донского=BoulevardDD.vec
-Аннино=Annino.vec
-Улица Академика Янгеля=UlitsaYangela.vec
-Пражская=Prazhskaya.vec
-Южная=Uzhnaya.vec
-Чертановская=Chertanovskaya.vec
-Севастопольская=Kahovskaya.vec
-Нахимовский проспект=NahimovskyProspekt.vec
-Нагорная=Nagornaya.vec
-Нагатинская=Nagatinskaya.vec
-Тульская=Tulskaya.vec
-Серпуховская=Serpuhovskaya.vec
-Полянка=Polyanka.vec
-Боровицкая=Borovitskaya.vec
-Чеховская=Pushkinskaya.vec
-Цветной бульвар=CvetnoyBulvar.vec
-Менделеевская=Novoslobodskaya.vec
-Савеловская=Savelovskaya.vec
-Дмитровская=Dmitrovskaya.vec
-Тимирязевская=Timiryazevskaya.vec
-Петровско-Разумовская=PetrovskoRazumovskaya.vec
-Владыкино=Vladykino.vec
-Отрадное=Otradnoe.vec
-Бибирево=Bibirevo.vec
-Алтуфьево=Altufyevo.vec
+[РЎРµСЂРїСѓС…РѕРІСЃРєРѕ-РўРёРјРёСЂСЏР·РµРІСЃРєР°СЏ]
+Р‘СѓР»СЊРІР°СЂ Р”РјРёС‚СЂРёСЏ Р”РѕРЅСЃРєРѕРіРѕ=BoulevardDD.vec
+РђРЅРЅРёРЅРѕ=Annino.vec
+РЈР»РёС†Р° РђРєР°РґРµРјРёРєР° РЇРЅРіРµР»СЏ=UlitsaYangela.vec
+РџСЂР°Р¶СЃРєР°СЏ=Prazhskaya.vec
+Р®Р¶РЅР°СЏ=Uzhnaya.vec
+Р§РµСЂС‚Р°РЅРѕРІСЃРєР°СЏ=Chertanovskaya.vec
+РЎРµРІР°СЃС‚РѕРїРѕР»СЊСЃРєР°СЏ=Kahovskaya.vec
+РќР°С…РёРјРѕРІСЃРєРёР№ РїСЂРѕСЃРїРµРєС‚=NahimovskyProspekt.vec
+РќР°РіРѕСЂРЅР°СЏ=Nagornaya.vec
+РќР°РіР°С‚РёРЅСЃРєР°СЏ=Nagatinskaya.vec
+РўСѓР»СЊСЃРєР°СЏ=Tulskaya.vec
+РЎРµСЂРїСѓС…РѕРІСЃРєР°СЏ=Serpuhovskaya.vec
+РџРѕР»СЏРЅРєР°=Polyanka.vec
+Р‘РѕСЂРѕРІРёС†РєР°СЏ=Borovitskaya.vec
+Р§РµС…РѕРІСЃРєР°СЏ=Pushkinskaya.vec
+Р¦РІРµС‚РЅРѕР№ Р±СѓР»СЊРІР°СЂ=CvetnoyBulvar.vec
+РњРµРЅРґРµР»РµРµРІСЃРєР°СЏ=Novoslobodskaya.vec
+РЎР°РІРµР»РѕРІСЃРєР°СЏ=Savelovskaya.vec
+Р”РјРёС‚СЂРѕРІСЃРєР°СЏ=Dmitrovskaya.vec
+РўРёРјРёСЂСЏР·РµРІСЃРєР°СЏ=Timiryazevskaya.vec
+РџРµС‚СЂРѕРІСЃРєРѕ-Р Р°Р·СѓРјРѕРІСЃРєР°СЏ=PetrovskoRazumovskaya.vec
+Р’Р»Р°РґС‹РєРёРЅРѕ=Vladykino.vec
+РћС‚СЂР°РґРЅРѕРµ=Otradnoe.vec
+Р‘РёР±РёСЂРµРІРѕ=Bibirevo.vec
+РђР»С‚СѓС„СЊРµРІРѕ=Altufyevo.vec
 
-[Люблинско-Дмитровская]
-Петровско-Разумовская=PetrovskoRazumovskaya.vec
-Фонвизинская=Fonvizinskaya.vec
-Бутырская=Butyrskaya.vec
-Марьина роща=MaryinaRoscha.vec
-Достоевская=Dostoevskaya.vec
-Трубная=CvetnoyBulvar.vec
-Сретенский бульвар=Turgenevskaya.vec
-Чкаловская=Kurskaya.vec
-Римская=Rimskaya.vec
-Крестьянская застава=Proletarskaya.vec
-Дубровка=Dubrovka.vec
-Кожуховская=Kozhuhovskaya.vec
-Печатники=Pechatniki.vec
-Волжская=Volzhskaya.vec
-Люблино=Lublino.vec
-Братиславская=Bratislavskaya.vec
-Марьино=Maryino.vec
-Борисово=Borisovo.vec
-Шипиловская=Shipilovskaya.vec
-Зябликово=Krasnogvardeyskaya.vec
+[Р›СЋР±Р»РёРЅСЃРєРѕ-Р”РјРёС‚СЂРѕРІСЃРєР°СЏ]
+РџРµС‚СЂРѕРІСЃРєРѕ-Р Р°Р·СѓРјРѕРІСЃРєР°СЏ=PetrovskoRazumovskaya.vec
+Р¤РѕРЅРІРёР·РёРЅСЃРєР°СЏ=Fonvizinskaya.vec
+Р‘СѓС‚С‹СЂСЃРєР°СЏ=Butyrskaya.vec
+РњР°СЂСЊРёРЅР° СЂРѕС‰Р°=MaryinaRoscha.vec
+Р”РѕСЃС‚РѕРµРІСЃРєР°СЏ=Dostoevskaya.vec
+РўСЂСѓР±РЅР°СЏ=CvetnoyBulvar.vec
+РЎСЂРµС‚РµРЅСЃРєРёР№ Р±СѓР»СЊРІР°СЂ=Turgenevskaya.vec
+Р§РєР°Р»РѕРІСЃРєР°СЏ=Kurskaya.vec
+Р РёРјСЃРєР°СЏ=Rimskaya.vec
+РљСЂРµСЃС‚СЊСЏРЅСЃРєР°СЏ Р·Р°СЃС‚Р°РІР°=Proletarskaya.vec
+Р”СѓР±СЂРѕРІРєР°=Dubrovka.vec
+РљРѕР¶СѓС…РѕРІСЃРєР°СЏ=Kozhuhovskaya.vec
+РџРµС‡Р°С‚РЅРёРєРё=Pechatniki.vec
+Р’РѕР»Р¶СЃРєР°СЏ=Volzhskaya.vec
+Р›СЋР±Р»РёРЅРѕ=Lublino.vec
+Р‘СЂР°С‚РёСЃР»Р°РІСЃРєР°СЏ=Bratislavskaya.vec
+РњР°СЂСЊРёРЅРѕ=Maryino.vec
+Р‘РѕСЂРёСЃРѕРІРѕ=Borisovo.vec
+РЁРёРїРёР»РѕРІСЃРєР°СЏ=Shipilovskaya.vec
+Р—СЏР±Р»РёРєРѕРІРѕ=Krasnogvardeyskaya.vec
 
-[Каховская]
-Каширская=Kashirskaya.vec
-Варшавская=Varshavskaya.vec
-Каховская=Kahovskaya.vec
+[РљР°С…РѕРІСЃРєР°СЏ]
+РљР°С€РёСЂСЃРєР°СЏ=Kashirskaya.vec
+Р’Р°СЂС€Р°РІСЃРєР°СЏ=Varshavskaya.vec
+РљР°С…РѕРІСЃРєР°СЏ=Kahovskaya.vec
 
-[Бутовская]
-Битцевский парк=Novoyasenevskaya.vec
-Лесопарковая=Lesoparkovaya.vec
-Улица Старокачаловская=BoulevardDD.vec
-Улица Скобелевская=UlSkobelevskaya.vec
-Бульвар Адмирала Ушакова=BuladmUshakova.vec
-Улица Горчакова=UlitcaGorchakova.vec
-Бунинская аллея=BuninskayaAlleya.vec
+[Р‘СѓС‚РѕРІСЃРєР°СЏ]
+Р‘РёС‚С†РµРІСЃРєРёР№ РїР°СЂРє=Novoyasenevskaya.vec
+Р›РµСЃРѕРїР°СЂРєРѕРІР°СЏ=Lesoparkovaya.vec
+РЈР»РёС†Р° РЎС‚Р°СЂРѕРєР°С‡Р°Р»РѕРІСЃРєР°СЏ=BoulevardDD.vec
+РЈР»РёС†Р° РЎРєРѕР±РµР»РµРІСЃРєР°СЏ=UlSkobelevskaya.vec
+Р‘СѓР»СЊРІР°СЂ РђРґРјРёСЂР°Р»Р° РЈС€Р°РєРѕРІР°=BuladmUshakova.vec
+РЈР»РёС†Р° Р“РѕСЂС‡Р°РєРѕРІР°=UlitcaGorchakova.vec
+Р‘СѓРЅРёРЅСЃРєР°СЏ Р°Р»Р»РµСЏ=BuninskayaAlleya.vec
 
-[Монорельс]
-Тимирязевская=TimiryazevskayaMonorels.vec
-Улица Милашенкова=UlitsaMilashenkova.vec
-Телецентр=TeleCentr.vec
-Улица академика Королева=UlitsaAkademikaKoroleva.vec
-Выставочный центр=VystavochnyCentr.vec\nVDNH-VystavochnyCentr.vec
-Улица Сергея Эйзенштейна=UlitsaSergeyaEizenshteina.vec
+[РњРѕРЅРѕСЂРµР»СЊСЃ]
+РўРёРјРёСЂСЏР·РµРІСЃРєР°СЏ=TimiryazevskayaMonorels.vec
+РЈР»РёС†Р° РњРёР»Р°С€РµРЅРєРѕРІР°=UlitsaMilashenkova.vec
+РўРµР»РµС†РµРЅС‚СЂ=TeleCentr.vec
+РЈР»РёС†Р° Р°РєР°РґРµРјРёРєР° РљРѕСЂРѕР»РµРІР°=UlitsaAkademikaKoroleva.vec
+Р’С‹СЃС‚Р°РІРѕС‡РЅС‹Р№ С†РµРЅС‚СЂ=VystavochnyCentr.vec\nVDNH-VystavochnyCentr.vec
+РЈР»РёС†Р° РЎРµСЂРіРµСЏ Р­Р№Р·РµРЅС€С‚РµР№РЅР°=UlitsaSergeyaEizenshteina.vec
 
 
-[БКЛ]
-Деловой центр=Vystavochnaya.vec
+[Р‘РљР›]
+Р”РµР»РѕРІРѕР№ С†РµРЅС‚СЂ=Vystavochnaya.vec

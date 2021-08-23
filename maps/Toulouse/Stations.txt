@@ -1,13 +1,13 @@
 [Options]
 AddToInfo=0
-CityName=Toulouse (Тулуза)
-MenuName=Транспорт\Ж/д станции 
+CityName=Toulouse (РўСѓР»СѓР·Р°)
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\Р–/Рґ СЃС‚Р°РЅС†РёРё 
 
 [A]
 Marengo-SNCF/Gare Matabiau=
-Arиnes/Gare Saint-Cyprien=
+ArРёnes/Gare Saint-Cyprien=
 
 [C]
-Arиnes/Gare Saint-Cyprien=
+ArРёnes/Gare Saint-Cyprien=
 
 

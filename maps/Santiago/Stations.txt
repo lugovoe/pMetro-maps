@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
 CityName=Santiago
-MenuName=Транспорт\Ж/д станции
+MenuName=РўСЂР°РЅСЃРїРѕСЂС‚\Р–/Рґ СЃС‚Р°РЅС†РёРё
 
 [L1]
 Estacion Central=

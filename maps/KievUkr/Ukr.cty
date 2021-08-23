@@ -1,21 +1,21 @@
 [Options]
 Name=KievUkr
-CityName=Київ
-Country=Украина
-RusName=Киев
+CityName=РљРёС—РІ
+Country=РЈРєСЂР°РёРЅР°
+RusName=РљРёРµРІ
 NeedVersion=1.26.3
-MapAuthors=Мапа вiд 04.07.2005р.
+MapAuthors=РњР°РїР° РІiРґ 04.07.2005СЂ.
 MapAuthors=
-MapAuthors=Iнформацiя про час проїзду:
-MapAuthors=-Програма MMetro Костянтина Штенникова,
-MapAuthors=а також (за iнформацiєю з сайта http://mmetro.al.ru):
-MapAuthors=-Вадим Дзигун, Kostya Kostyuchenko, Тропин Кирило.
+MapAuthors=IРЅС„РѕСЂРјР°С†iСЏ РїСЂРѕ С‡Р°СЃ РїСЂРѕС—Р·РґСѓ:
+MapAuthors=-РџСЂРѕРіСЂР°РјР° MMetro РљРѕСЃС‚СЏРЅС‚РёРЅР° РЁС‚РµРЅРЅРёРєРѕРІР°,
+MapAuthors=Р° С‚Р°РєРѕР¶ (Р·Р° iРЅС„РѕСЂРјР°С†iС”СЋ Р· СЃР°Р№С‚Р° http://mmetro.al.ru):
+MapAuthors=-Р’Р°РґРёРј Р”Р·РёРіСѓРЅ, Kostya Kostyuchenko, РўСЂРѕРїРёРЅ РљРёСЂРёР»Рѕ.
 MapAuthors=
-MapAuthors=Мапу надiслави:
-MapAuthors=-Вадим Дзигун, Олексiй Шепетович.
-MapAuthors=Iнформацiя по cтанцiям - з сайту http://metropoliten.kiev.ua та http://www.metro.kiev.ua.
-MapAuthors=Iнформацiя про наземний транспорт:
-MapAuthors=-Вадим Дзигун.
-MapAuthors=Iнформацiя про покриття операторами мобiльного зв'язку :
-MapAuthors=-Олексiй Шепетович.
+MapAuthors=РњР°РїСѓ РЅР°РґiСЃР»Р°РІРё:
+MapAuthors=-Р’Р°РґРёРј Р”Р·РёРіСѓРЅ, РћР»РµРєСЃiР№ РЁРµРїРµС‚РѕРІРёС‡.
+MapAuthors=IРЅС„РѕСЂРјР°С†iСЏ РїРѕ cС‚Р°РЅС†iСЏРј - Р· СЃР°Р№С‚Сѓ http://metropoliten.kiev.ua С‚Р° http://www.metro.kiev.ua.
+MapAuthors=IРЅС„РѕСЂРјР°С†iСЏ РїСЂРѕ РЅР°Р·РµРјРЅРёР№ С‚СЂР°РЅСЃРїРѕСЂС‚:
+MapAuthors=-Р’Р°РґРёРј Р”Р·РёРіСѓРЅ.
+MapAuthors=IРЅС„РѕСЂРјР°С†iСЏ РїСЂРѕ РїРѕРєСЂРёС‚С‚СЏ РѕРїРµСЂР°С‚РѕСЂР°РјРё РјРѕР±iР»СЊРЅРѕРіРѕ Р·РІ'СЏР·РєСѓ :
+MapAuthors=-РћР»РµРєСЃiР№ РЁРµРїРµС‚РѕРІРёС‡.
 

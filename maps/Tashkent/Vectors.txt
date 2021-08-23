@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Ташкент
+Caption=РЎС…РµРјР°
+CityName=РўР°С€РєРµРЅС‚
 Type=Image
 
 [Chilonzor]

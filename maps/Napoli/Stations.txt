@@ -1,28 +1,28 @@
 [Options]
 AddToInfo=1
-CityName=Napoli (Неаполь)
-MenuName=Разное\Ж/д станции
-Caption=Станции
-StringToAdd='Ж/д станция: '
+CityName=Napoli (РќРµР°РїРѕР»СЊ)
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=РЎС‚Р°РЅС†РёРё
+StringToAdd='Р–/Рґ СЃС‚Р°РЅС†РёСЏ: '
 
 [Metropolitana Collinare]
 Centro Direzionale=Circumvesuviana 3
 Poggioreale=Circumvesuviana 3
-Garibaldi=Ж/д Рим - Неаполь, Circumvesuviana 3 & 4, центральный вокзал
+Garibaldi=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ, Circumvesuviana 3 & 4, С†РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РІРѕРєР·Р°Р»
 Quattro Giornate=Circumvesuviana 5 
 Municipio=Light Rail Municipio - Campi Flegrei
 
 [Metropolitana F. S.]
-Pozzuoli=Ж/д Рим - Неаполь
-Bagnoli=Ж/д Рим - Неаполь
-Cavalleggeri d'Aosta=Ж/д Рим - Неаполь
-Campi Flegrei=Ж/д Рим - Неаполь
-Leopardi=Ж/д Рим - Неаполь
-Mergellina=Ж/д Рим - Неаполь, Light Rail Municipio - Campi Flegrei
-Piazza Amedeo=Ж/д Рим - Неаполь
-Montesanto=Ж/д Рим - Неаполь. Circumvesuviana 5 & 7
-Piazza Cavour=Ж/д Рим - Неаполь
-Garibaldi=Ж/д Рим - Неаполь, Circumvesuviana 3 & 4, центральный вокзал
-Gianturco=Ж/д Рим - Неаполь
+Pozzuoli=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ
+Bagnoli=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ
+Cavalleggeri d'Aosta=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ
+Campi Flegrei=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ
+Leopardi=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ
+Mergellina=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ, Light Rail Municipio - Campi Flegrei
+Piazza Amedeo=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ
+Montesanto=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ. Circumvesuviana 5 & 7
+Piazza Cavour=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ
+Garibaldi=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ, Circumvesuviana 3 & 4, С†РµРЅС‚СЂР°Р»СЊРЅС‹Р№ РІРѕРєР·Р°Р»
+Gianturco=Р–/Рґ Р РёРј - РќРµР°РїРѕР»СЊ
 San Giovanni=Circumvesuviana 4
 

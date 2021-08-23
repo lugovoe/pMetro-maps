@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Дата открытия
-CityName=Нюрнберг
-StringToAdd='  Дата открытия: '
+Caption=Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ
+CityName=РќСЋСЂРЅР±РµСЂРі
+StringToAdd='  Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ: '
 
 [U1]
 HardHohe=08.12.2007

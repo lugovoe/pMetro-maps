@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
-Caption=Транспорт
-StringToAdd='Наземный транспорт:'
+Caption=РўСЂР°РЅСЃРїРѕСЂС‚
+StringToAdd='РќР°Р·РµРјРЅС‹Р№ С‚СЂР°РЅСЃРїРѕСЂС‚:'
 
 [Bus]
 

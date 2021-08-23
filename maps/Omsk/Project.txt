@@ -1,15 +1,15 @@
 [Options]
 AddToInfo=1
-CityName=Омск
-Menu name=Cтанции
-Caption=Ссылки
-StringToAdd='Проект станции: '
+CityName=РћРјСЃРє
+Menu name=CС‚Р°РЅС†РёРё
+Caption=РЎСЃС‹Р»РєРё
+StringToAdd='РџСЂРѕРµРєС‚ СЃС‚Р°РЅС†РёРё: '
 
-[Первая]
-Соборная=http://vs88.narod.ru/avto.html
-Кристалл=http://vs88.narod.ru/kris.html
-Заречная=http://vs88.narod.ru/riv.html
-Библиотека им. Пушкина=http://vs88.narod.ru/red.html
-Туполевская=http://vs88.narod.ru/tup.html
-Рабочая=http://vs88.narod.ru/work.html
+[РџРµСЂРІР°СЏ]
+РЎРѕР±РѕСЂРЅР°СЏ=http://vs88.narod.ru/avto.html
+РљСЂРёСЃС‚Р°Р»Р»=http://vs88.narod.ru/kris.html
+Р—Р°СЂРµС‡РЅР°СЏ=http://vs88.narod.ru/riv.html
+Р‘РёР±Р»РёРѕС‚РµРєР° РёРј. РџСѓС€РєРёРЅР°=http://vs88.narod.ru/red.html
+РўСѓРїРѕР»РµРІСЃРєР°СЏ=http://vs88.narod.ru/tup.html
+Р Р°Р±РѕС‡Р°СЏ=http://vs88.narod.ru/work.html
 

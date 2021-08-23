@@ -1,13 +1,13 @@
 [Options]
 AddToInfo=1
-Caption=Информация
+Caption=РРЅС„РѕСЂРјР°С†РёСЏ
 CityName=Praha
 ;StringToAdd='  '
 
 [A]
-Dejvicka=Бывшая Leninova (Ленинская).\nвыходы на Европейский проспект (Evropska) и площадь Победы (Vitezne namesti).
-Hradcanska=Выход на улицу Милады Горакове (Milady Horakove).
-Malostranska=Выход на улицу Кларов (Klarov).
+Dejvicka=Р‘С‹РІС€Р°СЏ Leninova (Р›РµРЅРёРЅСЃРєР°СЏ).\nРІС‹С…РѕРґС‹ РЅР° Р•РІСЂРѕРїРµР№СЃРєРёР№ РїСЂРѕСЃРїРµРєС‚ (Evropska) Рё РїР»РѕС‰Р°РґСЊ РџРѕР±РµРґС‹ (Vitezne namesti).
+Hradcanska=Р’С‹С…РѕРґ РЅР° СѓР»РёС†Сѓ РњРёР»Р°РґС‹ Р“РѕСЂР°РєРѕРІРµ (Milady Horakove).
+Malostranska=Р’С‹С…РѕРґ РЅР° СѓР»РёС†Сѓ РљР»Р°СЂРѕРІ (Klarov).
 ;Staromestska=
 ;Mustek=
 ;Muzeum=
@@ -17,7 +17,7 @@ Malostranska=Выход на улицу Кларов (Klarov).
 ;Zelivskeho=
 ;Strasnicka=
 ;Skalka=
-Depo Hostivar=Наземная.\nСтанция расположена между подземной линией и улицей Чернокостелецка. Рядом - автовокзал и паркинг на 177 мест.
+Depo Hostivar=РќР°Р·РµРјРЅР°СЏ.\nРЎС‚Р°РЅС†РёСЏ СЂР°СЃРїРѕР»РѕР¶РµРЅР° РјРµР¶РґСѓ РїРѕРґР·РµРјРЅРѕР№ Р»РёРЅРёРµР№ Рё СѓР»РёС†РµР№ Р§РµСЂРЅРѕРєРѕСЃС‚РµР»РµС†РєР°. Р СЏРґРѕРј - Р°РІС‚РѕРІРѕРєР·Р°Р» Рё РїР°СЂРєРёРЅРі РЅР° 177 РјРµСЃС‚.
 
 [B]
 ;Zlicin=
@@ -26,15 +26,15 @@ Depo Hostivar=Наземная.\nСтанция расположена между подземной линией и улицей Чер
 ;Luziny=
 ;Hurka=
 ;Nove Butovice=
-Jinonice=Бывшая Svermova.
+Jinonice=Р‘С‹РІС€Р°СЏ Svermova.
 ;Radlicka=
 ;Smichovske nadrazi=
-Andel=Бывшая Moskevska.
+Andel=Р‘С‹РІС€Р°СЏ Moskevska.
 ;Karlovo namesti=
-Narodni trida=Бывшая Dukelska. Станция закрыта до декабря 2009 года на ремонт.
+Narodni trida=Р‘С‹РІС€Р°СЏ Dukelska. РЎС‚Р°РЅС†РёСЏ Р·Р°РєСЂС‹С‚Р° РґРѕ РґРµРєР°Р±СЂСЏ 2009 РіРѕРґР° РЅР° СЂРµРјРѕРЅС‚.
 ;Mustek=
 ;Namesti Republiky=
-Florenc=Бывшая Sokolovska.
+Florenc=Р‘С‹РІС€Р°СЏ Sokolovska.
 ;Krizikova=
 ;Invalidovna=
 ;Palmovka=
@@ -51,19 +51,19 @@ Florenc=Бывшая Sokolovska.
 ;Strizkov=
 ;Ladvi=
 ;Kobylisy=
-Nadrazi Holesovice=Бывшая Fucikova.
+Nadrazi Holesovice=Р‘С‹РІС€Р°СЏ Fucikova.
 ;Vltavska=
 ;Florenc=
 ;Hlavni nadrazi=
 ;Muzeum=
 ;I.P.Pavlova=
-Vysehrad=Бывшая Gottwaldova.
+Vysehrad=Р‘С‹РІС€Р°СЏ Gottwaldova.
 ;Prazskeho povstani=
-Pankrac=Бывшая Mladeznika.
+Pankrac=Р‘С‹РІС€Р°СЏ Mladeznika.
 ;Budejovicka=
 ;Kacerov=
-Roztyly=Бывшая Primatora Vacka.
-Chodov=Бывшая Budovatelu.
-Opatov=Бывшая Druzby.
-Haje=Бывшая kosmonautu.
+Roztyly=Р‘С‹РІС€Р°СЏ Primatora Vacka.
+Chodov=Р‘С‹РІС€Р°СЏ Budovatelu.
+Opatov=Р‘С‹РІС€Р°СЏ Druzby.
+Haje=Р‘С‹РІС€Р°СЏ kosmonautu.
 

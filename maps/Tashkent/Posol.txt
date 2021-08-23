@@ -1,15 +1,15 @@
 [Options]
 AddToInfo=1
-CityName=Ташкент
-Caption=Посольства
-MenuName=Разное\Посольства
+CityName=РўР°С€РєРµРЅС‚
+Caption=РџРѕСЃРѕР»СЊСЃС‚РІР°
+MenuName=Р Р°Р·РЅРѕРµ\РџРѕСЃРѕР»СЊСЃС‚РІР°
 MenuImage=Posol.bmp
 StringToAdd='  '
 
 [Chilonzor]
 ;Olmazor=
 ;Chilonzor=
-Mirzo Ulug'bek=Бывшее американское посольство
+Mirzo Ulug'bek=Р‘С‹РІС€РµРµ Р°РјРµСЂРёРєР°РЅСЃРєРѕРµ РїРѕСЃРѕР»СЊСЃС‚РІРѕ
 ;Novza=
 ;Milliy Bog'=
 ;Bunyodkor=
@@ -27,14 +27,14 @@ Mirzo Ulug'bek=Бывшее американское посольство
 ;G'afur G'ulom=
 ;Alisher Navoiy=
 ;O'zbekiston=
-Kosmonavtlar=Британское консульство
-Oybek=Посольство Кореи
+Kosmonavtlar=Р‘СЂРёС‚Р°РЅСЃРєРѕРµ РєРѕРЅСЃСѓР»СЊСЃС‚РІРѕ
+Oybek=РџРѕСЃРѕР»СЊСЃС‚РІРѕ РљРѕСЂРµРё
 ;Toshkent=
 ;Mashinasozlar=
 ;Do'stlik=
 
 [Yunusobod]
-Ming O'rik=Посольство Кореи
+Ming O'rik=РџРѕСЃРѕР»СЊСЃС‚РІРѕ РљРѕСЂРµРё
 ;Ming O'rik=
 ;Yunus Rajabiy=
 ;Abdulla Qodiriy=

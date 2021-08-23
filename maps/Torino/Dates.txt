@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Общая информация
+Caption=РћР±С‰Р°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ
 CityName=Torino
-StringToAdd='  Дата открытия: '
+StringToAdd='  Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ: '
 
 [1]
 Fermi=04.02.2006

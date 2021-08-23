@@ -1,18 +1,18 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Самара
+Caption=РЎС…РµРјР°
+CityName=РЎР°РјР°СЂР°
 Type=Image
 
 [1]
-Алабинская=Alabinakaya.vec
-Российская=Rossiyskaya.vec
-Московская=Moskovskaya.vec
-Гагаринская=Gagarinskaya.vec
-Спортивная=Sportivnaya.vec
-Советская=Sovetskaya.vec
-Победа=Pobeda.vec
-Безымянка=Bezymyanka.vec
-Кировская=Kirovskaya.vec
-Юнгородок=Yungorodok.vec
-Крылья Советов=KrylyaSovetov.vec
+РђР»Р°Р±РёРЅСЃРєР°СЏ=Alabinakaya.vec
+Р РѕСЃСЃРёР№СЃРєР°СЏ=Rossiyskaya.vec
+РњРѕСЃРєРѕРІСЃРєР°СЏ=Moskovskaya.vec
+Р“Р°РіР°СЂРёРЅСЃРєР°СЏ=Gagarinskaya.vec
+РЎРїРѕСЂС‚РёРІРЅР°СЏ=Sportivnaya.vec
+РЎРѕРІРµС‚СЃРєР°СЏ=Sovetskaya.vec
+РџРѕР±РµРґР°=Pobeda.vec
+Р‘РµР·С‹РјСЏРЅРєР°=Bezymyanka.vec
+РљРёСЂРѕРІСЃРєР°СЏ=Kirovskaya.vec
+Р®РЅРіРѕСЂРѕРґРѕРє=Yungorodok.vec
+РљСЂС‹Р»СЊСЏ РЎРѕРІРµС‚РѕРІ=KrylyaSovetov.vec

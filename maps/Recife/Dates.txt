@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Общая информация
-CityName=Ресифи
-StringToAdd='  Дата открытия: '
+Caption=РћР±С‰Р°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ
+CityName=Р РµСЃРёС„Рё
+StringToAdd='  Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ: '
 
 [Linha Centro]
 Recife=11.03.1985

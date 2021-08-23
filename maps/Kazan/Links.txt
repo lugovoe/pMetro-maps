@@ -1,17 +1,17 @@
 [Options]
 AddToInfo=1
-Caption=Ссылки
-CityName=Казань
-StringToAdd='Подробная информация: '
+Caption=РЎСЃС‹Р»РєРё
+CityName=РљР°Р·Р°РЅСЊ
+StringToAdd='РџРѕРґСЂРѕР±РЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ: '
 
-[Первая]
-Проспект Победы=http://kazantransport.by.ru/metro/sta1pp.htm
-Горки=http://kazantransport.by.ru/metro/sta1go.htm
-Аметьево=http://kazantransport.by.ru/metro/sta1am.htm
-Суконная слобода=http://kazantransport.by.ru/metro/sta1ss.htm
-Площадь Тукая=http://kazantransport.by.ru/metro/sta1pt.htm
-Кремлевская=http://kazantransport.by.ru/metro/sta1kr.htm
-Козья слобода=http://kazantransport.by.ru/metro/sta1ks.htm
-;Яшьлек=
-;Северный вокзал=
-;Авиастроительная=
+[РџРµСЂРІР°СЏ]
+РџСЂРѕСЃРїРµРєС‚ РџРѕР±РµРґС‹=http://kazantransport.by.ru/metro/sta1pp.htm
+Р“РѕСЂРєРё=http://kazantransport.by.ru/metro/sta1go.htm
+РђРјРµС‚СЊРµРІРѕ=http://kazantransport.by.ru/metro/sta1am.htm
+РЎСѓРєРѕРЅРЅР°СЏ СЃР»РѕР±РѕРґР°=http://kazantransport.by.ru/metro/sta1ss.htm
+РџР»РѕС‰Р°РґСЊ РўСѓРєР°СЏ=http://kazantransport.by.ru/metro/sta1pt.htm
+РљСЂРµРјР»РµРІСЃРєР°СЏ=http://kazantransport.by.ru/metro/sta1kr.htm
+РљРѕР·СЊСЏ СЃР»РѕР±РѕРґР°=http://kazantransport.by.ru/metro/sta1ks.htm
+;РЇС€СЊР»РµРє=
+;РЎРµРІРµСЂРЅС‹Р№ РІРѕРєР·Р°Р»=
+;РђРІРёР°СЃС‚СЂРѕРёС‚РµР»СЊРЅР°СЏ=

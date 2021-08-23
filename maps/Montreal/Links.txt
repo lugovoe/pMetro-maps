@@ -3,12 +3,12 @@ AddToInfo=1
 Caption=
 CityName=Montreal
 
-[1 GREEN ANGRIGNON - HONORÉ-BEAUGRAND]
+[1 GREEN ANGRIGNON - HONORÐ™-BEAUGRAND]
 Angrignon=http://www.stm.info/English/metro/a-m43.htm\nhttp://www.stm.info/English/metro/images/c43.gif
 Monk=http://www.stm.info/English/metro/a-m42.htm\nhttp://www.stm.info/English/metro/images/c42.gif
 Jolicoeur=http://www.stm.info/English/metro/a-m41.htm\nhttp://www.stm.info/English/metro/images/c41.gif
 Verdun=http://www.stm.info/English/metro/a-m40.htm\nhttp://www.stm.info/English/metro/images/c40.gif
-De L'Église=http://www.stm.info/English/metro/a-m39.htm\nhttp://www.stm.info/English/metro/images/c39.gif
+De L'Ð™glise=http://www.stm.info/English/metro/a-m39.htm\nhttp://www.stm.info/English/metro/images/c39.gif
 LaSalle=http://www.stm.info/English/metro/a-m38.htm\nhttp://www.stm.info/English/metro/images/c38.gif
 Charlevoix=http://www.stm.info/English/metro/a-m37.htm\nhttp://www.stm.info/English/metro/images/c37.gif
 Lionel-Groulx=http://www.stm.info/English/metro/a-m36.htm\nhttp://www.stm.info/English/metro/images/c36.gif
@@ -22,7 +22,7 @@ Berri-UQAM=http://www.stm.info/English/metro/a-m11.htm\nhttp://www.stm.info/Engl
 Beaudry=http://www.stm.info/English/metro/a-m29.htm\nhttp://www.stm.info/English/metro/images/c29.gif
 Papineau=http://www.stm.info/English/metro/a-m28.htm\nhttp://www.stm.info/English/metro/images/c28.gif
 Frontenac=http://www.stm.info/English/metro/a-m27.htm\nhttp://www.stm.info/English/metro/images/c27.gif
-Préfontaine=http://www.stm.info/English/metro/a-m26.htm\nhttp://www.stm.info/English/metro/images/c26.gif
+PrÐ¹fontaine=http://www.stm.info/English/metro/a-m26.htm\nhttp://www.stm.info/English/metro/images/c26.gif
 Joliette=http://www.stm.info/English/metro/a-m25.htm\nhttp://www.stm.info/English/metro/images/c25.gif
 Pie-IX=http://www.stm.info/English/metro/a-m24.htm\nhttp://www.stm.info/English/metro/images/c24.gif
 Viau=http://www.stm.info/English/metro/a-m23.htm\nhttp://www.stm.info/English/metro/images/c23.gif
@@ -30,18 +30,18 @@ Assomption=http://www.stm.info/English/metro/a-m22.htm\nhttp://www.stm.info/Engl
 Cadillac=http://www.stm.info/English/metro/a-m21.htm\nhttp://www.stm.info/English/metro/images/c21.gif
 Langelier=http://www.stm.info/English/metro/a-m20.htm\nhttp://www.stm.info/English/metro/images/c20.gif
 Radisson=http://www.stm.info/English/metro/a-m19.htm\nhttp://www.stm.info/English/metro/images/c19.gif
-Honoré-Beaugrand=http://www.stm.info/English/metro/a-m18.htm\nhttp://www.stm.info/English/metro/images/c18.gif
+HonorÐ¹-Beaugrand=http://www.stm.info/English/metro/a-m18.htm\nhttp://www.stm.info/English/metro/images/c18.gif
 
-[2 ORANGE CÔTE-VERTU - MONTMORENCY]
-Côte-Vertu=http://www.stm.info/English/metro/a-m65.htm\nhttp://www.stm.info/English/metro/images/c65.gif
-Du Collège=http://www.stm.info/English/metro/a-m54.htm\nhttp://www.stm.info/English/metro/images/c54.gif
+[2 ORANGE CÐ¤TE-VERTU - MONTMORENCY]
+CÑ„te-Vertu=http://www.stm.info/English/metro/a-m65.htm\nhttp://www.stm.info/English/metro/images/c65.gif
+Du CollÐ¸ge=http://www.stm.info/English/metro/a-m54.htm\nhttp://www.stm.info/English/metro/images/c54.gif
 De La Savane=http://www.stm.info/English/metro/a-m53.htm\nhttp://www.stm.info/English/metro/images/c53.gif
 Namur=http://www.stm.info/English/metro/a-m52.htm\nhttp://www.stm.info/English/metro/images/c52.gif
 Plamondon=http://www.stm.info/English/metro/a-m51.htm\nhttp://www.stm.info/English/metro/images/c51.gif
-Côte-Sainte-Catherine=http://www.stm.info/English/metro/a-m50.htm\nhttp://www.stm.info/English/metro/images/c50.gif
+CÑ„te-Sainte-Catherine=http://www.stm.info/English/metro/a-m50.htm\nhttp://www.stm.info/English/metro/images/c50.gif
 Snowdon=http://www.stm.info/English/metro/a-m49.htm\nhttp://www.stm.info/English/metro/images/c49.gif
 Villa-Maria=http://www.stm.info/English/metro/a-m48.htm\nhttp://www.stm.info/English/metro/images/c48.gif
-Vendôme=http://www.stm.info/English/metro/a-m47.htm\nhttp://www.stm.info/English/metro/images/c47.gif
+VendÑ„me=http://www.stm.info/English/metro/a-m47.htm\nhttp://www.stm.info/English/metro/images/c47.gif
 Place-St-Henri=http://www.stm.info/English/metro/a-m46.htm\nhttp://www.stm.info/English/metro/images/c46.gif
 Lionel-Groulx=http://www.stm.info/English/metro/a-m36.htm\nhttp://www.stm.info/English/metro/images/c36.gif
 Georges-Vanier=http://www.stm.info/English/metro/a-m17.htm\nhttp://www.stm.info/English/metro/images/c17.gif
@@ -58,15 +58,15 @@ Rosemont=http://www.stm.info/English/metro/a-m07.htm\nhttp://www.stm.info/Englis
 Beaubien=http://www.stm.info/English/metro/a-m06.htm\nhttp://www.stm.info/English/metro/images/c06.gif
 Jean-Talon=http://www.stm.info/English/metro/a-m05.htm\nhttp://www.stm.info/English/metro/images/c05.gif
 Jarry=http://www.stm.info/English/metro/a-m04.htm\nhttp://www.stm.info/English/metro/images/c04.gif
-Crémazie=http://www.stm.info/English/metro/a-m03.htm\nhttp://www.stm.info/English/metro/images/c03.gif
-Sauvé=http://www.stm.info/English/metro/a-m02.htm\nhttp://www.stm.info/English/metro/images/c02.gif
+CrÐ¹mazie=http://www.stm.info/English/metro/a-m03.htm\nhttp://www.stm.info/English/metro/images/c03.gif
+SauvÐ¹=http://www.stm.info/English/metro/a-m02.htm\nhttp://www.stm.info/English/metro/images/c02.gif
 Henri-Bourassa=http://www.stm.info/English/metro/a-m01.htm\nhttp://www.stm.info/English/metro/images/c01.gif
 
 [3 BLUE SNOWDON - SAINT-MICHEL]
 Snowdon=http://www.stm.info/English/metro/a-m49.htm\nhttp://www.stm.info/English/metro/images/c49.gif
-Côte-des-Neiges=http://www.stm.info/English/metro/a-m55.htm\nhttp://www.stm.info/English/metro/images/c55.gif
-Université-de-Montréal=http://www.stm.info/English/metro/a-m56.htm\nhttp://www.stm.info/English/metro/images/c56.gif
-Édouard-Montpetit=http://www.stm.info/English/metro/a-m57.htm\nhttp://www.stm.info/English/metro/images/c57.gif
+CÑ„te-des-Neiges=http://www.stm.info/English/metro/a-m55.htm\nhttp://www.stm.info/English/metro/images/c55.gif
+UniversitÐ¹-de-MontrÐ¹al=http://www.stm.info/English/metro/a-m56.htm\nhttp://www.stm.info/English/metro/images/c56.gif
+Ð™douard-Montpetit=http://www.stm.info/English/metro/a-m57.htm\nhttp://www.stm.info/English/metro/images/c57.gif
 Outremont=http://www.stm.info/English/metro/a-m58.htm\nhttp://www.stm.info/English/metro/images/c58.gif
 Acadie=http://www.stm.info/English/metro/a-m59.htm\nhttp://www.stm.info/English/metro/images/c59.gif
 Parc=http://www.stm.info/English/metro/a-m60.htm\nhttp://www.stm.info/English/metro/images/c60.gif

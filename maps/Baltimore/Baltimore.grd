@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
-Caption=Транспорт
-StringToAdd='  Наземный транспорт:'
+Caption=РўСЂР°РЅСЃРїРѕСЂС‚
+StringToAdd='  РќР°Р·РµРјРЅС‹Р№ С‚СЂР°РЅСЃРїРѕСЂС‚:'
 
 [Bus]
 1=^^^^Metro Subway,Mondawmin,Metro Subway,Charles Center,Timonium-Cromwell Station/Glen Burnie,University Center/Baltimore Street, Hunt Valley-BWI Airport,University Center/Baltimore Street,Penn Station-Camden Yards,University Center/Baltimore Street

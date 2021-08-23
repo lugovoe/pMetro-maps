@@ -4,12 +4,12 @@ Caption=Intersections
 CityName=Montreal
 StringToAdd='Intersections:'
 
-[1 GREEN ANGRIGNON - HONOR…-BEAUGRAND]
+[1 GREEN ANGRIGNON - HONOR–ô-BEAUGRAND]
 Angrignon=boul. des Trinitaires / av. Irwin\nboul. des Trinitaires / av. De Monts\nboul. des Trinitaires / av. Lamont
 Monk=boul. Monk / rue Allard
-Jolicoeur=rue Jolicoeur / boul. de La VÈrendrye
+Jolicoeur=rue Jolicoeur / boul. de La V–πrendrye
 Verdun=rue Verdun / av. Willibrord
-De L'…glise=av. Galt / rue Wellington\nav. de l'…glise / rue Ross
+De L'–ôglise=av. Galt / rue Wellington\nav. de l'–ôglise / rue Ross
 LaSalle=rue Rushbrooke / av. Caisse
 Charlevoix=rue Charlevoix / rue Centre
 Lionel-Groulx=av. Atwater / rue St-Jacques\nav. Atwater / rue Lionel-Groulx\nav. Atwater / rue Delisle
@@ -23,32 +23,32 @@ Berri-UQAM=rue Berri / boul. de Maisonneuve Est\nrue St-Denis / boul. de Maisonn
 Beaudry=rue Ste-Catherine / rue Beaudry
 Papineau=boul. de Maisonneuve / rue Cartier
 Frontenac=rue Frontenac / rue Ontario Est
-PrÈfontaine=rue Hochelaga / rue Moreau
+Pr–πfontaine=rue Hochelaga / rue Moreau
 Joliette=rue Joliette / rue Hochelaga
 Pie-IX=boul. Pie-IX / av. Pierre-de-Coubertin
-Viau=av. Pierre-de-Coubertin / rue ThÈodore
+Viau=av. Pierre-de-Coubertin / rue Th–πodore
 Assomption=boul. De L'Assomption / rue Chauveau
 Cadillac=rue De Cadillac / rue Sherbrooke
 Langelier=boul. Langelier / rue Sherbrooke
 Radisson=rue Sherbrooke / rue Des Groseilliers
-HonorÈ-Beaugrand=rue Sherbrooke / rue HonorÈ-Beaugrand
+Honor–π-Beaugrand=rue Sherbrooke / rue Honor–π-Beaugrand
                                        
-[2 ORANGE C‘TE-VERTU - MONTMORENCY]
-CÙte-Vertu=ch. CÙte-Vertu / Boul. DÈcarie\nch. CÙte-Vertu / rue Gohier\nboul. DÈcarie / rue …douard-Laurin\nrue Gohier / rue …douard-Laurin
-Du CollËge=rue Du CollËge / boul. DÈcarie\nboul. DÈcarie / rue Cartier
-De La Savane=boul. DÈcarie / rue de Sorel
-Namur=boul. DÈcarie / rue Jean-Talon
+[2 ORANGE C–§TE-VERTU - MONTMORENCY]
+C—Ñte-Vertu=ch. C—Ñte-Vertu / Boul. D–πcarie\nch. C—Ñte-Vertu / rue Gohier\nboul. D–πcarie / rue –ôdouard-Laurin\nrue Gohier / rue –ôdouard-Laurin
+Du Coll–∏ge=rue Du Coll–∏ge / boul. D–πcarie\nboul. D–πcarie / rue Cartier
+De La Savane=boul. D–πcarie / rue de Sorel
+Namur=boul. D–πcarie / rue Jean-Talon
 Plamondon=av. Victoria / av. Plamondon\nav. Victoria / av. Van Horne
-CÙte-Sainte-Catherine=chemin de la CÙte-Ste-Catherine / av. Victoria
+C—Ñte-Sainte-Catherine=chemin de la C—Ñte-Ste-Catherine / av. Victoria
 Snowdon=chemin Queen-Mary / av. Westbury
-Villa-Maria=boul. DÈcarie / av. Monkland
-VendÙme=boul. de Maisonneuve / av. de VendÙme
+Villa-Maria=boul. D–πcarie / av. Monkland
+Vend—Ñme=boul. de Maisonneuve / av. de Vend—Ñme
 Place-St-Henri=rue St-Ferdinand / rue St-Jacques
 Lionel-Groulx=av. Atwater / rue St-Jacques\nav. Atwater / rue Lionel-Groulx\nav. Atwater / rue Delisle
 Georges-Vanier=rue St-Antoine / boul. Georges-Vanier
 Lucien-l'Allier=rue Lucien-L'Allier / av. Argyle
-Bonaventure=rue de La GauchetiËre Ouest / rue Peel\nrue Saint-Antoine Ouest / rue Peel
-Square-Victoria=rue Belmont / CÙte du Beaver Hall\nav. Viger / CÙte du Beaver Hall\nrue St-Antoine / Square Victoria\nrue St-Jacques / Square Victoria
+Bonaventure=rue de La Gaucheti–∏re Ouest / rue Peel\nrue Saint-Antoine Ouest / rue Peel
+Square-Victoria=rue Belmont / C—Ñte du Beaver Hall\nav. Viger / C—Ñte du Beaver Hall\nrue St-Antoine / Square Victoria\nrue St-Jacques / Square Victoria
 Place-d'Armes=rue St-Urbain / av. Viger
 Champ-de-Mars=rue Sanguinet / av. Viger
 Berri-UQAM=rue Berri / boul. de Maisonneuve Est\nrue St-Denis / boul. de Maisonneuve Est\nrue St-Hubert / boul. de Maisonneuve Est\nrue Berri / rue Ste-Catherine Est\nrue St-Denis / rue Ste-Catherine Est
@@ -56,28 +56,28 @@ Sherbrooke=rue Berri / rue Cherrier
 Mont-Royal=av. du Mont-Royal / rue Berri
 Laurier=av. Laurier / rue Rivard\nrue Berri / rue Gilford
 Rosemont=boul. Rosemont / rue St-Valier
-Beaubien=av. de Ch‚teaubriand / rue Beaubien
+Beaubien=av. de Ch–≤teaubriand / rue Beaubien
 Jean-Talon=rue Jean-Talon / rue St-Denis\nrue Jean-Talon / rue Berri\nrue Jean-Talon / rue Lajeunesse\nrue Jean-Talon / rue St-Vallier\nrue Jean-Talon / rue St-Hubert
 Jarry=rue Jarry / rue Berri
-CrÈmazie=boul. CrÈmazie / rue Berri
-SauvÈ=rue SauvÈ / rue Berri
+Cr–πmazie=boul. Cr–πmazie / rue Berri
+Sauv–π=rue Sauv–π / rue Berri
 Henri-Bourassa=boul. Henri-Bourassa / rue Lajeunesse\nboul. Henri-Bourassa / rue Berri
                                        
 [3 BLUE SNOWDON - SAINT-MICHEL]
 Snowdon=chemin Queen-Mary / av. Westbury
-CÙte-des-Neiges=chemin de la CÙte-des-Neiges / av. Lacombe
-UniversitÈ-de-MontrÈal=boul …douard-Monpetit / av. Louis-Colin
-…douard-Montpetit=boul. …douard-Monpetit / av. Vincent-D'Indy
+C—Ñte-des-Neiges=chemin de la C—Ñte-des-Neiges / av. Lacombe
+Universit–π-de-Montr–πal=boul –ôdouard-Monpetit / av. Louis-Colin
+–ôdouard-Montpetit=boul. –ôdouard-Monpetit / av. Vincent-D'Indy
 Outremont=av. Van Horne / av. Wiseman
 Acadie=boul. de l'Acadie / rue Beaumont
 Parc=rue Hutchison / rue Jean-Talon
 De Castelnau=rue De Castelnau / boul. St-Laurent
 Jean-Talon=rue Jean-Talon / rue St-Denis\nrue Jean-Talon / rue Berri\nrue Jean-Talon / rue Lajeunesse\nrue Jean-Talon / rue St-Vallier\nrue Jean-Talon / rue St-Hubert
 Fabre=rue Jean-Talon / rue Fabre\nrue Jean-Talon / rue Marquette
-D'Iberville=rue Jean-Talon / av. Louis-HÈbert\nrue Jean-Talon / rue D'Iberville
+D'Iberville=rue Jean-Talon / av. Louis-H–πbert\nrue Jean-Talon / rue D'Iberville
 Saint-Michel=boul. St-Michel / boul. Shaughnessy\nboul. St-Michel / rue Everett\nboul. St-Michel / rue Jean-Talon
                                        
 [4 YELLOW BERRI-UQAM - LONGUEUIL]
 Berri-UQAM=rue Berri / boul. de Maisonneuve Est\nrue St-Denis / boul. de Maisonneuve Est\nrue St-Hubert / boul. de Maisonneuve Est\nrue Berri / rue Ste-Catherine Est\nrue St-Denis / rue Ste-Catherine Est
-Jean-Drapeau=chemin MacDonald / rue Ste-HÈlËne
+Jean-Drapeau=chemin MacDonald / rue Ste-H–πl–∏ne
 Longueuil=Place Charles Lemoyne / rue St-Charles

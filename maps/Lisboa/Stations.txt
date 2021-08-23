@@ -1,9 +1,9 @@
 [Options]
 AddToInfo=1
-CityName=Lisboa (Лиссабон)
-MenuName=Разное\Ж/д станции
-Caption=Станции
-StringToAdd='Ж/д станция'
+CityName=Lisboa (Р›РёСЃСЃР°Р±РѕРЅ)
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=РЎС‚Р°РЅС†РёРё
+StringToAdd='Р–/Рґ СЃС‚Р°РЅС†РёСЏ'
 
 [Blue line]
 Jardim Zoologico

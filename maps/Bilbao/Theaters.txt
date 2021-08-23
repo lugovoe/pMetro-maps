@@ -1,19 +1,19 @@
 [Options]
 AddToInfo=1
 CityName=Bilbao
-MenuName=Разное\Театры, концертные залы
+MenuName=Р Р°Р·РЅРѕРµ\РўРµР°С‚СЂС‹, РєРѕРЅС†РµСЂС‚РЅС‹Рµ Р·Р°Р»С‹
 MenuImage=Theaters.bmp
-Caption=Театры, концертные залы
-StringToAdd='  Театр:'
+Caption=РўРµР°С‚СЂС‹, РєРѕРЅС†РµСЂС‚РЅС‹Рµ Р·Р°Р»С‹
+StringToAdd='  РўРµР°С‚СЂ:'
 
 [1]
-Casco Viejo=Teatro Arriaga, пл. Arriaga\nBilborock, Muelle La Merced,1
-San Mames=Euskalduna Palace, пр. Abandoibarra,4
-Neguri=Getxo Theatre, пр. Basagoiti,77
+Casco Viejo=Teatro Arriaga, РїР». Arriaga\nBilborock, Muelle La Merced,1
+San Mames=Euskalduna Palace, РїСЂ. Abandoibarra,4
+Neguri=Getxo Theatre, РїСЂ. Basagoiti,77
 
 [2]
-Casco Viejo=Teatro Arriaga, пл. Arriaga\nBilborock, Muelle La Merced,1
-San Mames=Euskalduna Palace, пр. Abandoibarra,4
-Ansio=Bizkaia Arena (Bec!), ул. Vega de Ansio
-Barakaldo=Barakaldo Theatre, ул. Juan Sebastian Elcano,4
+Casco Viejo=Teatro Arriaga, РїР». Arriaga\nBilborock, Muelle La Merced,1
+San Mames=Euskalduna Palace, РїСЂ. Abandoibarra,4
+Ansio=Bizkaia Arena (Bec!), СѓР». Vega de Ansio
+Barakaldo=Barakaldo Theatre, СѓР». Juan Sebastian Elcano,4
 

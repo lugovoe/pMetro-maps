@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
-CityName=Roma (Рим)
-MenuName=Моб.связь\Зона покрытия Omnitel, Tim, Wind
+CityName=Roma (Р РёРј)
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\Р—РѕРЅР° РїРѕРєСЂС‹С‚РёСЏ Omnitel, Tim, Wind
 Caption=Omnitel, Tim, Wind
 
 [Drivings]

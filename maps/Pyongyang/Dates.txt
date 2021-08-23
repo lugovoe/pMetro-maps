@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Дата открытия
-CityName=Пхеньян
-StringToAdd='  Дата открытия '
+Caption=Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ
+CityName=РџС…РµРЅСЊСЏРЅ
+StringToAdd='  Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ '
 
 [Chollima]
 Pulgunbyol=06.09.1973

@@ -1,13 +1,13 @@
 [Options]
 AddToInfo=1
 CityName=Budapest
-MenuName=Разное\Ж/д станции
-Caption=Станции
-StringToAdd='Ж/д станция '
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=РЎС‚Р°РЅС†РёРё
+StringToAdd='Р–/Рґ СЃС‚Р°РЅС†РёСЏ '
 
 [M2]
-Ors Vezer tere=Пригородная платформа на Godolloi.
-Keleti palyaudvar=Выход к Восточному (Keleti) вокзалу.
-Batthyany ter=Пригородная платформа на Szentendrei.
-Deli palyaudvar=Выход к Южному (Deli) вокзалу.
+Ors Vezer tere=РџСЂРёРіРѕСЂРѕРґРЅР°СЏ РїР»Р°С‚С„РѕСЂРјР° РЅР° Godolloi.
+Keleti palyaudvar=Р’С‹С…РѕРґ Рє Р’РѕСЃС‚РѕС‡РЅРѕРјСѓ (Keleti) РІРѕРєР·Р°Р»Сѓ.
+Batthyany ter=РџСЂРёРіРѕСЂРѕРґРЅР°СЏ РїР»Р°С‚С„РѕСЂРјР° РЅР° Szentendrei.
+Deli palyaudvar=Р’С‹С…РѕРґ Рє Р®Р¶РЅРѕРјСѓ (Deli) РІРѕРєР·Р°Р»Сѓ.
 

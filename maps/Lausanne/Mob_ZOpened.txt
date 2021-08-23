@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=0
-CityName=Лозанна
-MenuName=Моб.связь\Открытые станции
+CityName=Р›РѕР·Р°РЅРЅР°
+MenuName=РњРѕР±.СЃРІСЏР·СЊ\РћС‚РєСЂС‹С‚С‹Рµ СЃС‚Р°РЅС†РёРё
 
 [Drivings]
 Montelly1=m1,Montelly,Provence

@@ -1,10 +1,10 @@
 [Options]
 Name=KharkovV
-CityName=Харьков
-Country=Украина
-RusName=Харьков
-Comment=перспективная
+CityName=РҐР°СЂСЊРєРѕРІ
+Country=РЈРєСЂР°РёРЅР°
+RusName=РҐР°СЂСЊРєРѕРІ
+Comment=РїРµСЂСЃРїРµРєС‚РёРІРЅР°СЏ
 NeedVersion=1.26.3
-MapAuthors=Схема от 13.09.2007г.
-MapAuthors=\nИнформация о времени проезда:\n- Программа MMetro Константина Штенникова,\nа также (по информации с сайта http://mmetro.al.ru):\n- Vadim Pudovkin,\n- Nick Bliznyuk,\n- Pavel A Gnezdilov.\n\nКарту прислал Владислав Савицкий.
+MapAuthors=РЎС…РµРјР° РѕС‚ 13.09.2007Рі.
+MapAuthors=\nРРЅС„РѕСЂРјР°С†РёСЏ Рѕ РІСЂРµРјРµРЅРё РїСЂРѕРµР·РґР°:\n- РџСЂРѕРіСЂР°РјРјР° MMetro РљРѕРЅСЃС‚Р°РЅС‚РёРЅР° РЁС‚РµРЅРЅРёРєРѕРІР°,\nР° С‚Р°РєР¶Рµ (РїРѕ РёРЅС„РѕСЂРјР°С†РёРё СЃ СЃР°Р№С‚Р° http://mmetro.al.ru):\n- Vadim Pudovkin,\n- Nick Bliznyuk,\n- Pavel A Gnezdilov.\n\nРљР°СЂС‚Сѓ РїСЂРёСЃР»Р°Р» Р’Р»Р°РґРёСЃР»Р°РІ РЎР°РІРёС†РєРёР№.
 

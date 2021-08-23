@@ -1,17 +1,17 @@
 [Options]
 AddToInfo=1
-Caption=Достопримечательности
-CityName=Napoli (Неаполь)
-MenuName=Разное\Достопримечательности города
+Caption=Р”РѕСЃС‚РѕРїСЂРёРјРµС‡Р°С‚РµР»СЊРЅРѕСЃС‚Рё
+CityName=Napoli (РќРµР°РїРѕР»СЊ)
+MenuName=Р Р°Р·РЅРѕРµ\Р”РѕСЃС‚РѕРїСЂРёРјРµС‡Р°С‚РµР»СЊРЅРѕСЃС‚Рё РіРѕСЂРѕРґР°
 StringToAdd=
 
 [Metropolitana Collinare]
-Policlinico=Археологические раскопки
-Museo=Музей
-Vanvitelli=какой-то музей
+Policlinico=РђСЂС…РµРѕР»РѕРіРёС‡РµСЃРєРёРµ СЂР°СЃРєРѕРїРєРё
+Museo=РњСѓР·РµР№
+Vanvitelli=РєР°РєРѕР№-С‚Рѕ РјСѓР·РµР№
 
 [Metropolitana F. S.]
-Pozzuoli=Археологические раскопки
-Campi Flegrei=Университет, выставка "Oltremare"
-Piazza Cavour=Музей
+Pozzuoli=РђСЂС…РµРѕР»РѕРіРёС‡РµСЃРєРёРµ СЂР°СЃРєРѕРїРєРё
+Campi Flegrei=РЈРЅРёРІРµСЂСЃРёС‚РµС‚, РІС‹СЃС‚Р°РІРєР° "Oltremare"
+Piazza Cavour=РњСѓР·РµР№
 

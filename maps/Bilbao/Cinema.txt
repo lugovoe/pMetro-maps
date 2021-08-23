@@ -1,24 +1,24 @@
 [Options]
 AddToInfo=1
 CityName=Bilbao
-MenuName=Разное\Кинотеатры
-Caption=Кинотеатры
-StringToAdd='  Кинотеатр:'
+MenuName=Р Р°Р·РЅРѕРµ\РљРёРЅРѕС‚РµР°С‚СЂС‹
+Caption=РљРёРЅРѕС‚РµР°С‚СЂС‹
+StringToAdd='  РљРёРЅРѕС‚РµР°С‚СЂ:'
 MenuImage=Cinema.bmp
 
 [1]
-Abando=Capitol Cinema, ул. Villarias,10
-Moyua=Zubiarte cinemas, ул. Lehendakari Leizaola,2\nIdeales cinema, ул. Egana,1
-Indautxu=Club Fas cinema, Carmen's Hall (Indautxu Hall)\nMikeldi cinema, ал. Urquijo,66
-San Mames=Multicines 8, ул. Jose Ma Escuza,13
-Deusto=Renoir cinemas, пл. Lehendakari Aguirre,23
+Abando=Capitol Cinema, СѓР». Villarias,10
+Moyua=Zubiarte cinemas, СѓР». Lehendakari Leizaola,2\nIdeales cinema, СѓР». Egana,1
+Indautxu=Club Fas cinema, Carmen's Hall (Indautxu Hall)\nMikeldi cinema, Р°Р». Urquijo,66
+San Mames=Multicines 8, СѓР». Jose Ma Escuza,13
+Deusto=Renoir cinemas, РїР». Lehendakari Aguirre,23
 Neguri=Lauren Getxo Zinemak, Muelle de Arriluce
 Aiboa=Cinesa Artea Cinemas, Parque comercial Artea. B. Peruri
 
 [2]
-Abando=Capitol Cinema, ул. Villarias,10
-Moyua=Zubiarte cinemas, ул. Lehendakari Leizaola,2\nIdeales cinema, ул. Egana,1
-Indautxu=Club Fas cinema, Carmen's Hall (Indautxu Hall)\nMikeldi cinema, ал. Urquijo,66
-San Mames=Multicines 8, ул. Jose Ma Escuza,13
-Deusto=Renoir cinemas, пл. Lehendakari Aguirre,23
+Abando=Capitol Cinema, СѓР». Villarias,10
+Moyua=Zubiarte cinemas, СѓР». Lehendakari Leizaola,2\nIdeales cinema, СѓР». Egana,1
+Indautxu=Club Fas cinema, Carmen's Hall (Indautxu Hall)\nMikeldi cinema, Р°Р». Urquijo,66
+San Mames=Multicines 8, СѓР». Jose Ma Escuza,13
+Deusto=Renoir cinemas, РїР». Lehendakari Aguirre,23
 

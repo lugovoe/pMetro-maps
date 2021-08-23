@@ -1,9 +1,9 @@
 [Options]
 AddToInfo=1
-CityName=Roma (Рим)
-MenuName=Разное\Лифты для инвалидов
-Caption=Станции
-StringToAdd='Лифты для инвалидов'
+CityName=Roma (Р РёРј)
+MenuName=Р Р°Р·РЅРѕРµ\Р›РёС„С‚С‹ РґР»СЏ РёРЅРІР°Р»РёРґРѕРІ
+Caption=РЎС‚Р°РЅС†РёРё
+StringToAdd='Р›РёС„С‚С‹ РґР»СЏ РёРЅРІР°Р»РёРґРѕРІ'
 
 [A]
 Battistini=

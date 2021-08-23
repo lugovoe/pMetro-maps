@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-CityName=Ташкент
-Caption=Другое
-MenuName=Разное\Другое
+CityName=РўР°С€РєРµРЅС‚
+Caption=Р”СЂСѓРіРѕРµ
+MenuName=Р Р°Р·РЅРѕРµ\Р”СЂСѓРіРѕРµ
 StringToAdd='  '
 
 [Chilonzor]
@@ -10,13 +10,13 @@ StringToAdd='  '
 ;Chilonzor=
 ;Mirzo Ulug'bek=
 ;Novza=
-Milliy Bog'=Олий Мажлис Республики Узбекистан
+Milliy Bog'=РћР»РёР№ РњР°Р¶Р»РёСЃ Р РµСЃРїСѓР±Р»РёРєРё РЈР·Р±РµРєРёСЃС‚Р°РЅ
 ;Bunyodkor=
-Paxtakor=Старая телевышка
+Paxtakor=РЎС‚Р°СЂР°СЏ С‚РµР»РµРІС‹С€РєР°
 ;Mustaqillik Maydoni=
-Amir Temur Xiyoboni=Ташкентский городской Хокимият
-Hamid Olimjon=ЗАГС Мирзо-Улугбекского района\nДархан
-Pushkin=Железнодорожная станция "Салар"
+Amir Temur Xiyoboni=РўР°С€РєРµРЅС‚СЃРєРёР№ РіРѕСЂРѕРґСЃРєРѕР№ РҐРѕРєРёРјРёСЏС‚
+Hamid Olimjon=Р—РђР“РЎ РњРёСЂР·Рѕ-РЈР»СѓРіР±РµРєСЃРєРѕРіРѕ СЂР°Р№РѕРЅР°\nР”Р°СЂС…Р°РЅ
+Pushkin=Р–РµР»РµР·РЅРѕРґРѕСЂРѕР¶РЅР°СЏ СЃС‚Р°РЅС†РёСЏ "РЎР°Р»Р°СЂ"
 ;Buyuk Ipak Yo'li=
 
 [O'zbekiston]
@@ -29,14 +29,14 @@ Pushkin=Железнодорожная станция "Салар"
 ;Kosmonavtlar=
 ;Oybek=
 ;Toshkent=
-Mashinasozlar=22-й авиагородок\nЖелезнодорожная станция товарного назначения
+Mashinasozlar=22-Р№ Р°РІРёР°РіРѕСЂРѕРґРѕРє\nР–РµР»РµР·РЅРѕРґРѕСЂРѕР¶РЅР°СЏ СЃС‚Р°РЅС†РёСЏ С‚РѕРІР°СЂРЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ
 ;Do'stlik=
 
 [Yunusobod]
 ;Ming O'rik=
 ;Yunus Rajabiy=
-Abdulla Qodiriy=Ночной клуб Baccara
-Yunus Rajabiy=Ташкентский городской Хокимият
+Abdulla Qodiriy=РќРѕС‡РЅРѕР№ РєР»СѓР± Baccara
+Yunus Rajabiy=РўР°С€РєРµРЅС‚СЃРєРёР№ РіРѕСЂРѕРґСЃРєРѕР№ РҐРѕРєРёРјРёСЏС‚
 ;Minor=
 ;Bodomzor=
 ;Shahriston=

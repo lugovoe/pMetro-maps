@@ -1,10 +1,10 @@
 [Options]
 Name=Chelyabinsk
-CityName=Челябинск
-Country=Россия
-RusName=Челябинск
-Comment=Перспективная схема метро
+CityName=Р§РµР»СЏР±РёРЅСЃРє
+Country=Р РѕСЃСЃРёСЏ
+RusName=Р§РµР»СЏР±РёРЅСЃРє
+Comment=РџРµСЂСЃРїРµРєС‚РёРІРЅР°СЏ СЃС…РµРјР° РјРµС‚СЂРѕ
 NeedVersion=1.26.3
-MapAuthors=Схема от 03.04.2009г.
-MapAuthors=Мурадов Борис
+MapAuthors=РЎС…РµРјР° РѕС‚ 03.04.2009Рі.
+MapAuthors=РњСѓСЂР°РґРѕРІ Р‘РѕСЂРёСЃ
 

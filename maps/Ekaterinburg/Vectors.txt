@@ -1,17 +1,17 @@
 [Options]
 AddToInfo=1
-Caption=Схема
-CityName=Екатеринбург
+Caption=РЎС…РµРјР°
+CityName=Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі
 Type=Image
 
-[Север-Юг]
-Проспект Космонавтов=ProspKosm.vec
-Уралмаш=Uralmash.vec
-Машиностроителей=Mashinostroiteley.vec
-Уральская=Uralskaya.vec
-Динамо=Dinamo.vec
-Площадь 1905 года=Ploschad1905goda.vec
-Геологическая=Geologicheskaya.vec
-Чкаловская=Chkalovskaya.vec
-Ботаническая=Botanicheskaya.vec
+[РЎРµРІРµСЂ-Р®Рі]
+РџСЂРѕСЃРїРµРєС‚ РљРѕСЃРјРѕРЅР°РІС‚РѕРІ=ProspKosm.vec
+РЈСЂР°Р»РјР°С€=Uralmash.vec
+РњР°С€РёРЅРѕСЃС‚СЂРѕРёС‚РµР»РµР№=Mashinostroiteley.vec
+РЈСЂР°Р»СЊСЃРєР°СЏ=Uralskaya.vec
+Р”РёРЅР°РјРѕ=Dinamo.vec
+РџР»РѕС‰Р°РґСЊ 1905 РіРѕРґР°=Ploschad1905goda.vec
+Р“РµРѕР»РѕРіРёС‡РµСЃРєР°СЏ=Geologicheskaya.vec
+Р§РєР°Р»РѕРІСЃРєР°СЏ=Chkalovskaya.vec
+Р‘РѕС‚Р°РЅРёС‡РµСЃРєР°СЏ=Botanicheskaya.vec
 

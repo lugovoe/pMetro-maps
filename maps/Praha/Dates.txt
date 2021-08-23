@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Дата открытия
+Caption=Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ
 CityName=Praha
-StringToAdd='  Дата открытия: '
+StringToAdd='  Р”Р°С‚Р° РѕС‚РєСЂС‹С‚РёСЏ: '
 
 [A]
 Dejvicka=12.08.1978

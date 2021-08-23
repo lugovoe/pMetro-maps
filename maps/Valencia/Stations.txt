@@ -1,13 +1,13 @@
 [Options]
 AddToInfo=0
 CityName=Valencia
-MenuName=Разное\Ж/д станции
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё
 MenuImage=Vokzals_logo.bmp
 
 [3]
-Xаtiva=
+XР°tiva=
 
 [5]
-Xаtiva=
+XР°tiva=
 Bailen=
 

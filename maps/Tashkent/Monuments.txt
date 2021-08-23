@@ -1,21 +1,21 @@
 [Options]
 AddToInfo=1
-CityName=Ташкент
-Caption=Памятники
-MenuName=Разное\Памятники
+CityName=РўР°С€РєРµРЅС‚
+Caption=РџР°РјСЏС‚РЅРёРєРё
+MenuName=Р Р°Р·РЅРѕРµ\РџР°РјСЏС‚РЅРёРєРё
 MenuImage=Tserkvi.bmp
 StringToAdd='  '
 
 [Chilonzor]
 ;Olmazor=
 ;Chilonzor=
-Mirzo Ulug'bek=Мечеть Кози-Рабад
+Mirzo Ulug'bek=РњРµС‡РµС‚СЊ РљРѕР·Рё-Р Р°Р±Р°Рґ
 ;Novza=
 ;Milliy Bog'=
 ;Bunyodkor=
 ;Paxtakor=
 ;Mustaqillik Maydoni=
-Amir Temur Xiyoboni=Куранты\nПамятник Амиру Темуру
+Amir Temur Xiyoboni=РљСѓСЂР°РЅС‚С‹\nРџР°РјСЏС‚РЅРёРє РђРјРёСЂСѓ РўРµРјСѓСЂСѓ
 ;Hamid Olimjon=
 ;Pushkin=
 ;Buyuk Ipak Yo'li=
@@ -24,17 +24,17 @@ Amir Temur Xiyoboni=Куранты\nПамятник Амиру Темуру
 ;Beruniy=
 ;Tinchlik=
 ;Chorsu=
-G'afur G'ulom=Площадь Хадра
+G'afur G'ulom=РџР»РѕС‰Р°РґСЊ РҐР°РґСЂР°
 ;Alisher Navoiy=
 ;O'zbekiston=
 ;Kosmonavtlar=
 ;Oybek=
 ;Toshkent=
-Mashinasozlar=Кладбище Боткина
+Mashinasozlar=РљР»Р°РґР±РёС‰Рµ Р‘РѕС‚РєРёРЅР°
 ;Do'stlik=
 
 [Yunusobod]
-Yunus Rajabiy=Куранты\nПамятник Амиру Темуру
+Yunus Rajabiy=РљСѓСЂР°РЅС‚С‹\nРџР°РјСЏС‚РЅРёРє РђРјРёСЂСѓ РўРµРјСѓСЂСѓ
 ;Ming O'rik=
 ;Yunus Rajabiy=
 ;Abdulla Qodiriy=

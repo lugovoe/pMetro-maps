@@ -1,11 +1,11 @@
 [Options]
 Name=Moscow_pix
-CityName=Москва
-Country=Россия
-RusName=Москва
-Comment=пиксельная
+CityName=РњРѕСЃРєРІР°
+Country=Р РѕСЃСЃРёСЏ
+RusName=РњРѕСЃРєРІР°
+Comment=РїРёРєСЃРµР»СЊРЅР°СЏ
 NeedVersion=1.26.3
-MapAuthors=Схема от ...
-MapAuthors=Информацию о времени проезда прислали: Константин Штенников, Юрий Узорин, Михаил Степанцов, Andre Galutin, Alex Makeev, Sergey Staroverov, Кошевенко Алексей, Ларчев Иван Сергеевич, Александр А., Владимир Демянченко.\n\nСхема нарисована на основе карты с сайта http://mymetro.ru.\n\nИнформация о станциях и пересадочных узлах взята с сайтов: http://www.metro.ru, http://moskva.ruz.net/metro, http://www.aistprint.ru/metro_map.html, http://aistprint.ru/muvm.html и http://moskva.far.ru.\n\nИнформация о наземном транспорте - с сайта http://moskva.ruz.net/metro.\n\nИнформация о маршрутках - с http://racetaxi.by.ru и http://pavlin99.newmail.ru/mostrans/routes/racetaxi.htm (пока в разработке).\n\nИнформация о кинотеатрах - http://www.kinoafisha.ru/.\n\nИнформация о музеях - http://www.moscow-media.ru/metro/ind_m.htm.\n\nИнформация о зоне покрытия операторов мобильной связи - с карты на сайте http://Amobile.ru, а также от Юрия Мурашко.\n\nТаблица, в каком вагоне надо ехать, прислана Oleg V.Vinsky. Автор Mr.Fiks (пока в разработке).
+MapAuthors=РЎС…РµРјР° РѕС‚ ...
+MapAuthors=РРЅС„РѕСЂРјР°С†РёСЋ Рѕ РІСЂРµРјРµРЅРё РїСЂРѕРµР·РґР° РїСЂРёСЃР»Р°Р»Рё: РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РЁС‚РµРЅРЅРёРєРѕРІ, Р®СЂРёР№ РЈР·РѕСЂРёРЅ, РњРёС…Р°РёР» РЎС‚РµРїР°РЅС†РѕРІ, Andre Galutin, Alex Makeev, Sergey Staroverov, РљРѕС€РµРІРµРЅРєРѕ РђР»РµРєСЃРµР№, Р›Р°СЂС‡РµРІ РРІР°РЅ РЎРµСЂРіРµРµРІРёС‡, РђР»РµРєСЃР°РЅРґСЂ Рђ., Р’Р»Р°РґРёРјРёСЂ Р”РµРјСЏРЅС‡РµРЅРєРѕ.\n\nРЎС…РµРјР° РЅР°СЂРёСЃРѕРІР°РЅР° РЅР° РѕСЃРЅРѕРІРµ РєР°СЂС‚С‹ СЃ СЃР°Р№С‚Р° http://mymetro.ru.\n\nРРЅС„РѕСЂРјР°С†РёСЏ Рѕ СЃС‚Р°РЅС†РёСЏС… Рё РїРµСЂРµСЃР°РґРѕС‡РЅС‹С… СѓР·Р»Р°С… РІР·СЏС‚Р° СЃ СЃР°Р№С‚РѕРІ: http://www.metro.ru, http://moskva.ruz.net/metro, http://www.aistprint.ru/metro_map.html, http://aistprint.ru/muvm.html Рё http://moskva.far.ru.\n\nРРЅС„РѕСЂРјР°С†РёСЏ Рѕ РЅР°Р·РµРјРЅРѕРј С‚СЂР°РЅСЃРїРѕСЂС‚Рµ - СЃ СЃР°Р№С‚Р° http://moskva.ruz.net/metro.\n\nРРЅС„РѕСЂРјР°С†РёСЏ Рѕ РјР°СЂС€СЂСѓС‚РєР°С… - СЃ http://racetaxi.by.ru Рё http://pavlin99.newmail.ru/mostrans/routes/racetaxi.htm (РїРѕРєР° РІ СЂР°Р·СЂР°Р±РѕС‚РєРµ).\n\nРРЅС„РѕСЂРјР°С†РёСЏ Рѕ РєРёРЅРѕС‚РµР°С‚СЂР°С… - http://www.kinoafisha.ru/.\n\nРРЅС„РѕСЂРјР°С†РёСЏ Рѕ РјСѓР·РµСЏС… - http://www.moscow-media.ru/metro/ind_m.htm.\n\nРРЅС„РѕСЂРјР°С†РёСЏ Рѕ Р·РѕРЅРµ РїРѕРєСЂС‹С‚РёСЏ РѕРїРµСЂР°С‚РѕСЂРѕРІ РјРѕР±РёР»СЊРЅРѕР№ СЃРІСЏР·Рё - СЃ РєР°СЂС‚С‹ РЅР° СЃР°Р№С‚Рµ http://Amobile.ru, Р° С‚Р°РєР¶Рµ РѕС‚ Р®СЂРёСЏ РњСѓСЂР°С€РєРѕ.\n\nРўР°Р±Р»РёС†Р°, РІ РєР°РєРѕРј РІР°РіРѕРЅРµ РЅР°РґРѕ РµС…Р°С‚СЊ, РїСЂРёСЃР»Р°РЅР° Oleg V.Vinsky. РђРІС‚РѕСЂ Mr.Fiks (РїРѕРєР° РІ СЂР°Р·СЂР°Р±РѕС‚РєРµ).
 
 []

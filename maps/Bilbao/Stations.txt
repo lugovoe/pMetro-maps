@@ -1,26 +1,26 @@
 [Options]
 AddToInfo=1
 CityName=Bilbao
-MenuName=Разное\Ж/д станции
-Caption=Ж/д станции
-StringToAdd='  Ж/д станция:'
+MenuName=Р Р°Р·РЅРѕРµ\Р–/Рґ СЃС‚Р°РЅС†РёРё
+Caption=Р–/Рґ СЃС‚Р°РЅС†РёРё
+StringToAdd='  Р–/Рґ СЃС‚Р°РЅС†РёСЏ:'
 MenuImage=Vokzals_logo.bmp
 
 [1]
-Bolueta=EuskoTren /Баскские Железные Дороги/ Bolueta
-Casco Viejo=EuskoTren /Баскские Железные Дороги/ Casco Viejo
-Abando=RENFE /Испанские Национальные Железные Дороги/ Abando
-Abando=FEVE /Узкоколейные Железные Дороги/ Bilbao
-Abando=EuskoTran /Баскские Железные Дороги - Трамвай/ Abando
-San Mames=RENFE /Испанские Национальные Железные Дороги/ San Mames
-San Mames=EuskoTran /Баскские Железные Дороги - Трамвай/ San Mames
+Bolueta=EuskoTren /Р‘Р°СЃРєСЃРєРёРµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё/ Bolueta
+Casco Viejo=EuskoTren /Р‘Р°СЃРєСЃРєРёРµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё/ Casco Viejo
+Abando=RENFE /РСЃРїР°РЅСЃРєРёРµ РќР°С†РёРѕРЅР°Р»СЊРЅС‹Рµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё/ Abando
+Abando=FEVE /РЈР·РєРѕРєРѕР»РµР№РЅС‹Рµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё/ Bilbao
+Abando=EuskoTran /Р‘Р°СЃРєСЃРєРёРµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё - РўСЂР°РјРІР°Р№/ Abando
+San Mames=RENFE /РСЃРїР°РЅСЃРєРёРµ РќР°С†РёРѕРЅР°Р»СЊРЅС‹Рµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё/ San Mames
+San Mames=EuskoTran /Р‘Р°СЃРєСЃРєРёРµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё - РўСЂР°РјРІР°Р№/ San Mames
 
 [2]
-Bolueta=EuskoTren /Баскские Железные Дороги/ Bolueta
-Casco Viejo=EuskoTren /Баскские Железные Дороги/ Casco Viejo
-Abando=RENFE /Испанские Национальные Железные Дороги/ Abando
-Abando=FEVE /Узкоколейные Железные Дороги/ Bilbao
-Abando=EuskoTran /Баскские Железные Дороги - Трамвай/ Abando
-San Mames=RENFE /Испанские Национальные Железные Дороги/ San Mames
-San Mames=EuskoTran /Баскские Железные Дороги - Трамвай/ San Mames
+Bolueta=EuskoTren /Р‘Р°СЃРєСЃРєРёРµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё/ Bolueta
+Casco Viejo=EuskoTren /Р‘Р°СЃРєСЃРєРёРµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё/ Casco Viejo
+Abando=RENFE /РСЃРїР°РЅСЃРєРёРµ РќР°С†РёРѕРЅР°Р»СЊРЅС‹Рµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё/ Abando
+Abando=FEVE /РЈР·РєРѕРєРѕР»РµР№РЅС‹Рµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё/ Bilbao
+Abando=EuskoTran /Р‘Р°СЃРєСЃРєРёРµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё - РўСЂР°РјРІР°Р№/ Abando
+San Mames=RENFE /РСЃРїР°РЅСЃРєРёРµ РќР°С†РёРѕРЅР°Р»СЊРЅС‹Рµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё/ San Mames
+San Mames=EuskoTran /Р‘Р°СЃРєСЃРєРёРµ Р–РµР»РµР·РЅС‹Рµ Р”РѕСЂРѕРіРё - РўСЂР°РјРІР°Р№/ San Mames
 

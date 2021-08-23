@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Произношение
-CityName=Athenas (Афины)
-StringToAdd='  Произношение (в скобках - под ударением): '
+Caption=РџСЂРѕРёР·РЅРѕС€РµРЅРёРµ
+CityName=Athenas (РђС„РёРЅС‹)
+StringToAdd='  РџСЂРѕРёР·РЅРѕС€РµРЅРёРµ (РІ СЃРєРѕР±РєР°С… - РїРѕРґ СѓРґР°СЂРµРЅРёРµРј): '
 
 [Line 1]
 ;Kifissia=
@@ -19,26 +19,26 @@ StringToAdd='  Произношение (в скобках - под ударением): '
 ;Kato Patissia=
 ;Aghios Nikolaos=
 ;Attiki=
-Victoria=Викт(о)рия
-Omonia=Ом(о)ниа
-Monastiraki=Монастир(а)ки
-Thissio=Thисс(и)о (в начале английский звук)
-Petralona=Пэтр(а)лона
-Tavros=Т(а)врос
-Kalithea=Каллиth(э)а (посредине - английский звук)
-Moschato=Мосх(а)то
-Faliro=Ф(а)лиро
-Piraeus=Пир(э)ас
+Victoria=Р’РёРєС‚(Рѕ)СЂРёСЏ
+Omonia=РћРј(Рѕ)РЅРёР°
+Monastiraki=РњРѕРЅР°СЃС‚РёСЂ(Р°)РєРё
+Thissio=ThРёСЃСЃ(Рё)Рѕ (РІ РЅР°С‡Р°Р»Рµ Р°РЅРіР»РёР№СЃРєРёР№ Р·РІСѓРє)
+Petralona=РџСЌС‚СЂ(Р°)Р»РѕРЅР°
+Tavros=Рў(Р°)РІСЂРѕСЃ
+Kalithea=РљР°Р»Р»Рёth(СЌ)Р° (РїРѕСЃСЂРµРґРёРЅРµ - Р°РЅРіР»РёР№СЃРєРёР№ Р·РІСѓРє)
+Moschato=РњРѕСЃС…(Р°)С‚Рѕ
+Faliro=Р¤(Р°)Р»РёСЂРѕ
+Piraeus=РџРёСЂ(СЌ)Р°СЃ
 
 [Line 2]
 ;Aghios Antonios=
 ;Sepolia=
 ;Attiki=
 ;Larissa=
-Metaxourghio=Метакс(у)ргио
-Omonia=Ом(о)ниа
-Panepistimio=Панепист(и)мио
-Syntagma=С(и)нтагма
+Metaxourghio=РњРµС‚Р°РєСЃ(Сѓ)СЂРіРёРѕ
+Omonia=РћРј(Рѕ)РЅРёР°
+Panepistimio=РџР°РЅРµРїРёСЃС‚(Рё)РјРёРѕ
+Syntagma=РЎ(Рё)РЅС‚Р°РіРјР°
 ;Akropoli=
 ;Syngrou-Fix=
 ;Neos Kosmos=
@@ -50,14 +50,14 @@ Syntagma=С(и)нтагма
 ;Egaleo=
 ;Eleonas=
 ;Kerameikos=
-Monastiraki=Монастир(а)ки
-Syntagma=С(и)нтагма
-Evangelismos=Эв(а)нгелисм(о)с
-Megaro Moussikis=Мегар(о) Муссык(и)с
-Ambelokipi=Амбел(о)кипи
-Panormou=Пан(о)рму
-Katehaki=Катэх(а)ки
-Ethniki Amyna=Эthн(и)ки (А)мина
-Halandri=Хал(а)ндри
-Doukissis Plakentias=Дук(и)ссис Плакент(и)ас
+Monastiraki=РњРѕРЅР°СЃС‚РёСЂ(Р°)РєРё
+Syntagma=РЎ(Рё)РЅС‚Р°РіРјР°
+Evangelismos=Р­РІ(Р°)РЅРіРµР»РёСЃРј(Рѕ)СЃ
+Megaro Moussikis=РњРµРіР°СЂ(Рѕ) РњСѓСЃСЃС‹Рє(Рё)СЃ
+Ambelokipi=РђРјР±РµР»(Рѕ)РєРёРїРё
+Panormou=РџР°РЅ(Рѕ)СЂРјСѓ
+Katehaki=РљР°С‚СЌС…(Р°)РєРё
+Ethniki Amyna=Р­thРЅ(Рё)РєРё (Рђ)РјРёРЅР°
+Halandri=РҐР°Р»(Р°)РЅРґСЂРё
+Doukissis Plakentias=Р”СѓРє(Рё)СЃСЃРёСЃ РџР»Р°РєРµРЅС‚(Рё)Р°СЃ
 

@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=1
-Caption=Ссылки
-CityName=Ташкент
-StringToAdd='  Ссылка на статью в Википедии: '
+Caption=РЎСЃС‹Р»РєРё
+CityName=РўР°С€РєРµРЅС‚
+StringToAdd='  РЎСЃС‹Р»РєР° РЅР° СЃС‚Р°С‚СЊСЋ РІ Р’РёРєРёРїРµРґРёРё: '
 
 [Chilonzor]
 Olmazor=http://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%BC%D0%B0%D0%B7%D0%BE%D1%80_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
