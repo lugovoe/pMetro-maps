@@ -8,7 +8,7 @@
 *.txt	working-tree-encoding=CP1251	eol=CRLF
 
 *.cty	working-tree-encoding=CP1251	eol=CRLF
-*.grd	working-tree-encoding=CP1251	eol=CRLF
+*.grd	working-tree-encoding=CP1251	eol=CRLF	linguist-generated	linguist-language=ini
 *.map	eol=CRLF
 *.pms	working-tree-encoding=CP1251	eol=CRLF
 *.trp	eol=CRLF
